@@ -1,0 +1,930 @@
+#AREADATA
+Name        Nyria    Santa's Workshop~
+Builders    Nyria~
+VNUMs       50201 50300
+Security    1
+Recall      3005
+End
+
+
+
+#MOBILES
+#50201
+reindeer Rudolph~
+Rudolph~
+Rudolph stands here, nose glowing brightly.
+~
+Here stands Rudolph, ready to take Santa everywhere that he needs to go.
+~
+19 0 1000 S
+196 0 0 15d0+0 0d0+0
+0 0
+0 0 1
+#50202
+elf stable~
+A Stable elf~
+An elf is here working hard to keep the reindeer happy.
+~
+One of Santa's many elves here to work for him.
+~
+17 0 1000 S
+99 0 0 5d0+0 0d0+0
+0 0
+0 0 0
+#50203
+small brown mouse~
+A small brown mouse~
+A brown mouse is here looking for food.
+~
+~
+17 0 1000 S
+98 0 0 5d0+0 0d0+0
+0 0
+0 0 0
+#50204
+reindeer~
+Dasher~
+Dasher, smallest of Santa's reindeer, stands here ready to play.
+~
+He looks pretty energetic.
+~
+19 0 1000 S
+152 0 0 10d0+0 0d0+0
+0 0
+0 0 1
+#50205
+reindeer dancer~
+Dancer~
+Dancer lies here taking a nap.
+~
+She looks very peaceful as she sleeps.
+~
+19 0 1000 S
+152 0 0 10d0+0 0d0+0
+0 0
+0 0 2
+#50206
+reindeer prancer~
+Prancer~
+Prancer stands in the corner watching you with wonder.
+~
+~
+19 0 1000 S
+151 0 0 7d0+0 0d0+0
+0 0
+0 0 0
+#50207
+reindeer Vixen~
+Vixen~
+Vixen is here ready to play.
+~
+~
+19 0 1000 S
+123 0 0 5d0+0 0d0+0
+0 0
+0 0 2
+#50208
+reindeer comet~
+Comet~
+Comet stands here waiting for his food.
+~
+~
+19 0 750 S
+152 0 0 8d0+0 0d0+0
+0 0
+0 0 1
+#50209
+reindeer cupid~
+Cupid~
+Cupid is here waiting for a visit with Santa.
+~
+~
+19 0 1000 S
+122 0 0 5d0+0 0d0+0
+0 0
+0 0 1
+#50210
+reindeer donner~
+Donner~
+Donner stands here wanting to be let out.
+~
+~
+19 0 500 S
+177 0 0 10d0+0 0d0+0
+0 0
+0 0 1
+#50211
+reindeer blitzen~
+Blitzen~
+Blitzen is standing here, happy to be alive.
+~
+~
+19 0 1000 S
+146 0 0 10d0+0 0d0+0
+0 0
+0 0 1
+#50212
+game elf~
+an elf~
+An elf is standing here working on a video game.
+~
+~
+17 0 500 S
+99 0 0 6d0+0 0d0+0
+0 0
+0 0 1
+#50213
+doll elf~
+an elf~
+An elf is standing here putting together a doll.
+~
+~
+17 0 0 S
+149 0 0 10d0+0 0d0+0
+0 0
+0 0 2
+#50214
+elf Nissefar~
+Nissefar~
+Nissefar is standing here, telling the others what to do.
+~
+~
+19 136 1000 S
+247 0 0 15d0+0 0d0+0
+0 0
+0 0 1
+#50216
+elf delonin~
+Delonin~
+Delonin is here working on his toy soldiers.
+~
+~
+19 128 1000 S
+248 0 0 15d1+1 0d0+0
+0 0
+0 0 1
+#50217
+toy soldier~
+A Toy Soldier~
+An oversized Toy Soldier stands here.
+~
+~
+19 0 500 S
+151 0 0 10d0+0 0d0+0
+0 0
+0 0 1
+#50218
+santa clause saint nickolai joly~
+Jolly Ole Saint Nick~
+A Large man, with a long white beard stands here saying "Ho Ho Ho".
+~
+Its Santa Clause.  Old Saint Nickolaus.  Hes here in his workshop
+watching over his elves.  Preparing gifts for the kids out there.  The best
+go to the good ones.  Yet the bad ones still get something.  For Santa is
+nice to everyone and loves all like they were his own children.  
+~
+3 144 1000 S
+299 0 0 1d1+0 0d0+0
+0 0
+0 0 1
+#50219
+Mrs. Claus~
+Mrs. Claus~
+Santa's wife is standing here
+~
+Mrs. C is here looking for her husband. She is trying to get him to eat as much as he can in order to stick to his image.
+~
+17 128 1000 S
+301 0 0 15d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#50201
+nose glowing brightly~
+a brightly glowing red nose~
+This nose looks strangely familiar.....~
+~
+9 1 -1015807
+10 0 0 45
+5 0 0
+A
+1 3
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#50202
+work gloves~
+a pair of sturdy work gloves~
+A pair of sturdy work gloves used to protect your hands~
+~
+9 0 129
+0 0 0 0
+5 0 0
+A
+1 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#50203
+shoes green~
+a pair of pointy toed elf shoes~
+A small pair of elf shoes~
+~
+9 1 65
+10 0 0 88
+4 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#50204
+glasses spectacles~
+a pair of glasses~
+A pair of glasses~
+~
+9 0 -1015807
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#50207
+Start over~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#50209
+reindeer cupid~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#50210
+reindeer donner~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#50221
+Corner of the loft~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#50201
+Main Hall of the Reindeer Stables~
+A short distance to the south, the doors at the entrance to the stable can be seen.
+~
+0 0 0
+D0
+~
+~
+0 0 50202
+D1
+~
+~
+0 0 50212
+D2
+~
+~
+0 0 50213
+D3
+~
+~
+0 0 50211
+S
+#50202
+Main Hall of the Reindeer Stables~
+~
+0 0 0
+D0
+~
+~
+0 0 50203
+D1
+~
+~
+0 0 50210
+D2
+~
+~
+0 0 50201
+D3
+~
+~
+0 0 50209
+S
+#50203
+Main Hall of the Reindeer Stables~
+You are standing south of the northern wall of the stable.
+~
+0 0 0
+D0
+~
+~
+0 0 50204
+D1
+~
+~
+0 0 50208
+D2
+~
+~
+0 0 50202
+D3
+~
+~
+0 0 50207
+S
+#50204
+Northern end of the Reindeer Stables~
+This is the northern most end of the stables.  You can hear the hustle
+and bustle of elves everywhere, trying to prepare the reindeer for their
+upcoming trip.  The majority of the elves at this end of the stables are
+carrying food down from the loft so that it may be taken to all of the
+reindeer.  
+~
+0 0 0
+D1
+~
+~
+0 0 50206
+D2
+~
+~
+0 0 50203
+D3
+~
+~
+0 0 50205
+D4
+~
+~
+3 0 50216
+S
+#50205
+Rudolph's Stall~
+You are standing in a large elegant stall belonging to the legendary Rudolph.
+~
+0 0 0
+D1
+~
+~
+0 0 50204
+S
+#50206
+Storge Room~
+You are standing in the middle of a large room filled with the many things that are needed to keep the reindeer. Everything from food to a sleigh harness can be found in this room.
+~
+0 0 0
+D3
+~
+~
+0 0 50204
+S
+#50207
+Dasher's Stall~
+There is a small gold plaque on the wall that reads 'Dasher'.
+~
+0 0 0
+D1
+~
+~
+0 0 50203
+S
+#50208
+Dancer's Stall~
+This is a very quiet stall. All the elves tiptoe by in order not to wake the sleeping reindeer.
+~
+0 0 0
+D3
+~
+~
+0 0 50203
+S
+#50209
+Prancer's Stall~
+You are standing in the stall of Prancer.
+~
+0 0 0
+D1
+~
+~
+0 0 50202
+S
+#50210
+Vixen's Stall~
+You are standing in the middle of a well trampled stall. It looks as if the floor has be walked on a lot.
+~
+0 0 0
+D3
+~
+~
+0 0 50202
+S
+#50211
+Comet's Stall~
+You are standing in the stall of the speedy reindeer Comet.
+~
+0 0 0
+D1
+~
+~
+0 0 50201
+S
+#50212
+Cupid's Stall~
+This is the stall of the loveable Cupid.
+~
+0 0 0
+D3
+~
+~
+0 0 50201
+S
+#50213
+Entrance to the Reindeer Stables~
+You are standing in the entrace to Santa's reindeer stables. You can hear the sounds of the reindeer coming from every direction.
+~
+0 0 0
+D0
+~
+~
+0 0 50201
+D1
+~
+~
+0 0 50215
+D2
+~
+~
+3 0 50220
+D3
+~
+~
+0 0 50214
+S
+#50214
+Donner's Stall~
+You are standing in the stall of Donner.
+~
+0 0 0
+D1
+~
+~
+0 0 50213
+S
+#50215
+Blitzen's Stall~
+You are standing in the stall of Blitzen.
+~
+0 0 0
+D3
+~
+~
+0 0 50213
+S
+#50216
+A large feed loft~
+~
+0 0 0
+D1
+~
+~
+0 0 50218
+D2
+~
+~
+0 0 50217
+D3
+~
+~
+0 0 50219
+D5
+~
+~
+3 0 50204
+S
+#50217
+Southern wall of the loft~
+~
+0 0 0
+D0
+~
+~
+0 0 50216
+D1
+~
+~
+0 0 50222
+D3
+~
+~
+0 0 50221
+S
+#50218
+Side of the loft~
+~
+0 0 0
+D2
+~
+~
+0 0 50222
+D3
+~
+~
+0 0 50216
+S
+#50219
+Side of the loft~
+~
+0 0 0
+D1
+~
+~
+0 0 50216
+D2
+~
+~
+0 0 50221
+S
+#50220
+Outside the Stables~
+You are standing just south of the doors to the stables. To the south of you is the path that leads to the workshop area.
+~
+0 0 0
+D0
+~
+~
+3 0 50213
+D2
+~
+~
+0 0 50223
+S
+#50221
+Corner of the loft~
+~
+0 0 0
+D0
+~
+~
+0 0 50219
+D1
+~
+~
+0 0 50217
+S
+#50222
+Southeast corner of the loft~
+~
+0 0 0
+D0
+~
+~
+0 0 50218
+D3
+~
+~
+0 0 50217
+S
+#50223
+A path near the stable.~
+You are standing on the path halfway between the Stables and the Workshop.
+~
+0 0 0
+D0
+~
+~
+0 0 50220
+D3
+~
+~
+0 0 50224
+S
+#50224
+Path towards the workshop.~
+You are standing just to the east of the backdoor of the Workshop.
+~
+0 0 0
+D1
+~
+~
+0 0 50223
+D3
+~
+~
+3 0 50225
+S
+#50225
+Entrance to the Workshop~
+You are standing in the entrace to Santa's Workshop.  You can see elves
+moving about in all directions trying to do some last minute work so that
+the toys can be ready.  
+~
+0 0 0
+D0
+~
+~
+0 0 50226
+D1
+~
+~
+3 0 50224
+D2
+~
+~
+0 0 50227
+D3
+~
+~
+0 0 50229
+S
+#50226
+A Room in the Workshop~
+This corner of the Workshop is piled high with toy parts.  Everything
+that the elves could need to work on the toys can be found here.  
+~
+0 0 0
+D2
+~
+~
+0 0 50225
+D3
+~
+~
+0 0 50228
+S
+#50227
+A Room in the Workshop~
+You are standing in a huge room filled with all kinds of toys.  Elves can
+be seen everywhere rushing to finish the few remaining toys.  
+~
+0 0 0
+D0
+~
+~
+0 0 50225
+D3
+~
+~
+0 0 50230
+S
+#50228
+A Room in the Workshop~
+You are standing on the northernmost wall of the Workshop.  To the south
+of you there is a large elf that seems to be giving out orders.  
+~
+0 0 0
+D1
+~
+~
+0 0 50226
+D2
+~
+~
+0 0 50229
+D3
+~
+~
+0 0 50231
+S
+#50229
+A Room in the Workshop~
+You are standing in the middle of this huge building. You can see movement in every direction.
+~
+0 0 0
+D0
+~
+~
+0 0 50228
+D1
+~
+~
+0 0 50225
+D2
+~
+~
+0 0 50230
+D3
+~
+~
+0 0 50233
+S
+#50230
+A Room in the Workshop~
+You are standing near the southern wall of the Workshop.
+~
+0 0 0
+D0
+~
+~
+0 0 50229
+D1
+~
+~
+0 0 50227
+D3
+~
+~
+0 0 50232
+S
+#50231
+Northwest corner of the Workshop~
+To the west of you is a huge door that appears to be the front door of
+the Workshop.  
+~
+0 0 0
+D1
+~
+~
+0 0 50228
+D2
+~
+~
+0 0 50233
+D3
+~
+~
+3 0 50234
+S
+#50232
+Southwest corner of the Workshop~
+You are standing in the southwestern corner of the huge Workshop.
+~
+0 0 0
+D0
+~
+~
+0 0 50233
+D1
+~
+~
+0 0 50230
+D3
+~
+~
+3 0 50235
+S
+#50233
+A Room in the Workshop~
+You are on the western wall of the Workshop. To the north of you there is a huge door leading outside.
+~
+0 0 0
+D0
+~
+~
+0 0 50231
+D1
+~
+~
+0 0 50229
+D2
+~
+~
+0 0 50232
+S
+#50234
+Front Door of the Workshop~
+~
+0 0 0
+D1
+~
+~
+3 0 50231
+S
+#50235
+Delonin's Workshop~
+You are standing in the workshop of Delonin.  Parts used to make his
+special toy soldiers are spread about the room.  The main Workshop is out
+the door to your east.  
+~
+0 0 0
+D1
+~
+~
+3 0 50232
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 50202 2 50201
+M 0 50202 2 50202
+M 0 50202 2 50203
+M 0 50202 2 50204
+M 0 50201 1 50205
+G 0 50201 0
+M 0 50204 1 50207
+M 0 50205 1 50208
+E 0 50202 0 9
+M 0 50206 1 50209
+M 0 50207 1 50210
+M 0 50208 1 50211
+E 0 50203 0 8
+M 0 50209 1 50212
+M 0 50202 5 50213
+M 0 50210 1 50214
+M 0 50211 1 50215
+M 0 50203 4 50216
+M 0 50203 4 50216
+M 0 50212 8 50226
+M 0 50212 8 50226
+M 0 50212 8 50226
+M 0 50213 5 50228
+M 0 50219 1 50228
+M 0 50214 1 50229
+M 0 50213 8 50230
+M 0 50218 1 50230
+M 0 50212 8 50231
+M 0 50212 8 50233
+M 0 50212 8 50233
+M 0 50213 8 50233
+M 0 50217 10 50233
+M 0 50216 1 50235
+M 0 50217 10 50235
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

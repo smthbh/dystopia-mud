@@ -1,0 +1,62 @@
+#AREADATA
+Name        Drakov   Video Land~
+Builders    Drakov~
+VNUMs       60000 60100
+Security    1
+Recall      3005
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#60000
+Entrance to Video Game Land~
+This is the entrance to Video Game Land.  An alternate dimension which
+brings video games to reality.  There are many multicolored flashing portals
+upahead, each leading to a alternate universe of wonders.  
+~
+0 0 0
+D0
+~
+~
+0 0 60001
+S
+#60001
+Video Game Land Portals~
+~
+0 0 0
+D2
+~
+~
+0 0 60000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

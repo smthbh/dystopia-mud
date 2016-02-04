@@ -1,0 +1,1320 @@
+#AREADATA
+Name        Jatr     Village of Kakakaru~
+Builders    Jatr~
+VNUMs       77001 77100
+Security    1
+Recall      3005
+End
+
+
+
+#MOBILES
+#77001
+tiger~
+a tiger~
+A fierce tiger stalks the area
+~
+The tiger roams the forest for prey.
+~
+57 98816 0 S
+90 0 0 0d5+2 0d0+0
+0 0
+0 0 0
+#77002
+red ninja~
+a red ninja~
+A red ninja jumps infront of you.
+~
+A member of the Red Dragon Ninja Clan, he doesnt like 
+outsiders.
+~
+9 98304 0 S
+100 0 0 1d3+2 0d0+0
+0 0
+0 0 1
+#77003
+black ninja~
+a black ninja~
+A black ninja sneaks around the area
+~
+This member of the Black Dragon Ninja Clan
+lives to kill. Perhaps you shouldnt bother him.
+~
+1 32768 -200 S
+111 0 0 1d4+1 0d0+0
+0 0
+0 0 1
+#77004
+white ninja~
+a white ninja~
+A white ninja studies you intensly
+~
+Member of the White Dragon Ninja Clan, he
+is devoted to his clan, and will risk his life for it.
+~
+1 32768 200 S
+104 0 0 2d2+2 0d0+0
+0 0
+0 0 1
+#77005
+Store Owner Ninja~
+The Kakakaru Store Owner~
+The Kakakaru store owner peers at you.
+~
+This is not some lazy fat guy. Before owning this store
+he made his living as an assassin for hire.
+~
+3 32936 0 S
+124 0 0 0d3+0 0d0+0
+0 0
+0 0 1
+#77006
+ninja assassin~
+a stealthy ninja assassin~
+An assassin leaps at you, wanting to collect a prize
+~
+He's looking to kill you.
+~
+9 98824 -500 S
+100 0 0 0d5+0 0d0+0
+0 0
+0 0 1
+#77008
+red ninja guard~
+a red ninja guard~
+A guard of the Red Dragon Ninja Clan
+~
+He is dressed in a red ninja uniform and holds
+a ninja sword closely. He has dedicated his life
+to protecting his clan and his master.
+~
+3 33320 0 S
+141 0 0 10d0+0 0d0+0
+0 0
+0 0 1
+#77009
+black ninja guard~
+a black ninja guard~
+A black guard is here hiding in the shadows
+~
+Its really dark and hard to see what he looks like.
+~
+11 107008 -200 S
+115 0 0 2d5+2 0d0+0
+0 0
+0 0 1
+#77010
+white ninja guard~
+a white ninja guard~
+A Guard of the White Dragon Ninja clan stands firm
+~
+This white ninja protects the shrine from all threats.
+~
+3 40960 200 S
+109 0 0 20d0+0 0d0+0
+0 0
+0 0 1
+#77011
+red ninja leader saiya~
+Saiya, leader of the Red Dragon Ninja Clan~
+Saiya stands up as you enter the room
+~
+You are suprised to see that a beautiful girl is the
+leader of the Red Dragon Ninja Clan. She doesnt
+wear a mask like the other ninjas, and she smiles
+at you as she draws her weapon. Is she a friend
+or enemy.
+~
+3 168 0 S
+149 0 0 4d4+3 0d0+0
+0 0
+0 0 2
+#77012
+Carolipio black ninja leader~
+Carolipio, the Black Dragon clan leader~
+Carolipio grins at you and wishes to fight
+~
+He is a master of the Nunchuku, lets hope he likes you.
+~
+3 33408 -500 S
+151 0 0 2d13+3 0d0+0
+0 0
+0 0 1
+#77013
+White Ninja Leader Seifu~
+The White Dragon Leader, Seifu~
+Seifu stands here with his Glowing Naginata
+~
+Covered up in a white uniform with Gold trim, 
+He carries with him the legendary Naginata, The Dragons Wing
+~
+3 32896 500 S
+153 0 0 5d10+3 0d0+0
+0 0
+0 0 1
+#77014
+Gorki~
+Gorki~
+Gorki flashes with light and attacks!
+~
+The 1st god of the pagoda, Gorki is ready for a fight.
+~
+11 648 0 S
+301 0 0 20d20+3 0d0+0
+0 0
+0 0 0
+#77015
+Sheiku~
+Shieku~
+Sheiku waits for you to make the first move
+~
+The 2nd god of the pagoda. Sheiku's defences
+can withstand most attacks. He's not worried about you.
+~
+3 8320 0 S
+350 0 0 50d0+0 0d0+0
+0 0
+0 0 0
+#77016
+Chekov~
+Chekov~
+Chekov is hovering in the air
+~
+Chekov is the 3rd god of the pagoda. He has
+giant wings and sharp talons.
+~
+3 533128 0 S
+400 0 0 10d20+0 0d0+0
+0 0
+0 0 0
+#77017
+Stanov~
+Stanov~
+Stanov charges up his power
+~
+Stanov , the 4th God is a little out of practice.
+Its been quite a long time sense anyone has made it
+this far up the pagoda.
+~
+3 136 0 S
+450 0 0 20d20+0 0d0+0
+0 0
+0 0 0
+#77018
+Godo~
+Godo~
+Godo, the 5th God of the Pagoda
+~
+You stare blankly at a large creature. He has
+three different faces that alternate in a circle around
+his head. This is Godo, the 5th and most powerful
+god of the pagoda.
+~
+3 8888 0 S
+499 0 0 20d20+3 0d0+0
+0 0
+0 0 0
+#77019
+Yuffie~
+Yuffie~
+A young girl sneaks around the area
+~
+You look at a teenage girl, she seems to be
+planning something. Watch, she's going for your wallet.
+~
+3 98440 50 S
+423 0 0 0d10+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#77001
+ninja sword~
+a ninja sword~
+A long sword with a dragon encrested on it sits here.~
+~
+5 0 8193
+0 1 5 1
+2 45 0
+A
+2 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#77002
+ninja dagger~
+a ninja dagger~
+A small sharp dagger is laying in the dust~
+~
+5 0 8193
+0 2 5 11
+3 25 0
+A
+2 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#77010
+test~
+test~
+Test~
+~
+5 0 8193
+154 0 0 1
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#77011
+red fang sai~
+a red fang Sai~
+A legendary sai, known as the Red Fang shimmers with fire~
+~
+5 0 8193
+11000 5 10 2
+2 5000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#77012
+dark dragon nunchuku~
+dark Dragon Nunchuku~
+A pair of nunchuku lay here radiating of darkness~
+~
+5 512 8193
+4 6 6 7
+5 100000 0
+A
+18 2
+A
+19 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#77013
+dragon wing naginata~
+the Dragon's Wing~
+A gold glowing naginata hovers in the air~
+~
+5 1025 24577
+7000 5 5 3
+10 100000 0
+A
+1 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#77001
+The Lost Trail~
+You stumble through some trees and bushes and find
+another path hidden in these woods. Curiosity keeps you
+going ahead. What mysteries lay ahead.
+~
+0 0 0
+D0
+~
+~
+0 0 77002
+S
+#77002
+The Lost Trail~
+The trails continues on, deeper into the forest.
+~
+0 0 0
+D0
+~
+~
+0 0 77003
+D2
+~
+~
+0 0 77001
+D3
+~
+~
+0 0 77005
+S
+#77003
+The Lost Trail~
+The trails continues on, deeper into the forest.
+~
+0 0 0
+D0
+~
+~
+0 0 77004
+D2
+~
+~
+0 0 77002
+S
+#77004
+Forked Trail~
+The trail splits off in two directions here. Which
+way should you go. Perhaps you'd better just turn around
+before you become lost forever.
+~
+0 0 0
+D0
+~
+~
+0 0 77005
+D1
+~
+~
+0 0 77006
+D2
+~
+~
+0 0 77003
+S
+#77005
+The Lost Trail~
+Looks like you have gotten lost. These woods are tricky.
+~
+0 0 0
+D1
+~
+~
+0 0 77002
+D2
+~
+~
+0 0 77004
+S
+#77006
+The Lost Trail~
+You look ahead and see an opening. Maby there is
+someone there who can help you find your way.
+~
+0 4 0
+D0
+~
+~
+0 0 77007
+D3
+~
+~
+0 0 77004
+S
+#77007
+Entrance to the Hidden Village of Kakakaru~
+Your have found a village hidden back in the forest.
+Maby it wasnt meant to be found. Just ask one of the
+inhabitors. I'm sure they'll be happy to escort you out.
+~
+0 0 0
+D0
+~
+~
+0 0 77008
+D2
+~
+~
+0 0 77006
+S
+#77008
+The Village Center~
+The village seems quiet and peacefull. You see a few
+strangers walking around swiftly. Their entire body
+is covered by clothing and you see many of them carry
+weapons. Looks like you stumbled into a village of Ninjas
+~
+0 0 0
+D0
+~
+~
+0 0 77011
+D1
+~
+~
+3 0 77009
+D2
+~
+~
+0 0 77007
+D3
+~
+~
+0 0 77010
+S
+#77009
+Kakakaru Store~
+Several weapons and clothing lay scattered around.
+Smoke bombs and shirokens can be found as well. You 
+think about buying something, but the owners dont like
+strangers. You better leave.
+~
+0 8 0
+E
+door~
+~
+D3
+~
+~
+3 0 77008
+S
+#77010
+West of the Center~
+Just west of the Village center. Nothing much to do here.
+~
+0 0 0
+D0
+~
+~
+0 0 77018
+D1
+~
+~
+0 0 77008
+D2
+~
+~
+0 0 77028
+D3
+~
+~
+0 0 77027
+S
+#77011
+Kakakaru Path~
+You follow a pathway north of the village center. To the east 
+a small alleyway leads behind the store. To the north the
+path continues.
+~
+0 0 0
+D0
+~
+~
+0 0 77015
+D1
+~
+~
+0 0 77012
+D2
+~
+~
+0 0 77008
+D3
+~
+~
+0 0 77018
+S
+#77012
+The Alleyway~
+A small dark alley between the store and a tavern.
+~
+0 0 0
+D1
+~
+~
+0 0 77013
+D3
+~
+~
+0 0 77011
+S
+#77013
+Back of the Alley~
+South leads you behind the store. The only other way
+you can go is to turn back around.
+~
+0 0 0
+D2
+~
+~
+0 0 77014
+D3
+~
+~
+0 0 77012
+S
+#77014
+Behind the Store~
+Your behind the store. Not all ninjas a part of the clans.
+This area is used by the rouge Ninjas to deal and plot.
+~
+0 0 0
+D0
+~
+~
+0 0 77013
+S
+#77015
+In Front of the Tavern~
+The small Tavern to the east is the place for the
+Ninja to eat and drink. Perhaps you could find some 
+good food there. Or perhaps a good fight.
+~
+0 0 0
+D0
+~
+~
+0 0 77017
+D1
+~
+~
+3 0 77016
+D2
+~
+~
+0 0 77011
+S
+#77016
+Inside the Kakakaru Tavern~
+A few tables and chairs fill this room. Nobody says 
+a word as you enter, however you feel unwanted.
+~
+0 0 0
+D1
+~
+~
+0 0 77019
+D3
+~
+~
+3 0 77015
+S
+#77017
+Outside the White Dragon Clan's Temple~
+To your west stand a grand temple covered 
+gold and silver. A large White Dragon is carved
+over the entrance. As if protecting it from intruders.
+~
+0 0 0
+D0
+~
+~
+0 0 77033
+D2
+~
+~
+0 0 77015
+D3
+~
+~
+7 0 77025
+S
+#77018
+Kakakaru Village~
+A few wooden huts are off to you west and a large one
+to the north. East brings you back to the path.
+~
+0 0 0
+D0
+~
+~
+3 0 77020
+D1
+~
+~
+0 0 77011
+D2
+~
+~
+0 0 77010
+S
+#77019
+The back of the tavern~
+~
+0 8 0
+D3
+~
+~
+0 0 77016
+S
+#77020
+House of the Red Dragon Clan Leader~
+You enter a large wooden building. Inside the place is
+decorated with statues, paintings, and a large oriental rug.
+A large door is before you surounded by guards.
+~
+0 8 0
+D0
+~
+~
+5 0 77023
+D1
+~
+~
+0 0 77022
+D2
+~
+~
+3 0 77018
+D3
+~
+~
+0 0 77021
+S
+#77021
+Stairway to the basement~
+~
+0 8 0
+D1
+~
+~
+0 0 77020
+D5
+~
+~
+0 0 77024
+S
+#77022
+Treasure room of the Red Ninjas~
+This is the treausre room of the red ninjas.
+Surprisingly nothing it in here. Where have all their
+treasures gone
+~
+0 0 0
+D3
+~
+~
+0 0 77020
+S
+#77023
+Chambers of Saiya~
+This is the main chambers of the Red Dragon Clan
+Leader, Saiya.
+~
+0 8 0
+D2
+~
+~
+5 0 77020
+S
+#77024
+The Basement~
+Underneath the building, its dark and hard to see.
+It smells of dust and dirt.
+~
+0 9 0
+D4
+~
+~
+0 0 77021
+S
+#77025
+The White Dragon Shrine~
+You enter a small well lighted room
+White dragons lined with gold decorate
+the walls. A golden light shines ahead.
+Up the stairs to see where its coming from.
+~
+0 8 0
+D1
+~
+~
+7 0 77017
+D4
+~
+~
+0 0 77026
+S
+#77026
+Top of the Shrine~
+You race up the stairs to see what is glowing.
+Before you stands a White Dragon Ninja carrying
+a golden Naginata. This must be the White Leader.
+~
+0 8 0
+D5
+~
+~
+0 0 77025
+S
+#77027
+To the Academy~
+Just west of here is the Ninja training Academy.
+Where clan hopefulls practice and learn the art
+of Ninjitsu and stealth.
+~
+0 0 0
+D0
+~
+~
+7 0 77031
+D1
+~
+~
+0 0 77010
+D3
+~
+~
+0 0 77035
+S
+#77028
+Base of the Alliance Tree~
+You stand at the base of a large tree. A rope 
+ladder leads upwards into the tree.
+~
+0 0 0
+D0
+~
+~
+0 0 77010
+D4
+~
+~
+0 0 77029
+S
+#77029
+In the Alliance Tree~
+This tree was first planted when the 
+Ninja decided to make this place their home.
+The Tree represents the alliance of the three
+clans in this village. Also it servers as a place of
+communication with those who seek the aid of a ninja.
+~
+0 0 0
+D4
+~
+~
+0 0 77030
+D5
+~
+~
+0 0 77028
+S
+#77030
+Top of the Alliance Tree~
+This is wear messages delieverd by pigeons, 
+are dropped off. They are then carried to the center
+and placed in a basket for ninja to accept an offer.
+~
+0 0 0
+D5
+~
+~
+0 0 77029
+S
+#77031
+Hideout of the Black Dragon Ninjas~
+Through the locked door you find yourself
+now in a bare room, with black ninjas surrounding
+you. This must be their hideout that you found.
+~
+0 9 0
+D0
+~
+~
+0 0 77032
+D2
+~
+~
+7 0 77027
+S
+#77032
+Inside the Black Ninja's Hideout~
+The place is dark and dirty. Seems that the black
+dragon Ninjas dont care much for fancy decorations.
+Some would call them theives, but then again, thieves
+dont usually earn what they take. These ninjas make
+sure that what they steal, no longer has an owener.
+~
+0 9 0
+D1
+~
+~
+0 0 77027
+D2
+~
+~
+0 0 77031
+D3
+~
+~
+0 0 77034
+S
+#77033
+To the Pagoda~
+Up ahead on the trail is a large ancient pagoda.
+The ninja are very protective of it... what could
+be inside?
+~
+0 0 0
+D2
+~
+~
+0 0 77017
+D3
+~
+~
+0 0 77036
+S
+#77034
+Carolipio's Solitude~
+Only the Black Dragon Leader is allowed in hear.
+You might find yourself in more trouble than you can 
+handle if you dont get out quick.
+~
+0 9 0
+D1
+~
+~
+0 0 77032
+S
+#77035
+The Gates of the Academy~
+What used to be an acadamey lays in ruins.
+After the great war, the academy was destroyed.
+You look around and become saddened of the loss.
+~
+0 0 0
+D1
+~
+~
+0 0 77027
+S
+#77036
+On the Trail to the Pagoda~
+~
+0 0 0
+D0
+~
+~
+0 0 77037
+D1
+~
+~
+0 0 77033
+S
+#77037
+On the Trail to the Pagoda~
+~
+0 0 0
+D1
+~
+~
+0 0 77038
+D2
+~
+~
+0 0 77036
+S
+#77038
+Before the Pagoda of the Five Gods~
+~
+0 0 0
+D0
+~
+~
+3 0 77039
+D3
+~
+~
+0 0 77037
+S
+#77039
+Entrance to the Pagoda of the Five Gods~
+~
+0 8 0
+D0
+~
+~
+3 0 77040
+D2
+~
+~
+3 0 77038
+D3
+~
+~
+0 0 77041
+S
+#77040
+The First God~
+~
+0 8 0
+D2
+~
+~
+3 0 77039
+S
+#77041
+Inside the Pagoda~
+~
+0 8 0
+D0
+~
+~
+0 0 77042
+D1
+~
+~
+0 0 77039
+S
+#77042
+Inside the Pagoda~
+~
+0 8 0
+D2
+~
+~
+0 0 77041
+D4
+~
+~
+0 0 77043
+S
+#77043
+Inside the Pagoda~
+~
+0 8 0
+D2
+~
+~
+0 0 77044
+D5
+~
+~
+0 0 77042
+S
+#77044
+Inside the Pagoda~
+~
+0 8 0
+D0
+~
+~
+0 0 77043
+D1
+~
+~
+0 0 77045
+S
+#77045
+Inside the Pagoda~
+~
+0 8 0
+D0
+~
+~
+3 0 77046
+D3
+~
+~
+0 0 77044
+S
+#77046
+The Second God~
+~
+0 8 0
+D2
+~
+~
+3 0 77045
+D4
+~
+~
+0 0 77047
+S
+#77047
+Inside the Pagoda~
+~
+0 8 0
+D2
+~
+~
+0 0 77048
+D5
+~
+~
+0 0 77046
+S
+#77048
+Inside the Pagoda~
+~
+0 8 0
+D0
+~
+~
+0 0 77047
+D3
+~
+~
+0 0 77049
+S
+#77049
+Inside the Pagoda~
+~
+0 8 0
+D0
+~
+~
+3 0 77050
+D1
+~
+~
+0 0 77048
+S
+#77050
+The Third God~
+~
+0 8 0
+D2
+~
+~
+3 0 77049
+D4
+~
+~
+0 0 77051
+S
+#77051
+Inside the Pagoda~
+~
+0 8 0
+D2
+~
+~
+0 0 77052
+D5
+~
+~
+0 0 77050
+S
+#77052
+Inside the Pagoda~
+~
+0 8 0
+D0
+~
+~
+0 0 77051
+D1
+~
+~
+0 0 77053
+S
+#77053
+Inside the Pagoda~
+~
+0 8 0
+D0
+~
+~
+3 0 77054
+D3
+~
+~
+0 0 77052
+S
+#77054
+The Fourth God~
+~
+0 8 0
+D2
+~
+~
+3 0 77053
+D4
+~
+~
+0 0 77055
+S
+#77055
+Inside the Pagoda~
+~
+0 8 0
+D2
+~
+~
+0 0 77056
+D5
+~
+~
+0 0 77054
+S
+#77056
+Inside the Pagoda~
+~
+0 8 0
+D0
+~
+~
+0 0 77055
+D3
+~
+~
+0 0 77057
+S
+#77057
+Inside the Pagoda~
+~
+0 8 0
+D0
+~
+~
+3 0 77058
+D1
+~
+~
+0 0 77056
+S
+#77058
+The Fifth God~
+~
+0 8 0
+D2
+~
+~
+3 0 77057
+D4
+~
+~
+3 0 77059
+S
+#77059
+Top of the Pagoda~
+You have reached the top of the Pagoda
+and can go no further. Only a true warrior that
+has beaten all five gods is worthy to be here.
+Are you worthy. or did you just cheat your way here?
+Only you and the Gods know the truth.
+~
+0 8 0
+D5
+~
+~
+3 0 77058
+S
+#0
+
+
+
+#SPECIALS
+M 77016 spec_poison
+M 77018 spec_cast_mage
+M 77019 spec_thief
+S
+
+
+
+#RESETS
+M 0 77001 1 77003
+M 0 77002 2 77008
+E 0 77002 0 16
+M 0 77004 2 77008
+E 0 77002 0 16
+M 0 77005 1 77009
+M 0 77002 2 77011
+E 0 77001 0 16
+M 0 77003 2 77011
+E 0 77001 0 16
+M 0 77004 2 77011
+E 0 77001 0 16
+M 0 77002 2 77011
+E 0 77002 0 16
+M 0 77003 2 77011
+E 0 77002 0 16
+M 0 77004 2 77011
+E 0 77002 0 16
+M 0 77006 2 77014
+E 0 77002 0 16
+M 0 77004 3 77015
+E 0 77001 0 16
+M 0 77003 3 77015
+E 0 77001 0 16
+M 0 77002 3 77015
+E 0 77001 0 16
+M 0 77004 5 77017
+E 0 77001 0 16
+M 0 77002 2 77018
+E 0 77001 0 16
+M 0 77002 2 77018
+E 0 77002 0 16
+M 0 77008 3 77020
+E 0 77001 0 16
+M 0 77002 2 77021
+E 0 77002 0 16
+M 0 77011 1 77023
+E 0 77011 0 16
+M 0 77008 2 77023
+E 0 77001 0 16
+M 0 77010 4 77025
+E 0 77001 0 16
+M 0 77013 1 77026
+E 0 77013 0 16
+M 0 77003 3 77027
+E 0 77001 0 16
+M 0 77002 4 77028
+E 0 77002 0 16
+M 0 77009 4 77031
+E 0 77001 0 16
+M 0 77009 2 77032
+E 0 77001 0 16
+M 0 77003 2 77032
+E 0 77002 0 16
+M 0 77002 1 77033
+M 0 77002 8 77033
+M 0 77003 8 77033
+M 0 77004 8 77033
+E 0 77001 0 16
+E 0 77001 0 16
+E 0 77001 0 16
+M 0 77012 1 77034
+E 0 77012 0 16
+M 0 77004 1 77036
+E 0 77001 0 16
+M 0 77004 1 77036
+E 0 77001 0 16
+M 0 77019 1 77037
+M 0 77002 1 77038
+E 0 77001 0 16
+M 0 77003 1 77038
+E 0 77001 0 16
+M 0 77004 1 77038
+E 0 77001 0 16
+M 0 77014 1 77040
+M 0 77015 1 77046
+M 0 77016 1 77050
+M 0 77018 1 77058
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

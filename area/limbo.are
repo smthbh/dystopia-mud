@@ -1,0 +1,352 @@
+#AREADATA
+Name        Diku    Limbo~
+Builders    None~
+VNUMs       1 89
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#1
+Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+~
+1 64 1000 S
+62 1 -1 5d10+550 4d6+3
+10000 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#1
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existant objects~
+~
+13 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#2
+coin gold~
+a gold coin~
+One miserable gold coin.~
+~
+20 0 1
+1 0 0 0
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#3
+coins gold~
+%d gold coins~
+A pile of gold coins.~
+~
+20 0 1
+0 0 0 0
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+~
+23 0 1
+0 0 0 1
+100 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+~
+24 0 0
+0 0 0 1
+100 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#12
+head %s~
+the severed head of %s~
+The severed head of %s is lying here.~
+~
+13 0 16385
+10 0 12 0
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#13
+heart %s~
+the torn-out heart of %s~
+The torn-out heart of %s is lying here.~
+~
+19 0 16385
+16 0 13 0
+2 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#14
+arm %s~
+the sliced-off arm of %s~
+The sliced-off arm of %s is lying here.~
+~
+19 0 16385
+20 0 14 0
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#15
+leg %s~
+the sliced-off leg of %s~
+The sliced-off leg of %s is lying here.~
+~
+19 0 16385
+20 0 15 0
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#16
+turd~
+the steaming turds of %s~
+The steaming turds of %s assail your nostrils.~
+~
+13 0 0
+5 0 0 1
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.~
+~
+19 0 1
+5 0 0 0
+1 10 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+~
+1 0 1
+0 0 -1 0
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+~
+25 64 0
+100000 100000 0 0
+5000 10 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#23
+spring blood~
+a blood spring~
+A spring of dark red liquid flows from the ground here.~
+~
+25 64 0
+100000 100000 13 0
+5000 10 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#24
+no name~
+(no short description)~
+(no description)~
+~
+9 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#69
+Sword Excalibur~
+the #6Sword #4Excalibur#n~
+A humming sword lies here, radiating power and goodness~
+~
+5 1283 8193
+0 100 100 3
+10 100000 0
+A
+18 55
+A
+19 55
+A
+1 10
+A
+4 10
+A
+2 10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#89
+menacing longsword~
+a wicked longsword~
+A huge, evil longsword is floating here.~
+~
+1 0 0
+1 1 1 1
+1 1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#1
+#0P#Rit #0o#Rf #0P#Rain#n~
+You are floating in nothing.
+~
+0 1064972 1
+D5
+~
+~
+0 0 0
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 1048588 1
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

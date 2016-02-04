@@ -1,0 +1,5633 @@
+#AREADATA
+Name        Jobo     Class EQ and other Relics~
+Builders    Jobo~
+VNUMs       33000 34000
+Security    1
+Recall      3005
+End
+
+
+
+#MOBILES
+#33001
+demonic cleric~
+A Demonic cleric~
+A Demonic Cleric is here.
+~
+This is a cleric dedicated to evil.
+~
+65 66218 -1000 S
+96 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#33002
+demonic servant~
+a demonic servant~
+A Demonic Servant stands here staring evilly.
+~
+He glares at you an prepares to attack.
+~
+3 0 -1000 S
+88 0 0 1d1+3 0d0+0
+0 0
+0 0 1
+#33003
+huge serpent~
+A huge serpent~
+A huge serpent, grinning evilly.
+~
+He looks very hungry...
+~
+2051 0 -1000 S
+158 0 0 1d1+3 0d0+0
+0 0
+0 0 1
+#33004
+illusion~
+an illusion~
+(no long description)
+~
+~
+1 0 1 S
+14 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#33000
+mage staff~
+#C=== #RMage Staff #C===#n~
+A piece of mage eq lies here.~
+~
+5 0 8193
+0 15 25 7
+1 0 0
+A
+3 3
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33001
+mage dagger~
+#C=== #RMage Dagger #C===#n~
+A piece of mage eq lies here.~
+~
+5 0 8193
+0 14 24 1
+1 0 0
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33002
+mage ring~
+#C=== #RMage Ring #C===#n~
+A piece of mage eq lies here.~
+~
+9 0 3
+25 0 0 0
+1 0 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33003
+mage collar~
+#C=== #RMage Collar #C===#n~
+A piece of mage eq lies here.~
+~
+9 0 5
+25 0 0 0
+1 0 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33004
+mage robe~
+#C=== #RMage Robe #C===#n~
+A piece of mage eq lies here.~
+~
+9 0 9
+25 0 0 21
+1 0 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33005
+mage skullcap~
+#C=== #RMage Skullcap #C===#n~
+A piece of mage eq lies here.~
+~
+9 0 17
+25 0 0 16
+1 0 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33006
+mage leggings~
+#C=== #RMage Leggings #C===#n~
+A piece of mage eq lies here.~
+~
+9 0 33
+25 0 0 0
+1 0 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33007
+mage boots~
+#C=== #RMage Boots #C===#n~
+A piece of mage eq lies here.~
+~
+9 0 65
+25 0 0 17
+1 0 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33008
+mage gloves~
+#C=== #RMage Gloves #C===#n~
+A piece of mage eq lies here.~
+~
+9 0 129
+25 0 0 0
+1 0 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33009
+mage sleeves~
+#C=== #RMage Sleeves #C===#n~
+A piece of mage eq lies here.~
+~
+9 0 257
+25 0 0 0
+1 0 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33010
+mage cape~
+#C=== #RMage Cape #C===#n~
+A piece of mage eq lies here.~
+~
+9 0 1025
+25 0 0 0
+1 0 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33011
+mage belt~
+#C=== #RMage Belt #C===#n~
+A piece of mage eq lies here.~
+~
+9 0 2049
+25 0 0 8
+1 0 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33012
+mage bracer~
+#C=== #RMage Bracer #C===#n~
+A piece of mage eq lies here.~
+~
+9 0 4097
+25 0 0 0
+1 0 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33013
+mage mask~
+#C=== #RMage Mask #C===#n~
+A piece of mage eq lies here.~
+~
+9 0 -1015807
+25 0 0 0
+1 0 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33014
+mage staff mastery~
+#nThe #rStaff#n of #RM#Ga#Cg#yi#n~
+A staff of great power stands against the wall.~
+~
+5 0 8193
+28000 15 30 7
+1 0 0
+A
+12 1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33020
+monk ring~
+#Ca #ygodly #Cring#n~
+A piece of monk eq lies here.~
+~
+9 0 3
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33021
+monk collar~
+#Ca #ygodly #Ccollar#n~
+A piece of monk eq lies here.~
+~
+9 0 5
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33022
+monk robe~
+#Ca #ygodly #Crobe#n~
+A piece of monk eq lies here.~
+~
+9 0 9
+25 0 0 21
+1 0 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33023
+monk shorts~
+#Ca pair of #ygodly #Cshorts#n~
+A piece of monk eq lies here.~
+~
+9 0 33
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33024
+monk helmet~
+#Ca #ygodly #Chelmet#n~
+A piece of monk eq lies here.~
+~
+9 0 17
+25 0 0 8
+1 0 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33025
+monk gloves~
+#Ca pair of #ygodly #Cgloves#n~
+A piece of monk eq lies here.~
+~
+9 0 129
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33026
+monk sleeves~
+#Ca pair of #ygodly #Csleeves#n~
+A piece of monk eq lies here.~
+~
+9 0 257
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33027
+monk cloak~
+#Ca #ygodly #Ccloak#n~
+A piece of monk eq lies here.~
+~
+9 0 1025
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33028
+monk belt~
+#Ca #ygodly #Cbelt#n~
+A piece of monk eq lies here.~
+~
+9 0 2049
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33029
+monk bracer~
+#Ca #ygodly #Cbracer#n~
+A piece of monk eq lies here.~
+~
+9 0 4097
+25 0 0 17
+1 0 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33030
+monk mask~
+#Ca #ygodly #Cmask#n~
+A piece of monk eq lies here.~
+~
+9 0 -1015807
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33031
+monk boots~
+#Ca pair of #ygodly #Cboots#n~
+A piece of monk eq lies here.~
+~
+9 0 65
+25 0 0 23
+1 0 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33032
+monk mastery mask~
+#CThe mask of #ygodly #Cservitude#n~
+A mask with manacles attached lies here.~
+~
+9 0 -1015807
+25 0 0 14
+1 0 0
+A
+17 -100
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33040
+vampire longsword~
+#Ra #0vampiric #Rlongsword#n~
+A piece of vampire eq lies here.~
+~
+5 0 8193
+37 25 50 3
+1 0 0
+A
+19 20
+A
+18 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33041
+vampire dagger~
+#Ra #0vampiric #Rdagger#n~
+A piece of vampire eq lies here.~
+~
+5 0 8193
+0 25 50 11
+1 0 0
+A
+18 25
+A
+19 25
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33042
+vampire ring~
+#Ra #0vampiric #Rring#n~
+A piece of vampire eq lies here.~
+~
+9 0 3
+25 0 0 25
+1 0 0
+A
+19 15
+A
+18 15
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33043
+vampire collar~
+#Ra #0vampiric #Rcollar#n~
+A piece of vampire eq lies here.~
+~
+9 0 5
+25 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33044
+vampire plate~
+#Ra #0vampiric #Rplate#n~
+A piece of vampire eq lies here.~
+~
+9 0 9
+25 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33045
+vampire helmet~
+#Ra #0vampiric #Rhelmet#n~
+A piece of vampire eq lies here.~
+~
+9 0 17
+25 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33046
+vampire leggings~
+#Ra pair of #0vampiric #Rleggings#n~
+A piece of vampire eq lies here.~
+~
+9 0 33
+25 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33047
+vampire boots~
+#Ra pair of #0vampiric #Rboots#n~
+A piece of vampire eq lies here.~
+~
+9 0 65
+25 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33048
+vampire gloves~
+#Ra pair of #0vampiric #Rgloves#n~
+A piece of vampire eq lies here.~
+~
+9 0 129
+25 0 0 15
+1 0 0
+A
+19 15
+A
+18 15
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33049
+vampire sleeves~
+#Ra pair of #0vampiric #Rsleeves#n~
+A piece of vampire eq lies here.~
+~
+9 0 257
+25 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33050
+vampire cape~
+#Ra #0vampiric #Rcape#n~
+A piece of vampire eq lies here.~
+~
+9 0 1025
+25 0 0 16
+1 0 0
+A
+19 15
+A
+18 15
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33051
+vampire belt~
+#Ra #0vampiric #Rbelt#n~
+A piece of vampire eq lies here.~
+~
+9 0 2049
+25 0 0 8
+1 0 0
+A
+19 15
+A
+18 15
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33052
+vampire bracer~
+#Ra #0vampiric #Rbracer#n~
+A piece of vampire eq lies here.~
+~
+9 0 4097
+25 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33053
+vampire visor~
+#Ra #0vampiric #Rvisor#n~
+A piece of vampire eq lies here.~
+~
+9 0 -1015807
+25 0 0 0
+1 0 0
+A
+19 15
+A
+18 15
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33054
+vampire mastery boots~
+#Ra #0pair #Rof #0ancient #Rfleshcrafted #0boots#n~
+A pair of boots made from the skin of a #Rflayed#n human lies here.~
+~
+9 0 65
+25 0 0 17
+1 0 0
+A
+19 60
+A
+18 60
+A
+17 -85
+A
+13 500
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33055
+ashes~
+some ashes~
+A pile of ashes lies on the ground~
+~
+13 0 0
+0 0 0 0
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33060
+drow dagger velve~
+#pan #0ilythiiri #pvelve#n~
+A piece of drow eq lies here.~
+~
+5 0 8193
+18024 40 60 11
+1 0 0
+A
+18 30
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33061
+drow whip elguth~
+#pan #0ilythiiri #pelguth#n~
+A piece of drow eq lies here.~
+~
+5 0 8193
+18004 40 60 4
+1 0 0
+A
+18 30
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33062
+drow belt~
+#pan #0ilythiiri #pbelt#n~
+A piece of drow eq lies here.~
+~
+9 0 2049
+25 0 0 8
+1 0 0
+A
+17 -20
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33063
+drow ring~
+#pan #0ilythiiri #pring#n~
+A piece of drow eq lies here.~
+~
+9 0 3
+25 0 0 0
+1 0 0
+A
+17 -20
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33064
+drow amulet~
+#pan #0ilythiiri #pamulet#n~
+A piece of drow eq lies here.~
+~
+9 0 5
+25 0 0 16
+1 0 0
+A
+17 -20
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33065
+drow helmet~
+#pan #0ilythiiri #phelmet#n~
+A piece of drow eq lies here.~
+~
+9 0 17
+25 0 0 0
+1 0 0
+A
+17 -20
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33066
+drow leggings~
+#pa pair of #0ilythiiri #pleggings#n~
+A piece of drow eq lies here.~
+~
+9 0 33
+25 0 0 15
+1 0 0
+A
+17 -20
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33067
+drow boots~
+#pa pair of #0ilythiiri #pboots#n~
+A piece of drow eq lies here.~
+~
+9 0 65
+25 0 0 0
+1 0 0
+A
+17 -20
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33068
+drow gauntlets~
+#pa pair of #0ilythiiri #pgauntlets#n~
+A piece of drow eq lies here.~
+~
+9 0 129
+25 0 0 0
+1 0 0
+A
+17 -20
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33069
+drow sleeves~
+#pa pair of #0ilythiiri #psleeves#n~
+A piece of drow eq lies here.~
+~
+9 0 257
+25 0 0 0
+1 0 0
+A
+17 -20
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33070
+drow cloak piwafwi~
+#pan #0ilythiiri #ppiwafwi#n~
+A piece of drow eq lies here.~
+~
+9 0 1025
+25 0 0 0
+1 0 0
+A
+17 -20
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33071
+drow bracer~
+#pan #0ilythiiri #pbracer#n~
+A piece of drow eq lies here.~
+~
+9 0 4097
+25 0 0 0
+1 0 0
+A
+17 -20
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33072
+drow mask~
+#pan #0ilythiiri #pmask#n~
+A piece of drow eq lies here.~
+~
+9 0 -1015807
+25 0 0 0
+1 0 0
+A
+17 -20
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33073
+drow armor~
+#pan #0ilythiiri #parmor#n~
+A piece of drow eq lies here.~
+~
+9 0 9
+25 0 0 0
+1 0 0
+A
+17 -20
+A
+18 18
+A
+19 18
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33074
+drow mastery dagger~
+#pThe #0sacrificial #pdagger #0of #pLloth#n~
+A wicked dagger lies here,~
+~
+5 0 8193
+17000 50 90 1
+1 0 0
+A
+17 -100
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33080
+ninjitsu dagger ninja~
+#y** #0A #rninjitsu #0dagger #y**#n~
+A ninjitsu dagger lies here.~
+~
+5 0 8193
+9024 25 50 11
+1 0 0
+A
+19 40
+A
+18 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33081
+ninjitsu sword ninja~
+#y** #0A #rninjitsu #0sword #y**#n~
+A ninjitsu sword lies here.~
+~
+5 0 8193
+18053 25 50 1
+1 0 0
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33082
+ninja ninjitsu ring~
+#y** #0A #rninjitsu #0ring **#n~
+A piece of ninjitsu eq lies here.~
+~
+9 0 3
+25 0 0 0
+1 0 0
+A
+19 35
+A
+18 35
+A
+17 -40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33083
+ninja ninjitsu collar~
+#y** #0A #rninjitsu #0collar #y**#n~
+A piece of ninjitsu eq lies here.~
+~
+9 0 5
+25 0 0 0
+1 0 0
+A
+19 35
+A
+18 35
+A
+17 -40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33084
+ninja ninjitsu bracer~
+#y** #0A #rninjitsu #0bracer #y**#n~
+A piece of ninjitsu eq lies here.~
+~
+9 0 4097
+25 0 0 0
+1 0 0
+A
+19 35
+A
+18 35
+A
+17 -40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33085
+ninja ninjitsu robe~
+#y** #0A #rninjitsu #0robe #y**#n~
+A piece of ninjitsu eq lies here.~
+~
+9 0 9
+25 0 0 0
+1 0 0
+A
+19 35
+A
+18 35
+A
+17 -40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33086
+ninja ninjitsu cap~
+#y** #0A #rninjitsu #0cap #y**#n~
+A piece of ninjitsu eq lies here.~
+~
+9 0 17
+25 0 0 8
+1 0 0
+A
+19 35
+A
+18 35
+A
+17 -40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33087
+ninja ninjitsu leggings~
+#y** #0A pair of #rninjitsu #0leggings #y**#n~
+A piece of ninjitsu eq lies here.~
+~
+9 0 33
+25 0 0 0
+1 0 0
+A
+19 35
+A
+18 35
+A
+17 -40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33088
+ninja ninjitsu boots~
+#y** #0A pair of #rninjitsu #0boots #y**#n~
+A piece of ninjitsu eq lies here.~
+~
+9 0 65
+25 0 0 0
+1 0 0
+A
+19 35
+A
+18 35
+A
+17 -40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33089
+ninja ninjitsu sleeves~
+#y** #0A pair of #rninjitsu #0sleeves #y**#n~
+A piece of ninjitsu eq lies here.~
+~
+9 0 257
+25 0 0 0
+1 0 0
+A
+19 35
+A
+18 35
+A
+17 -40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33090
+ninja ninjitsu cloak~
+#y** #0A #rninjitsu #0cloak #y**#n~
+A piece of ninjitsu eq lies here.~
+~
+9 0 1025
+25 0 0 0
+1 0 0
+A
+19 35
+A
+18 35
+A
+17 -40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33091
+ninja ninjitsu gloves~
+#y** #0A pair of #rninjitsu #0gloves #y**#n~
+A piece of ninjitsu eq lies here.~
+~
+9 0 129
+25 0 0 0
+1 0 0
+A
+19 35
+A
+18 35
+A
+17 -40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33092
+ninja ninjitsu belt~
+#y** #0A #rninjitsu #0belt #y**#n~
+A piece of ninjitsu eq lies here.~
+~
+9 0 2049
+25 0 0 0
+1 0 0
+A
+19 35
+A
+18 35
+A
+17 -40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33093
+ninja ninjitsu mask~
+#y** #0A #rninjitsu #0mask #y**#n~
+A piece of ninjitsu eq lies here.~
+~
+9 0 -1015807
+25 0 0 0
+1 0 0
+A
+19 35
+A
+18 35
+A
+17 -40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33094
+ninja mastery belt~
+#0The #lbelt #0of #rshao#l-#ylin#n~
+A slim leather belt lies on the floor.~
+~
+9 0 2049
+25 0 0 17
+1 0 0
+A
+17 -100
+A
+19 65
+A
+18 65
+A
+2 5
+A
+1 5
+A
+14 1000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33100
+moon werewolf ring~
+#G(( #ya #Cmoonbeam #yring #G))#n~
+A piece of moon eq lies here.~
+~
+9 0 3
+25 0 0 0
+1 0 0
+A
+19 25
+A
+18 25
+A
+17 -35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33101
+moon werewolf bracer~
+#G(( #ya #Cmoonbeam #ybracer #G))#n~
+A piece of moon eq lies here.~
+~
+9 0 4097
+25 0 0 0
+1 0 0
+A
+19 25
+A
+18 25
+A
+17 -35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33102
+moon werewolf collar~
+#G(( #ya #Cmoonbeam #ycollar #G))#n~
+A piece of moon eq lies here.~
+~
+9 0 5
+25 0 0 0
+1 0 0
+A
+19 25
+A
+18 25
+A
+17 -35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33103
+moon werewolf plate~
+#G(( #ya #Cmoonbeam #yplate #G))#n~
+A piece of moon eq lies here.~
+~
+9 0 9
+25 0 0 0
+1 0 0
+A
+19 25
+A
+18 25
+A
+17 -35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33104
+moon werewolf belt~
+#G(( #ya #Cmoonbeam #ybelt #G))#n~
+A piece of moon eq lies here.~
+~
+9 0 2049
+25 0 0 17
+1 0 0
+A
+19 25
+A
+18 25
+A
+17 -35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33105
+moon werewolf helmet~
+#G(( #ya #Cmoonbeam #yhelmet #G))#n~
+A piece of moon eq lies here.~
+~
+9 0 17
+25 0 0 0
+1 0 0
+A
+19 25
+A
+18 25
+A
+17 -35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33106
+moon werewolf leggings~
+#G(( #ya pair of #Cmoonbeam #yleggings #G))#n~
+A piece of moon eq lies here.~
+~
+9 0 33
+25 0 0 0
+1 0 0
+A
+19 25
+A
+18 25
+A
+17 -35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33107
+moon werewolf boots~
+#G(( #ya pair of #Cmoonbeam #yboots #G))#n~
+A piece of moon eq lies here.~
+~
+9 0 65
+25 0 0 0
+1 0 0
+A
+19 25
+A
+18 25
+A
+17 -35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33108
+moon werewolf gloves~
+#G(( #ya pair of #Cmoonbeam #ygloves #G))#n~
+A piece of moon eq lies here.~
+~
+9 0 129
+25 0 0 0
+1 0 0
+A
+19 25
+A
+18 25
+A
+17 -35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33109
+moon werewolf sleeves~
+#G(( #ya pair of #Cmoonbeam #ysleeves #G))#n~
+A piece of moon eq lies here.~
+~
+9 0 257
+25 0 0 0
+1 0 0
+A
+19 25
+A
+18 25
+A
+17 -35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33110
+moon werewolf cape~
+#G(( #ya #Cmoonbeam #ycape #G))#n~
+A piece of moon eq lies here.~
+~
+9 0 1025
+25 0 0 8
+1 0 0
+A
+19 25
+A
+18 25
+A
+17 -35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33111
+moon werewolf mask~
+#G(( #ya #Cmoonbeam #ymask #G))#n~
+A piece of moon eq lies here.~
+~
+9 0 -1015807
+25 0 0 0
+1 0 0
+A
+19 25
+A
+18 25
+A
+17 -35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33112
+werewolf mastery helmet~
+the #Rhorns #nof #Ggaia#n~
+A glowing helmet lies on the floor.~
+~
+9 0 17
+25 0 0 25
+1 0 0
+A
+19 75
+A
+18 75
+A
+14 500
+A
+13 500
+A
+5 10
+A
+1 10
+A
+2 10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33114
+klaive dagger~
+a Wicked Klaive~
+A shining silver fetish dagger lies here.~
+~
+5 3 8193
+0 25 50 11
+2 1000000 0
+A
+19 40
+A
+18 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+49152 0
+#33120
+demon longsword~
+#0a #Rdemonic #0longsword#n~
+A demonic longsword lies on the ground.~
+~
+5 0 8193
+18000 50 75 1
+1 0 0
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33121
+shortsword demon~
+#0a #Rdemonic #0shortsword#n~
+A demonic shortsword lies on the ground.~
+~
+5 0 8193
+17000 50 75 11
+1 0 0
+A
+18 30
+A
+19 30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33122
+demon ring~
+#0a #Rdemonic #0ring#n~
+A piece of demonic eq lies here.~
+~
+9 0 3
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33123
+demon collar~
+#0a #Rdemonic #0collar#n~
+A piece of demonic eq lies here.~
+~
+9 0 5
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33124
+demon bracer~
+#0a #Rdemonic #0bracer#n~
+A piece of demonic eq lies here.~
+~
+9 0 4097
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33125
+demon plate~
+#0a #Rdemonic #0plate#n~
+A piece of demonic eq lies here.~
+~
+9 0 9
+25 0 0 8
+1 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33126
+demon helmet~
+#0a #Rdemonic #0helmet#n~
+A piece of demonic eq lies here.~
+~
+9 0 17
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33127
+demon leggings~
+#0a pair of #Rdemonic #0leggings#n~
+A piece of demonic eq lies here.~
+~
+9 0 33
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33128
+demon boots~
+#0a pair of #Rdemonic #0boots#n~
+A piece of demonic eq lies here.~
+~
+9 0 65
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33129
+demon gauntlets~
+#0a pair of #Rdemonic #0gauntlets#n~
+A piece of demonic eq lies here.~
+~
+9 0 129
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33130
+demon sleeves~
+#0a pair of #Rdemonic #0sleeves#n~
+A piece of demonic eq lies here.~
+~
+9 0 257
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33131
+demon cape~
+#0a #Rdemonic #0cape#n~
+A piece of demonic eq lies here.~
+~
+9 0 1025
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33132
+demon belt~
+#0a #Rdemonic #0belt#n~
+A piece of demonic eq lies here.~
+~
+9 0 2049
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33133
+demon visor~
+#0a #Rdemonic #0visor#n~
+A piece of demonic eq lies here.~
+~
+9 0 -1015807
+25 0 0 0
+1 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33134
+demon mastery helmet~
+a #Rgreat helmet#n with pointy #0black#n horns~
+A large helmet with long horns lies here.~
+~
+9 0 17
+25 0 0 15
+1 0 0
+A
+13 500
+A
+17 -100
+A
+1 10
+A
+5 10
+A
+4 -5
+A
+3 -5
+A
+18 80
+A
+19 80
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33140
+whip drider~
+#p{#0-#p}#0Drider Whip#p{#0-#p}#n~
+A long #0black#n whip lies here, waiting to be used.~
+~
+5 0 8193
+0 45 90 4
+1 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33141
+drider ring~
+#p{#0-#p}#0Drider Ring#p{#0-#p}#n~
+A short metal ring lies here, it is emitting an #0evil#n aura.~
+~
+9 0 3
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33142
+drider collar~
+#p{#0-#p}#0Drider Collar#p{#0-#p}#n~
+A necklace made of gold elf teeth lies here.~
+~
+9 0 5
+25 0 0 16
+1 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33143
+armor drider~
+#p{#0-#p}#0Drider Armor#p{#0-#p}#n~
+Some musky body armor lies on the ground.~
+~
+9 0 9
+25 0 0 0
+1 0 0
+A
+5 5
+A
+2 5
+A
+1 5
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33144
+helmet drider~
+#p{#0-#p}#0Drider Helmet#p{#0-#p}#n~
+The crushed skull of a titan lies here.~
+~
+9 0 17
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33145
+drider leggings~
+#p{#0-#p}#0Drider Leggings#p{#0-#p}#n~
+A strange set of pants with 6 legs lies here.~
+~
+9 0 33
+25 0 0 17
+1 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33146
+drider boots~
+#p{#0-#p}#0Drider Boots#p{#0-#p}#n~
+Some dusty boots lies here.~
+~
+9 0 65
+25 0 0 39
+1 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33147
+drider gloves~
+#p{#0-#p}#0Drider Gloves#p{#0-#p}#n~
+Some gloves emitting an aura of #0evilness#n lies here~
+~
+9 0 129
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33148
+drider sleeves~
+#p{#0-#p}#0Drider Sleeves#p{#0-#p}#n~
+Some rotten cloth lies on the floor.~
+~
+9 0 257
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33149
+cloak drider~
+#p{#0-#p}#0Drider Cloak#p{#0-#p}#n~
+A #0black#n cloak hangs floating in the air~
+~
+9 0 1025
+25 0 0 57
+1 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33150
+belt drider~
+#p{#0-#p}#0Drider Belt#p{#0-#p}#n~
+A thin belt made from the hearts of faeries lies here.~
+~
+9 0 2049
+25 0 0 21
+1 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33151
+Drider Bracer~
+#p{#0-#p}#0Drider Bracer#p{#0-#p}#n~
+A bracer lies here.~
+~
+9 0 4097
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33152
+drider mask~
+#p{#0-#p}#0Drider Mask#p{#0-#p}#n~
+A deathmask of #P.o0#0Lloth#P0o.#n lies here.~
+~
+9 0 -1015807
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33153
+mastery droid cape~
+#pThe #0cape#P of #pLloth#n~
+A silvery cape showing the spiderqueens favor lies here.~
+~
+9 0 1025
+25 0 0 15
+1 10000 0
+A
+19 85
+A
+18 85
+A
+17 -100
+A
+13 500
+A
+14 500
+A
+12 500
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33160
+knife shapeshifter butterfly~
+a butterfly knife~
+A strange looking device lies on the ground.~
+~
+5 0 8193
+0 40 80 11
+1 10000 0
+A
+2 3
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33161
+shapeshifter kane~
+a kane with a hidden springblade~
+A long walking stick lies on the ground.~
+~
+5 0 8193
+0 45 75 1
+1 10000 0
+A
+19 25
+A
+18 25
+A
+2 3
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33162
+bands shapeshifter~
+#GS#go#Gm#ge #Gc#ga#Gm#go#Gu#gf#Gl#ga#Gg#ge #Gb#ga#Gn#gd#Gs#n~
+Some wrist bands blends in with the ground.~
+~
+9 0 4097
+25 0 0 24
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33163
+necklace shapeshifter~
+necklace of invisibility~
+A glinting necklace of pure silver lies on the ground.~
+~
+9 0 5
+25 0 0 5
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33164
+shapeshifter ring~
+a ring made from glass~
+A plain glass ring lies here.~
+~
+9 0 3
+25 0 0 0
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33165
+jacket shapeshifter~
+#GA #gc#Ga#gm#Go#gu#Gf#gl#Ga#gg#Ge #gj#Ga#gc#Gk#ge#Gt#n~
+A jacket made for blending with the forest lies here.~
+~
+9 0 9
+25 0 0 0
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33166
+helmet shapeshifter~
+a helmet of many shapes~
+A non-descript helmet lies here.~
+~
+9 0 17
+25 0 0 0
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33167
+pants shapeshifter~
+#GA #gp#Ga#gi#Gr #go#Gf #gc#Ga#gm#Go#gu#Gf#gl#Ga#gg#Ge #gp#Ga#gn#Gt#gs#n~
+A pair of pants with grey and white stripes lies here.~
+~
+9 0 33
+25 0 0 0
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33168
+boots shapeshifter~
+#GA #gp#Ga#gi#Gr #go#Gf #gE#Gl#gv#Ge#gn #Gb#go#Go#gt#Gs#n~
+A pair of leather boots stands here.~
+~
+9 0 65
+25 0 0 0
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33169
+gloves shapeshifter~
+#nA pair of thin leather gloves~
+A pair of gloves lies here in the sun.~
+~
+9 0 129
+25 0 0 0
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33170
+shirt shapeshifter~
+a net t-shirt~
+A bundle of strings lies here.~
+~
+9 0 257
+25 0 0 8
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33171
+cloak shapeshifter~
+a #0Displacer#n cloak~
+A shimmering cloak lies on the ground.~
+~
+9 0 1025
+25 0 0 0
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33172
+belt shapeshifter~
+a thin leather belt~
+A thin leather belt lies here.~
+~
+9 0 2049
+25 0 0 3
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33173
+visor shapeshifter~
+a visor of many faces~
+Some human skin lies on the ground.~
+~
+9 0 -1015807
+25 0 0 0
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33174
+shapeshifter mastery cloak~
+#0C#7l#0oak of S#7h#0adows#n~
+Something lies on the floor, but you cannot tell what it is.~
+~
+9 0 1025
+25 0 0 15
+1 0 0
+A
+12 1000
+A
+14 1000
+A
+13 1000
+A
+18 75
+A
+19 75
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33175
+tall hat~
+a tall hat~
+A tall hat lies on the ground waiting to be picked up.~
+~
+9 0 17
+12 0 0 0
+5 200 0
+A
+19 7
+A
+18 8
+A
+17 -12
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33176
+katana~
+#nA Katana#n~
+A gleaming Katana lies here.~
+~
+5 0 8193
+17000 75 110 1
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33177
+Mastery Plate Samurai~
+#C-=#RThe #0ancient #Rbreastplate of Fatigue#C=-#n~
+A glinting samurai breastplate lies here.~
+~
+9 0 9
+25 0 0 0
+1 0 0
+A
+13 -2000
+A
+14 -2000
+A
+12 -2000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33180
+angel ring~
+#y<<#LA #Gheavenly #Lring#y>>#n~
+A piece of heavenly eq lies here~
+~
+9 3 3
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33181
+angel bracer~
+#y<<#LA #Gheavenly #Lbracer#y>>#n~
+A piece of heavenly eq lies here~
+~
+9 3 4097
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33182
+angel necklace~
+#y<<#LA #Gheavenly #Lnecklace#y>>#n~
+A piece of heavenly eq lies here~
+~
+9 3 5
+25 0 0 8
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33183
+angel belt~
+#y<<#LA #Gheavenly #Lbelt#y>>#n~
+A piece of heavenly eq lies here~
+~
+9 3 2049
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33184
+angel helmet~
+#y<<#LA #Gheavenly #Lhelmet#y>>#n~
+A piece of heavenly eq lies here~
+~
+9 3 17
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33185
+angel cloak~
+#y<<#LA #Gheavenly #Lcloak#y>>#n~
+A piece of heavenly eq lies here~
+~
+9 3 1025
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33186
+angel visor~
+#y<<#LA #Gheavenly #Lvisor#y>>#n~
+A piece of heavenly eq lies here~
+~
+9 3 -1015807
+25 0 0 16
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33187
+angel plate~
+#y<<#LA #Gheavenly #Lplate#y>>#n~
+A piece of heavenly eq lies here~
+~
+9 3 9
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33188
+angel leggings~
+#y<<#LA pair of #Gheavenly #Lleggings#y>>#n~
+A piece of heavenly eq lies here~
+~
+9 3 33
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33189
+angel boots~
+#y<<#LA pair of #Gheavenly #Lboots#y>>#n~
+A piece of heavenly eq lies here~
+~
+9 3 65
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33190
+angel gauntlets~
+#y<<#LA pair of #Gheavenly #Lgauntlets#y>>#n~
+A piece of heavenly eq lies here~
+~
+9 3 129
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33191
+angel sleeves~
+#y<<#LA pair of #Gheavenly #Lsleeves#y>>#n~
+A piece of heavenly eq lies here~
+~
+9 3 257
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33192
+angel sword flaming~
+#LThe #RFlaming#L Sword to #RBANISH#L all Evil#n~
+A flaming swords rests in the air, wating for an angel to wield it.~
+~
+5 16387 8193
+17005 60 80 3
+1 0 0
+A
+19 40
+A
+18 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33193
+warplate angel mastery plate~
+#y<<#CGabriels #LWarplate #Gfrom #Lthe holy #GCrusade#y>>#n~
+A glowing breatplate stands against the wall.~
+~
+9 0 9
+25 0 0 21
+1 0 0
+A
+17 -100
+A
+13 1000
+A
+4 10
+A
+18 80
+A
+19 80
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33200
+tanarri claymore~
+#0A #RFlaming Red #0Claymore#n~
+A flaming red claymore stands against the wall.~
+~
+5 16385 8193
+18000 40 75 3
+1 0 0
+A
+19 40
+A
+18 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33201
+tanarri ring~
+#y{{ #RA #0Tanar'ri #RRing #y}}#n~
+A piece of tanarri eq lies here.~
+~
+9 0 3
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33202
+tanarri bracer~
+#y{{ #RA #0Tanar'ri #RBracer #y}}#n~
+A piece of tanarri eq lies here.~
+~
+9 0 4097
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33203
+tanarri collar~
+#y{{ #RA #0Tanar'ri #RCollar #y}}#n~
+A piece of tanarri eq lies here.~
+~
+9 0 5
+25 0 0 16
+1 0 0
+A
+17 -50
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33204
+tanarri plate~
+#y{{ #RA #0Tanar'ri #RPlate #y}}#n~
+A piece of tanarri eq lies here.~
+~
+9 0 9
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33205
+tanarri helmet~
+#y{{ #RA #0Tanar'ri #RHelmet #y}}#n~
+A piece of tanarri eq lies here.~
+~
+9 0 17
+25 0 0 8
+1 0 0
+A
+17 -50
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33206
+tanarri boots~
+#y{{ #RA pair of #0Tanar'ri #RBoots #y}}#n~
+A piece of tanarri eq lies here.~
+~
+9 0 65
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33207
+tanarri gauntlets~
+#y{{ #RA pair of #0Tanar'ri #RGauntlets #y}}#n~
+A piece of tanarri eq lies here.~
+~
+9 0 129
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33208
+tanarri sleeves~
+#y{{ #RA pair of #0Tanar'ri #RSleeves #y}}#n~
+A piece of tanarri eq lies here.~
+~
+9 0 257
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33209
+tanarri leggings~
+#y{{ #RA pair of #0Tanar'ri #RLeggings #y}}#n~
+A piece of tanarri eq lies here.~
+~
+9 0 33
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33210
+tanarri cloak~
+#y{{ #RA #0Tanar'ri #RCloak #y}}#n~
+A piece of tanarri eq lies here.~
+~
+9 0 1025
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33211
+tanarri belt~
+#y{{ #RA #0Tanar'ri #RBelt #y}}#n~
+A piece of tanarri eq lies here.~
+~
+9 0 2049
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33212
+tanarri visor~
+#y{{ #RA #0Tanar'ri #RVisor #y}}#n~
+A piece of tanarri eq lies here.~
+~
+9 0 -1015807
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33213
+mastery tanarri ring~
+#y{{ #RA #0Black Crystal #RRing #y}}#n~
+A plain ring made from black crystal lies here.~
+~
+9 0 3
+25 0 0 15
+1 0 0
+A
+12 500
+A
+14 500
+A
+13 500
+A
+17 -200
+A
+18 80
+A
+19 80
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33220
+lich scythe~
+#G<*> #7A Wicked Scythe #G<*>#n~
+A wicked looking scythe stands against the wall, waiting to be used.~
+~
+5 0 8193
+18000 40 70 1
+1 0 0
+A
+18 40
+A
+19 40
+A
+2 5
+A
+1 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33221
+lich ring~
+#G<*> #7A bone Ring #G<*>#n~
+A piece of lich eq lies here.~
+~
+9 0 3
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 35
+A
+19 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33222
+lich bracer~
+#G<*> #7A bone Bracer #G<*>#n~
+A piece of lich eq lies here.~
+~
+9 0 4097
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 35
+A
+19 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33223
+lich amulet~
+#G<*> #7A bone Amulet #G<*>#n~
+A piece of lich eq lies here.~
+~
+9 0 5
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 35
+A
+19 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33224
+lich plate~
+#G<*> #7A bone Plate #G<*>#n~
+A piece of lich eq lies here.~
+~
+9 0 9
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 35
+A
+19 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33225
+lich helmet~
+#G<*> #7A bone Helmet #G<*>#n~
+A piece of lich eq lies here.~
+~
+9 0 17
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 35
+A
+19 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33226
+lich Belt~
+#G<*> #7A bone Belt #G<*>#n~
+A piece of lich eq lies here.~
+~
+9 0 2049
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 35
+A
+19 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33227
+lich mask~
+#G<*> #7A bone Mask #G<*>#n~
+A piece of lich eq lies here.~
+~
+9 0 -1015807
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 35
+A
+19 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33228
+lich gauntlets~
+#G<*> #7A pair of bone Gauntlets #G<*>#n~
+A piece of lich eq lies here.~
+~
+9 0 129
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 35
+A
+19 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33229
+lich sleeves~
+#G<*> #7A pair of bone Sleeves #G<*>#n~
+A piece of lich eq lies here.~
+~
+9 0 257
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 35
+A
+19 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33230
+lich boots~
+#G<*> #7A pair of bone Boots #G<*>#n~
+A piece of lich eq lies here.~
+~
+9 0 65
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 35
+A
+19 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33231
+lich leggings~
+#G<*> #7A pair of bone Leggings #g<*>#n~
+A piece of lich eq lies here.~
+~
+9 0 33
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 35
+A
+19 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33232
+lich cloak~
+#G<*> #7A dusty Cloak #G<*>#n~
+A piece of lich eq lies here.~
+~
+9 0 1025
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 35
+A
+19 35
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33233
+lich ring mastery~
+#G<*> #7Ring of Wizardry #G<*>#n~
+A powerful looking ring lies on the table.~
+~
+9 0 3
+25 0 0 28
+1 0 0
+A
+12 2000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33240
+hobbit knife~
+#o(#c*#o) #RA #GLongtooth #RKnife #o(#c*#o)#n~
+A long-bladed knife lies here.~
+~
+5 0 8193
+17000 25 45 11
+1 0 0
+A
+2 7
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33241
+hobbit mace~
+#o(#c*#o) #RA #GSturdy #RMace #o(#c*#o)#n~
+A mace made of adamantite stands against the wall.~
+~
+5 0 8193
+0 30 50 7
+1 0 0
+A
+1 7
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33242
+hobbit wristbands bracer~
+#o(#c*#o) #RSome #GRusty #RWristbands #o(#c*#o)#n~
+A piece of hobbit eq lies here.~
+~
+9 0 4097
+25 0 0 0
+1 0 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33243
+hobbit lucky charm~
+#o(#c*#o) #RA #GLucky #RCharm #o(#c*#o)#n~
+A piece of hobbit eq lies here.~
+~
+9 0 5
+25 0 0 8
+1 0 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33244
+hobbit ring~
+#o(#c*#o) #RA #GGolden #RRing #o(#c*#o)#n~
+A piece of hobbit eq lies here.~
+~
+9 0 3
+25 0 0 9
+1 0 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33245
+hobbit vestment~
+#o(#c*#o) #RA #GLeather #RVestment #o(#c*#o)#n~
+A piece of hobbit eq lies here.~
+~
+9 0 9
+25 0 0 3
+1 0 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33246
+hobbit pot~
+#o(#c*#o) #RA #GCooking #RPot #o(#c*#o)#n~
+A piece of hobbit eq lies here.~
+~
+9 0 17
+25 0 0 16
+1 0 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33247
+hobbit leggings~
+#o(#c*#o) #RA pair of #GLeather #RLeggings #o(#c*#o)#n~
+A piece of hobbit eq lies here.~
+~
+9 0 33
+25 0 0 0
+1 0 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33248
+hobbit boots~
+#o(#c*#o) #RA pair of #GLeather #RBoots #o(#c*#o)#n~
+A piece of hobbit eq lies here.~
+~
+9 0 65
+25 0 0 0
+1 0 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33249
+hobbit gloves~
+#o(#c*#o) #RA pair of #GLeather #RGloves #o(#c*#o)#n~
+A piece of hobbit eq lies here.~
+~
+9 0 129
+25 0 0 0
+1 0 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33250
+hobbit sleeves~
+#o(#c*#o) #RA pair of #GLeather #RSleeves #o(#c*#o)#n~
+A piece of hobbit eq lies here.~
+~
+9 0 257
+25 0 0 0
+1 0 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33251
+hobbit cloak~
+#o(#c*#o) #RA #GDark Brown #RCloak #o(#c*#o)#n~
+A piece of hobbit eq lies here.~
+~
+9 0 1025
+25 0 0 0
+1 0 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33252
+hobbit belt~
+#o(#c*#o) #RA #GSturdy #RBelt #o(#c*#o)#n~
+A piece of hobbit eq lies here.~
+~
+9 0 2049
+25 0 0 0
+1 0 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33253
+hobbit mask~
+#o(#c*#o) #RA #GPlain #RMask #o(#c*#o)#n~
+A piece of hobbit eq lies here.~
+~
+9 0 -1015807
+25 0 0 0
+1 0 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33254
+hobbit pot cook~
+#o(#c*#o) #RThe Pot #o(#c*#o)#n~
+A *BIG* cooking pot stands on the floor, it's made from solid iron.~
+~
+50 1 65537
+0 0 0 0
+10 100 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33255
+hobbit mastery pot~
+#o(#c*#o) #RThe #oMagic #RPot #o(#c*#o)#n~
+A big shiny pot to cook thingies in, great to have, but even better to cook in.~
+~
+50 3 65537
+0 0 0 0
+10 100 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33260
+fae bow crossbow energy~
+#yXXX #RAn #GEnergy #RCrossbow #yXXX#n~
+A humming crossbow lies on the floor waiting to be used.~
+~
+5 2 16385
+17053 40 60 6
+1 100 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33261
+fae mastery rod~
+#G** #yThe ancient #Rrod #yof the Fae #G**#n~
+A rod glowing with a sick green color lies on the floor.~
+~
+9 0 16385
+25 0 0 0
+5 100 0
+A
+13 -2000
+A
+14 -2000
+A
+12 -2000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33280
+giant ring~
+#C<#c-) #GG#giant Rin#Gg #c(-#C>#n~
+A piece of giant eq lies here~
+~
+9 0 3
+25 0 0 0
+1 100 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33281
+giant bracer~
+#C<#c-) #GG#giant Brace#Gr #c(-#C>#n~
+A piece of giant eq lies here~
+~
+9 0 4097
+25 0 0 0
+1 100 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33282
+giant collar~
+#C<#c-) #GG#giant Colla#Gr #c(-#C>#n~
+A piece of giant eq lies here~
+~
+9 0 5
+25 0 0 16
+1 100 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33283
+giant plate~
+#C<#c-) #GG#giant Plat#Ge #c(-#C>#n~
+A piece of giant eq lies here~
+~
+9 0 9
+25 0 0 0
+1 100 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33284
+giant helmet~
+#C<#c-) #GG#giant Helme#Gt #c(-#C>#n~
+A piece of giant eq lies here~
+~
+9 0 17
+25 0 0 0
+1 100 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33285
+giant belt~
+#C<#c-) #GG#giant Bel#Gt #c(-#C>#n~
+A piece of giant eq lies here~
+~
+9 0 2049
+25 0 0 0
+1 100 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33286
+giant visor~
+#C<#c-) #GG#giant Viso#Gr #c(-#C>#n~
+A piece of giant eq lies here~
+~
+9 0 -1015807
+25 0 0 8
+1 100 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33287
+giant gloves~
+#C<#c-) #GG#giant Glove#Gs #c(-#C>#n~
+A piece of giant eq lies here~
+~
+9 0 129
+25 0 0 0
+1 100 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33288
+giant sleeves~
+#C<#c-) #GG#giant Sleeve#Gs #c(-#C>#n~
+A piece of giant eq lies here~
+~
+9 0 257
+25 0 0 0
+1 100 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33289
+giant boots~
+#C<#c-) #GG#giant Boot#Gs #c(-#C>#n~
+A piece of giant eq lies here~
+~
+9 0 65
+25 0 0 0
+1 100 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33290
+giant leggings~
+#C<#c-) #GG#giant Legging#Gs #c(-#C>#n~
+A piece of giant eq lies here~
+~
+9 0 33
+25 0 0 0
+1 100 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33291
+giant cloak~
+#C<#c-) #GG#giant Cloa#Gk #c(-#C>#n~
+A piece of giant eq lies here~
+~
+9 0 1025
+25 0 0 0
+1 100 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33292
+Giant Branch Tree~
+#C<#c-) #GG#giant Tree Branc#Gh #c(-#C>#n~
+A giant tree lies here, waiting to be bashed around.~
+~
+5 0 8193
+21000 40 65 8
+1 100 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33293
+belt mastery giant~
+#C<#c-) #GB#gelt of Giant Strengt#Gh #c(-#C>#n~
+A giant belt lies flat on the floor.~
+~
+9 1 2049
+25 0 0 17
+1 100 0
+A
+19 80
+A
+18 80
+A
+17 -200
+A
+1 10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33300
+drone tentacles~
+#G<#0=#y{#0Drone Tentacle#y}#0=#G>#n~
+A black curled up tentacle lies on the floor~
+~
+5 2 8193
+17000 45 80 12
+1 100 0
+A
+18 50
+A
+19 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33301
+drone ring~
+#G<#0=#y{#0Drone Ring#y}#0=#G>#n~
+A piece of nightmarish equipment lies here.~
+~
+9 0 3
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33302
+drone collar~
+#G<#0=#y{#0Drone Collar#y}#0=#G>#n~
+A piece of nightmarish equipment lies here.~
+~
+9 0 5
+25 0 0 16
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33303
+drone wristbands~
+#G<#0=#y{#0Drone Wristbands#y}#0=#G>#n~
+A piece of nightmarish equipment lies here.~
+~
+9 0 4097
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33304
+drone plate~
+#G<#0=#y{#0Drone Plate#y}#0=#G>#n~
+A piece of nightmarish equipment lies here.~
+~
+9 0 9
+25 0 0 8
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33305
+drone helmet~
+#G<#0=#y{#0Drone Helmet#y}#0=#G>#n~
+A piece of nightmarish equipment lies here.~
+~
+9 0 17
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33306
+drone leggings~
+#G<#0=#y{#0Drone Leggings#y}#0=#G>#n~
+A piece of nightmarish equipment lies here.~
+~
+9 0 33
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33307
+drone boots~
+#G<#0=#y{#0Drone Boots#y}#0=#G>#n~
+A piece of nightmarish equipment lies here.~
+~
+9 0 65
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33308
+drone gauntlets~
+#G<#0=#y{#0Drone Gauntlets#y}#0=#G>#n~
+A piece of nightmarish equipment lies here.~
+~
+9 0 129
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33309
+drone paddings~
+#G<#0=#y{#0Drone Paddings#y}#0=#G>#n~
+A piece of nightmarish equipment lies here.~
+~
+9 0 257
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33310
+drone cape~
+#G<#0=#y{#0Drone Cape#y}#0=#G>#n~
+A piece of nightmarish equipment lies here.~
+~
+9 0 1025
+25 0 0 15
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33311
+drone girdle~
+#G<#0=#y{#0Drone Girdle#y}#0=#G>#n~
+A piece of nightmarish equipment lies here.~
+~
+9 0 2049
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33312
+drone visor~
+#G<#0=#y{#0Drone Visor#y}#0=#G>#n~
+A piece of nightmarish equipment lies here.~
+~
+9 0 -1015807
+25 0 0 0
+1 0 0
+A
+17 -50
+A
+18 40
+A
+19 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33313
+eye drone mastery~
+#G<#0=#y{#0The Mesmerizing Eye#y}#0=#G>#n~
+A scorched eye lies on the floor.~
+~
+9 1 -1015807
+25 0 0 29
+1 100 0
+A
+19 80
+A
+18 80
+A
+12 500
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33800
+prize winged familiar~
+#G[#R*#G] #yA #0winged #yFamiliar #G[#R*#G]#n~
+A wicked looking imp flies around, waiting for something.~
+~
+9 0 1
+0 0 0 0
+5 100 0
+A
+12 1000
+A
+14 1000
+A
+19 25
+A
+18 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33801
+prize medal honour~
+#P*** #CThe #RMedal #Cof Honour #P***#n~
+A medal lies on the floor.~
+~
+9 0 1
+20 0 0 0
+5 100 0
+A
+13 1000
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33802
+prize tattoo dragon~
+#G{#yTattoo#G} #0The #Rstriking #0Dragon#n~
+Something lies here, you really can't tell what it is.~
+~
+9 4224 1
+20 0 0 0
+1 0 0
+A
+19 100
+A
+18 100
+A
+2 10
+A
+24 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33803
+prize ball scrying~
+#C{#GX#C} #LA #0Scrying #LBall #C{#GX#C}#n~
+A scrying ball lies here.~
+~
+9 1 1
+20 0 0 22
+3 0 0
+A
+18 4
+A
+19 4
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33804
+prize bird prey hawk~
+#L{#y=#L}#GBird of Prey #0(#7Hawk#0)#L{#y=#L}#n~
+A great hunting hawk sits on a branch, waiting for prey.~
+~
+9 0 1
+15 0 0 30
+5 10000 0
+A
+18 50
+A
+17 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33805
+prize medal prince~
+#G{#yMEDAL#G} #RPrince #0of #RBattles#n~
+A shiny medal lies on the floor.~
+~
+9 0 1
+25 0 0 0
+5 0 0
+A
+13 1500
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33806
+prize lighter flaming~
+#R** #yA #RFlAmInG #yLighter #R**#n~
+A lighter stands here, waiting to be used.~
+~
+9 0 1
+25 0 0 0
+5 0 0
+A
+19 20
+A
+18 20
+A
+12 500
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33807
+prize piercing spike~
+#R(#CPiercing#R) #LA #CStudded #LSpike#n~
+A piece of metal lies on the floor.~
+~
+9 0 1
+0 0 0 0
+5 0 0
+A
+13 2000
+A
+14 2000
+A
+12 2000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33851
+prize wand brimstone~
+#G((#RWand #0of #RBrimstone#G))#n~
+A metal rod lies on the floor~
+~
+3 0 16385
+50 4 3 'imp fireball'
+5 100 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33852
+prize wand lloth~
+#p.o0#0The #PWand #0of Lloth#p0o.#n~
+A metal rod lies on the floor~
+~
+3 2 16385
+50 5 4 'web'
+5 450 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33853
+prize wand wonder~
+#G.#CX#G. Wand #Cof #GWonder .#CX#G.#n~
+A metal rod, nothing else.~
+~
+3 0 16385
+45 4 3 'imp teleport'
+4 54 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33854
+prize scroll fatal~
+#0The most #RFatal#0 of scrolls#n~
+A piece of parchment lies here.~
+~
+2 0 1
+50 'desanct' 'curse' 'web'
+5 324 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33855
+prize scroll nethereese~
+#0Scroll #Rof #0the #RNethereese#n~
+A piece of parchment lies in a tube on the floor.~
+~
+2 0 1
+55 'dispel magic' 'curse' 'web'
+4 234 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33856
+prize float ion stone~
+#oA floating #sIon #ostone#n~
+A little rock floats in the air.~
+~
+9 2 524289
+10 0 0 0
+5 100 0
+A
+19 7
+A
+18 9
+A
+4 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33857
+prize medal 1st~
+#GThe #C1st #GPrize #0(#yArena Winner#0)#n~
+A medal lies on the floor.~
+~
+9 0 262145
+10 0 0 0
+5 234 0
+A
+19 8
+A
+18 4
+A
+17 -12
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33858
+prize orb helpfile helper~
+#C=#G<>#C= #0The #yWonderful #0Helpfile #yHelper #0Award #C=#G<>#C=#n~
+A little rock, floating in the air.~
+~
+9 3 1
+10 0 0 0
+10 100 0
+A
+13 -250
+A
+12 -250
+A
+14 -250
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33859
+medal prize helper~
+#G<#P{#LHelpers Prize#P}#G>#n~
+A medal lies on the table.~
+~
+9 0 1
+0 0 0 0
+10 0 0
+A
+14 -250
+A
+12 -250
+A
+13 -250
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33860
+prize raven~
+#sEye #7of the #0Raven#n~
+A raven sits very still~
+~
+9 0 65537
+25 0 0 28
+5 0 0
+A
+19 50
+A
+18 50
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33960
+artifact rapier viper~
+#CA#cd#Ca#cm#Ca#cn#Ct#ci#Ct#ce#n #LRapier #0called #RV#yi#Rp#ye#Rr#n~
+A slim rapier made from pure adamantite stands against the wall.~
+~
+5 0 8193
+17000 50 80 11
+1 0 0
+A
+19 150
+A
+18 150
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33961
+artifact whip strangler~
+#pThe #RWhip #pnamed #RStrangler#n~
+A mean looking whip hangs on the wall.~
+~
+5 2 8193
+18154 65 105 4
+1 0 0
+A
+19 25
+A
+18 25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33962
+artifact fangs mummy~
+#0The Rotten #RFangs #0of the #yM#cu#ym#cm#yy#n~
+Some rotten teeth lies on the floor.~
+~
+5 0 8193
+17164 40 80 10
+1 0 0
+A
+19 -25
+A
+18 -25
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33963
+artifact longsword avenger~
+#CThe #yHoly #CAvenger#n~
+A longsword emitting a sense of peace stands against the wall.~
+~
+5 0 8193
+18000 70 100 1
+1 0 0
+A
+19 100
+A
+18 100
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33964
+sunglasses artifact~
+#0A #Cpair #0of #CCool#0 Sunglasses#n~
+A pair of sunglasses lies on the table.~
+~
+9 1 -1015807
+25 0 0 22
+1 0 0
+A
+18 100
+A
+19 100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33965
+artifact platemail~
+#CThe #yLegendary#C Plate Mail of #RLord#C Gunther#n~
+A shining platemail stands on a dummy.~
+~
+9 3 9
+25 0 0 21
+1 0 0
+A
+17 -200
+A
+18 50
+A
+19 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33966
+artifact helmet sight~
+#0The #RHelmet#0 of The #RCyclops#n~
+A small helmet with a blazing eye in the center lies on the floor.~
+~
+9 0 17
+25 0 0 29
+1 0 0
+A
+17 -25
+A
+18 -100
+A
+19 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33967
+artifact ring stars~
+#RRing #0of #yshooting #0Stars#n~
+A ring of shing silver lies here.~
+~
+9 1 3
+0 0 0 25
+1 0 0
+A
+18 100
+A
+19 100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33968
+artifact harvester blood~
+#RH#0ar#Rvest#0er of #R.o0#0Bloo#0d#R0o.#n~
+A wicked blade with a barbed tip hangs on the wall.~
+~
+5 2 8193
+53 50 100 5
+1 0 0
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33969
+artifact necklace seeing talespinner~
+#G'#RTalespinner#G' the #0Necklace #Gof Seeing#n~
+An ancient piece of jewelry lies on the floor.~
+~
+9 0 5
+25 0 0 29
+1 0 0
+A
+18 50
+A
+19 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33970
+artifact netherworlds questcard card~
+#R{#y###R}#pQuestcard from #0the #pNetherworlds#R{#y###R}#n~
+A platin card lies on the floor.~
+~
+34 2 1
+0 0 0 0
+5 100 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33971
+crimsonmist dragon artifact~
+#0The #Lphase #0dragon #G'#RC#rrimson#RM#rist#G'#n~
+A dragon flickers in and out of existance.~
+~
+9 0 1
+25 0 0 22
+1 1000 0
+A
+19 250
+A
+18 250
+A
+17 -100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33972
+sigil artifact madness~
+#C=#G<>#C= #7The #0Sigil #7of #0Madness #C=#G<>#C=#n~
+A shifting form of a bluish paintlike substance lies here.~
+~
+9 0 1
+20 0 0 0
+1 100 0
+A
+19 300
+A
+18 300
+A
+17 500
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33973
+questkey~
+#yQuest#RKey#n~
+#yQuest#RKey#n~
+~
+13 0 1
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#33974
+artifact~
+#LEmerelda's #CBlessing#n~
+A piece of battle armor lies here~
+~
+9 0 9
+25 0 0 21
+1 0 0
+A
+19 100
+A
+18 100
+A
+17 -100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#33000
+Jobo's Relic Room~
+~
+0 1064964 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

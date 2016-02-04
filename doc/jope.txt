@@ -1,0 +1,14 @@
+What is jope ?
+
+jope is an online pfile editor, which allows immortals to check
+players and set their stats while not having shell access. It
+allows some security control which pload doesn't have - including
+setting the immortal level required to edit parts of the pfile.
+
+syntax : pfile <full player name>
+
+just type '?' to get a list of commands you can use while in
+jope editing mode.
+
+WARNING - Please don't edit players while they are online,
+          strange things can happen.

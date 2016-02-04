@@ -1,0 +1,1087 @@
+#AREADATA
+Name        Jobo     Realm of the Dawnbringers~
+Builders    Jobo~
+VNUMs       80001 80100
+Security    1
+Recall      3005
+End
+
+
+
+#MOBILES
+#80001
+dawnbringer guard~
+A Dawnbringer Patrol Guard~
+A guard stands here, he doesn't seem bored.. strange...
+~
+~
+1 0 1000 S
+201 0 0 10d3+1 0d0+0
+0 0
+0 0 0
+#80002
+dawnbringer acolyte~
+A Dawnbringer Acolyte~
+An acolyte of the Dawnbringers fusses along.
+~
+~
+1 0 1000 S
+151 0 0 5d2+1 0d0+0
+0 0
+0 0 0
+#80003
+dawnbringer Paladin~
+A Dawnbringer Paladin~
+A real Dawnbringer Paladin guards these halls, better watch out
+~
+~
+1 0 1000 S
+251 0 0 5d5+2 0d0+0
+0 0
+0 0 0
+#80004
+dawnbringer Elder~
+A Dawnbringer Elder~
+An elder of the Dawnbringers lectures a few young acolytes
+~
+~
+1 0 1000 S
+250 0 0 25d0+2 0d0+0
+0 0
+0 0 0
+#80005
+dawnbringer Elite~
+A Dawnbringer Elder~
+A member of the Dawnbringer Elite sniffs in contempt
+~
+~
+1 0 1000 S
+299 0 0 10d0+2 0d0+0
+0 0
+0 0 0
+#80006
+dawnbringer Robot~
+A Dawnbringer Peacekeeper~
+A Robot of the Dawnbringers watches your every move
+~
+~
+1 16384 0 S
+101 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#80001
+#0<-#CHall of light#0->#n~
+From the great halls of light, the Dawnbringers bring joy and
+light to the lives of mortal souls. This is the last fortress of love, from
+where the sun will always shine. This is the last hope of Dystopia,
+and the meeting place of the gods.
+~
+0 0 0
+D0
+~
+~
+0 0 80002
+D2
+~
+~
+0 0 80013
+S
+#80002
+A light filled corridor in the halls of light~
+~
+0 0 0
+D0
+~
+~
+0 0 80003
+D2
+~
+~
+0 0 80001
+S
+#80003
+A light filled corridor in the halls of light~
+~
+0 0 0
+D1
+~
+~
+0 0 80004
+D2
+~
+~
+0 0 80002
+S
+#80004
+A Swirling Mass of Colors~
+~
+0 0 0
+D1
+~
+~
+0 0 80005
+D3
+~
+~
+0 0 80003
+S
+#80005
+Climbing the stairs of Virtue~
+~
+0 0 0
+D1
+~
+~
+0 0 80006
+D3
+~
+~
+0 0 80004
+S
+#80006
+A turn and a twist~
+~
+0 0 0
+D0
+~
+~
+0 0 80007
+D3
+~
+~
+0 0 80005
+S
+#80007
+A Meditation Chamber~
+~
+0 0 0
+D0
+~
+~
+0 0 80008
+D2
+~
+~
+0 0 80006
+S
+#80008
+Silence of the Lambs~
+~
+0 0 0
+D2
+~
+~
+0 0 80007
+D3
+~
+~
+0 0 80009
+S
+#80009
+Twisted Faith, Art Gallery~
+~
+0 0 0
+D1
+~
+~
+0 0 80008
+D3
+~
+~
+0 0 80010
+S
+#80010
+A Meditation Chamber~
+~
+0 0 0
+D1
+~
+~
+0 0 80009
+D2
+~
+~
+0 0 80011
+S
+#80011
+The backdoor to Chaos unleashed~
+~
+0 0 0
+D0
+~
+~
+0 0 80010
+D1
+~
+~
+0 0 80012
+S
+#80012
+The Horrid Reality~
+~
+0 0 0
+D3
+~
+~
+0 0 80011
+D5
+~
+~
+0 0 80031
+S
+#80013
+Running from the Pain~
+~
+0 0 0
+D0
+~
+~
+0 0 80001
+D2
+~
+~
+0 0 80014
+S
+#80014
+Unsolved Mystery~
+~
+0 0 0
+D0
+~
+~
+0 0 80013
+D3
+~
+~
+0 0 80015
+S
+#80015
+Canticle~
+~
+0 0 0
+D1
+~
+~
+0 0 80014
+D3
+~
+~
+0 0 80016
+S
+#80016
+As the Saga Continues~
+~
+0 0 0
+D1
+~
+~
+0 0 80015
+D3
+~
+~
+0 0 80017
+S
+#80017
+Blazing Sun, Light in Frames~
+~
+0 0 0
+D1
+~
+~
+0 0 80016
+D2
+~
+~
+0 0 80018
+S
+#80018
+Yet another Twist in the Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 80017
+D2
+~
+~
+0 0 80019
+S
+#80019
+Darkness Absolute~
+~
+0 0 0
+D0
+~
+~
+0 0 80018
+D1
+~
+~
+0 0 80020
+S
+#80020
+Under Construction, come back later~
+~
+0 0 0
+D1
+~
+~
+0 0 80021
+D3
+~
+~
+0 0 80019
+S
+#80021
+Abandoned Guard Post~
+~
+0 0 0
+D0
+~
+~
+0 0 80022
+D3
+~
+~
+0 0 80020
+S
+#80022
+Blood-soaked Stairs~
+~
+0 0 0
+D2
+~
+~
+0 0 80021
+D3
+~
+~
+0 0 80023
+S
+#80023
+~
+~
+0 0 0
+D1
+~
+~
+0 0 80022
+D4
+~
+~
+0 0 80061
+S
+#80031
+#0<-#CGuarded Halls of Spheres#0->#n~
+~
+0 0 0
+D0
+~
+~
+0 0 80032
+D2
+~
+~
+0 0 80043
+D4
+~
+~
+0 0 80012
+S
+#80032
+~
+~
+0 0 0
+D0
+~
+~
+0 0 80033
+D2
+~
+~
+0 0 80031
+S
+#80033
+Room of... something something~
+~
+0 0 0
+D1
+~
+~
+0 0 80034
+D2
+~
+~
+0 0 80032
+S
+#80034
+Bubble Spheres~
+~
+0 0 0
+D1
+~
+~
+0 0 80035
+D3
+~
+~
+0 0 80033
+S
+#80035
+Light Spheres~
+~
+0 0 0
+D1
+~
+~
+0 0 80036
+D3
+~
+~
+0 0 80034
+S
+#80036
+Rubber Spheres~
+~
+0 0 0
+D0
+~
+~
+0 0 80037
+D3
+~
+~
+0 0 80035
+S
+#80037
+Metal Spheres~
+~
+0 0 0
+D0
+~
+~
+0 0 80038
+D2
+~
+~
+0 0 80036
+S
+#80038
+Dream Spheres~
+~
+0 0 0
+D2
+~
+~
+0 0 80037
+D3
+~
+~
+0 0 80039
+S
+#80039
+Horrid Spheres~
+~
+0 0 0
+D1
+~
+~
+0 0 80038
+D3
+~
+~
+0 0 80040
+S
+#80040
+Spheres of Madness~
+~
+0 0 0
+D1
+~
+~
+0 0 80039
+D2
+~
+~
+0 0 80041
+S
+#80041
+Spheres of Insanity~
+~
+0 0 0
+D0
+~
+~
+0 0 80040
+D1
+~
+~
+0 0 80042
+S
+#80042
+Back to Back~
+~
+0 0 0
+D3
+~
+~
+0 0 80041
+D4
+~
+~
+0 0 80001
+S
+#80043
+Spheres of the Absolute~
+~
+0 0 0
+D0
+~
+~
+0 0 80031
+D2
+~
+~
+0 0 80044
+S
+#80044
+Canticle of Madness~
+~
+0 0 0
+D0
+~
+~
+0 0 80043
+D3
+~
+~
+0 0 80045
+S
+#80045
+Blinded by Light~
+~
+0 0 0
+D1
+~
+~
+0 0 80044
+D3
+~
+~
+0 0 80046
+S
+#80046
+Fright of Darkness~
+~
+0 0 0
+D1
+~
+~
+0 0 80045
+D3
+~
+~
+0 0 80047
+S
+#80047
+The Unspeakable~
+~
+0 0 0
+D1
+~
+~
+0 0 80046
+D2
+~
+~
+0 0 80048
+S
+#80048
+Horrors of the Unknown, Chained.~
+~
+0 0 0
+D0
+~
+~
+0 0 80047
+D2
+~
+~
+0 0 80049
+S
+#80049
+Mirror of Pain - Painting~
+~
+0 0 0
+D0
+~
+~
+0 0 80048
+D1
+~
+~
+0 0 80050
+S
+#80050
+Burn the Sun~
+~
+0 0 0
+D1
+~
+~
+0 0 80051
+D3
+~
+~
+0 0 80049
+S
+#80051
+Fear the bringers of Dawn, scribbled~
+~
+0 0 0
+D0
+~
+~
+0 0 80052
+D3
+~
+~
+0 0 80050
+S
+#80052
+Rise~
+~
+0 0 0
+D2
+~
+~
+0 0 80051
+D3
+~
+~
+0 0 80053
+S
+#80053
+#0<-#CTwisted turn#0->#n~
+~
+0 0 0
+D1
+~
+~
+0 0 80052
+D4
+~
+~
+0 0 80001
+S
+#80061
+#0<-#CThe hall of Dreams#0->#n~
+~
+0 0 0
+D0
+~
+~
+0 0 80062
+D2
+~
+~
+0 0 80073
+D5
+~
+~
+0 0 80023
+S
+#80062
+Resolution of Light~
+~
+0 0 0
+D0
+~
+~
+0 0 80063
+D2
+~
+~
+0 0 80061
+S
+#80063
+Return of the Dawnbringer~
+~
+0 0 0
+D1
+~
+~
+0 0 80064
+D2
+~
+~
+0 0 80062
+S
+#80064
+The Silverbattle~
+~
+0 0 0
+D1
+~
+~
+0 0 80065
+D3
+~
+~
+0 0 80063
+S
+#80065
+Shiny balls of Light~
+~
+0 0 0
+D1
+~
+~
+0 0 80066
+D3
+~
+~
+0 0 80064
+S
+#80066
+DO NOT ENTER~
+~
+0 0 0
+D0
+~
+~
+0 0 80067
+D3
+~
+~
+0 0 80065
+S
+#80067
+STAY OUT~
+~
+0 0 0
+D0
+~
+~
+0 0 80068
+D2
+~
+~
+0 0 80066
+S
+#80068
+LAST WARNING, YOU MAY NOT ENTER HERE~
+~
+0 0 0
+D2
+~
+~
+0 0 80067
+D3
+~
+~
+0 0 80069
+S
+#80069
+Don't you people ever listen ??~
+~
+0 0 0
+D1
+~
+~
+0 0 80068
+D3
+~
+~
+0 0 80070
+S
+#80070
+This is not for mortal eyes, behold the splendor~
+~
+0 0 0
+D1
+~
+~
+0 0 80069
+D2
+~
+~
+0 0 80071
+S
+#80071
+One step further~
+~
+0 0 0
+D0
+~
+~
+0 0 80070
+D1
+~
+~
+0 0 80072
+S
+#80072
+Trapped, or...~
+~
+0 0 0
+D3
+~
+~
+0 0 80071
+D4
+~
+~
+0 0 80001
+S
+#80073
+Running backwards~
+~
+0 0 0
+D0
+~
+~
+0 0 80061
+D2
+~
+~
+0 0 80074
+S
+#80074
+Sleeping Giants~
+~
+0 0 0
+D0
+~
+~
+0 0 80073
+D3
+~
+~
+0 0 80075
+S
+#80075
+Up, then Down. Why ?~
+~
+0 0 0
+D1
+~
+~
+0 0 80074
+D3
+~
+~
+0 0 80076
+S
+#80076
+Karate Kid III~
+~
+0 0 0
+D1
+~
+~
+0 0 80075
+D3
+~
+~
+0 0 80077
+S
+#80077
+Should I really be here?~
+~
+0 0 0
+D1
+~
+~
+0 0 80076
+D2
+~
+~
+0 0 80078
+S
+#80078
+The Unleashed~
+~
+0 0 0
+D0
+~
+~
+0 0 80077
+D2
+~
+~
+0 0 80079
+S
+#80079
+Tie Me Down!~
+~
+0 0 0
+D0
+~
+~
+0 0 80078
+D1
+~
+~
+0 0 80080
+S
+#80080
+Comforting windy halls~
+~
+0 0 0
+D1
+~
+~
+0 0 80081
+D3
+~
+~
+0 0 80079
+S
+#80081
+Comforting windy halls... continues~
+~
+0 0 0
+D0
+~
+~
+0 0 80082
+D3
+~
+~
+0 0 80080
+S
+#80082
+The Final Devasting Horror~
+~
+0 0 0
+D2
+~
+~
+0 0 80081
+D3
+~
+~
+0 0 80083
+S
+#80083
+#0<-#CStairway to the Unknown#0->#n~
+~
+0 0 0
+D1
+~
+~
+0 0 80082
+D4
+~
+~
+0 0 80001
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 80001 20 80001
+M 0 80001 20 80001
+M 0 80002 20 80002
+M 0 80002 20 80002
+M 0 80001 20 80004
+M 0 80001 20 80004
+M 0 80006 4 80004
+M 0 80006 4 80004
+M 0 80001 20 80006
+M 0 80001 20 80006
+M 0 80004 10 80006
+M 0 80002 20 80007
+M 0 80002 20 80007
+M 0 80002 20 80008
+M 0 80002 20 80008
+M 0 80004 10 80009
+M 0 80001 20 80011
+M 0 80001 20 80011
+M 0 80002 20 80013
+M 0 80002 20 80013
+M 0 80001 20 80014
+M 0 80001 20 80014
+M 0 80004 10 80014
+M 0 80005 10 80014
+M 0 80005 10 80015
+M 0 80002 20 80016
+M 0 80002 20 80016
+M 0 80001 20 80018
+M 0 80001 20 80018
+M 0 80001 20 80021
+M 0 80001 20 80021
+M 0 80004 10 80021
+M 0 80001 20 80031
+M 0 80001 20 80031
+M 0 80003 10 80031
+M 0 80003 10 80035
+M 0 80003 10 80039
+M 0 80002 20 80042
+M 0 80002 20 80042
+M 0 80003 10 80043
+M 0 80002 20 80044
+M 0 80002 20 80044
+M 0 80004 10 80044
+M 0 80006 4 80044
+M 0 80005 10 80045
+M 0 80003 10 80047
+M 0 80004 10 80047
+M 0 80001 20 80051
+M 0 80001 20 80051
+M 0 80002 20 80051
+M 0 80002 20 80051
+M 0 80004 10 80051
+M 0 80005 10 80053
+M 0 80001 20 80061
+M 0 80001 20 80061
+M 0 80003 10 80061
+M 0 80004 10 80062
+M 0 80003 10 80064
+M 0 80002 20 80066
+M 0 80002 20 80066
+M 0 80004 10 80066
+M 0 80002 20 80068
+M 0 80002 20 80068
+M 0 80003 10 80069
+M 0 80004 10 80069
+M 0 80001 20 80071
+M 0 80001 20 80071
+M 0 80005 10 80073
+M 0 80005 10 80073
+M 0 80005 10 80073
+M 0 80005 10 80073
+M 0 80004 10 80074
+M 0 80006 4 80074
+M 0 80005 10 80077
+M 0 80005 10 80080
+M 0 80003 10 80081
+M 0 80003 10 80082
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

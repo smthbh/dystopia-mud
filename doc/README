@@ -1,0 +1,25 @@
+This is the README file for the Dystopia 1.2 codebase.
+
+Please read all the .txt files located in this folder, most of
+them contain information which is vital or useful.
+
+** I have threaded the calls to new_descriptor(), this will cause the mud
+   to run two processes, the second one doesn't use any resources, even though
+   it claims to use the same amount of memory as the first (it shares the
+   memory with the first process). There *could* be a slight problem with
+   the threading, but so far I haven't noticed anything strange, and I
+   usually run a rather well-packed mud (playerwise), so I doubt theres
+   any quirks. (just a warning - the main error that could happen is freeing
+   the same memory twice, I'm 99.9% certain that the status_ system prevents this)
+
+** Theres a major lack in help files, it would be nice if someone would take
+   the time to figure out exactly which help files are missing, and either
+   write some of them or just report them to me.
+
+** If you have trouble compiling the codebase, and get a compile error refering
+   to -lz, then you are missing the ZLIB library, and need to get your sysadm to
+   install this first.
+
+Regards
+
+Jobo (jobo@daimi.au.dk)

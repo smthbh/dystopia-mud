@@ -1,0 +1,1116 @@
+#AREADATA
+Name        Jobo     Jobo's Hell~
+Builders    Jobo~
+VNUMs       30100 30200
+Security    9
+Recall      30100
+End
+
+
+
+#MOBILES
+#30100
+Fiend Pit~
+A pit fiend~
+A hellish creature from the abyss is growling at you.
+~
+~
+17 0 -1000 S
+238 0 0 10d4+1 0d0+0
+0 0
+0 0 0
+#30101
+pit lord~
+A Pit lord~
+A Pit Lord is eyeing you.
+~
+~
+17 128 -1000 S
+320 0 0 10d5+1 0d0+0
+0 0
+0 0 0
+#30102
+Hell Hound~
+A hell hound~
+A hell hound is standing here growling at you.
+~
+~
+17 0 -1000 S
+292 0 0 1d5+1 0d0+0
+0 0
+0 0 0
+#30103
+imp~
+A small imp~
+A small Imp wants to kill you.
+~
+~
+17 0 -1000 S
+196 0 0 10d5+2 0d0+0
+0 0
+0 0 0
+#30104
+Demon~
+A large demon~
+A large demon pokes you HARD.
+~
+~
+17 0 -1000 S
+310 0 0 10d5+1 0d0+0
+0 0
+0 0 0
+#30105
+demon~
+a short demon~
+A short demon tries to bite you in the knee.
+~
+~
+17 0 -1000 S
+341 0 0 10d5+1 0d0+0
+0 0
+0 0 0
+#30106
+demon green~
+a green demon~
+A green demon fondles you fondly.
+~
+~
+17 0 -1000 S
+379 0 0 10d5+1 0d0+0
+0 0
+0 0 0
+#30107
+Lava Horror~
+Lava Horror~
+A Lava Horror tries to kill you.
+~
+~
+17 0 -1000 S
+251 0 0 10d5+1 0d0+0
+0 0
+0 0 0
+#30108
+Wailing Soul~
+Wailing Soul~
+A Wailing Soul tries to get away.
+~
+~
+17 0 -1000 S
+275 0 0 10d5+1 0d0+0
+0 0
+0 0 0
+#30109
+Wraith~
+dark wraith~
+A dark wraith tries to steal your soul.
+~
+~
+17 0 -1000 S
+279 0 0 10d5+1 0d0+0
+0 0
+0 0 0
+#30110
+flaming claw~
+a Flaming Claw~
+A Flaming Claw tries to rip your heart out.
+~
+~
+17 0 -1000 S
+287 0 0 10d5+1 0d0+0
+0 0
+0 0 0
+#30111
+Maje Prisoner~
+a prisoner~
+A prisoner is here, being tortured for past sins.
+~
+This is Maje, a former player who made the
+error of insulting Jobo one time to many.
+~
+3 0 0 S
+349 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#30100
+skin goblin~
+the flayed skin of a goblin~
+The flayed skin of a humanoid lies here.~
+~
+19 0 1
+1 0 0 1
+4 35 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#30101
+vial blood~
+a vial of blood~
+A small glass vial with a red liquid lies here.~
+~
+17 1 1
+10 4 13 1
+1 1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#30100
+Entrance to the abyss~
+this is the entrance to the abyss, theres smoke everywhere
+and little imps are trying to steal your money while
+larger demons are looking at you like you were some sort
+of meal.
+~
+0 0 0
+D0
+~
+~
+0 0 30102
+D4
+~
+~
+0 0 30199
+S
+#30101
+A room in the chamber of death~
+this is the chamber of death, the meeting hall for
+all demonkind. Rumors has it that a pit lords lives in these
+halls.
+~
+0 0 0
+D0
+~
+~
+0 0 30104
+D1
+~
+~
+0 0 30102
+S
+#30102
+A room in the chamber of death~
+imps and demons are guarding these halls with hell hound patrols.
+~
+0 0 0
+D0
+~
+~
+0 0 30105
+D1
+~
+~
+0 0 30103
+D2
+~
+~
+0 0 30100
+D3
+~
+~
+0 0 30101
+S
+#30103
+A room in the chamber of death~
+~
+0 0 0
+D0
+~
+~
+0 0 30106
+D3
+~
+~
+0 0 30102
+S
+#30104
+A room in the chamber of death~
+watch out, theres evil afot.
+~
+0 0 0
+D1
+~
+~
+0 0 30105
+D2
+~
+~
+0 0 30101
+S
+#30105
+A room in the chamber of death~
+a table stands here and a deck of cards lies on top.
+even demons like to have fun it seems.
+~
+0 0 0
+D0
+~
+~
+0 0 30107
+D1
+~
+~
+0 0 30106
+D2
+~
+~
+0 0 30102
+D3
+~
+~
+0 0 30104
+S
+#30106
+A room in the chamber of death~
+a snarling demon passes you by, and a moment later
+you can hear an alarm in the distance.
+~
+0 0 0
+D2
+~
+~
+0 0 30103
+D3
+~
+~
+0 0 30105
+S
+#30107
+A corridor in the abyss~
+~
+0 0 0
+D0
+~
+~
+0 0 30108
+D2
+~
+~
+0 0 30105
+S
+#30108
+A corridor in the abyss~
+~
+0 0 0
+D1
+~
+~
+0 0 30109
+D2
+~
+~
+0 0 30107
+D3
+~
+~
+0 0 30114
+S
+#30109
+A corridor in the abyss~
+~
+0 0 0
+D1
+~
+~
+0 0 30110
+D3
+~
+~
+0 0 30108
+S
+#30110
+The torture room~
+~
+0 0 0
+D0
+~
+~
+0 0 30112
+D1
+~
+~
+0 0 30111
+D3
+~
+~
+0 0 30109
+S
+#30111
+The torture room~
+~
+0 0 0
+D0
+~
+~
+0 0 30113
+D3
+~
+~
+0 0 30110
+S
+#30112
+The torture room~
+~
+0 0 0
+D1
+~
+~
+0 0 30113
+D2
+~
+~
+0 0 30110
+S
+#30113
+The torture room~
+~
+0 0 0
+D2
+~
+~
+0 0 30111
+D3
+~
+~
+0 0 30112
+S
+#30114
+A corridor in the abyss~
+~
+0 1 0
+D1
+~
+~
+0 0 30108
+D3
+~
+~
+0 0 30115
+S
+#30115
+The fire pit~
+~
+0 0 0
+D0
+~
+~
+0 0 30120
+D1
+~
+~
+0 0 30114
+D3
+~
+~
+0 0 30116
+S
+#30116
+The fire pit~
+~
+0 0 0
+D0
+~
+~
+0 0 30119
+D1
+~
+~
+0 0 30115
+D3
+~
+~
+0 0 30117
+S
+#30117
+The fire pit~
+~
+0 0 0
+D0
+~
+~
+0 0 30118
+D1
+~
+~
+0 0 30116
+S
+#30118
+The fire pit~
+~
+0 0 0
+D0
+~
+~
+0 0 30123
+D1
+~
+~
+0 0 30119
+D2
+~
+~
+0 0 30117
+S
+#30119
+The fire pit~
+~
+0 0 0
+D0
+~
+~
+0 0 30122
+D1
+~
+~
+0 0 30120
+D2
+~
+~
+0 0 30116
+D3
+~
+~
+0 0 30118
+S
+#30120
+The fire pit~
+~
+0 0 0
+D0
+~
+~
+0 0 30121
+D2
+~
+~
+0 0 30115
+D3
+~
+~
+0 0 30119
+S
+#30121
+The fire pit~
+~
+0 0 0
+D0
+~
+~
+0 0 30126
+D2
+~
+~
+0 0 30120
+D3
+~
+~
+0 0 30122
+S
+#30122
+The fire pit~
+~
+0 0 0
+D0
+~
+~
+0 0 30125
+D1
+~
+~
+0 0 30121
+D2
+~
+~
+0 0 30119
+D3
+~
+~
+0 0 30123
+S
+#30123
+The fire pit~
+~
+0 0 0
+D0
+~
+~
+0 0 30124
+D1
+~
+~
+0 0 30122
+D2
+~
+~
+0 0 30118
+D3
+~
+~
+0 0 30127
+S
+#30124
+The fire pit~
+~
+0 0 0
+D1
+~
+~
+0 0 30125
+D2
+~
+~
+0 0 30123
+S
+#30125
+The fire pit~
+~
+0 0 0
+D1
+~
+~
+0 0 30126
+D2
+~
+~
+0 0 30122
+D3
+~
+~
+0 0 30124
+S
+#30126
+The fire pit~
+~
+0 0 0
+D1
+~
+~
+0 0 30133
+D2
+~
+~
+0 0 30121
+D3
+~
+~
+0 0 30125
+S
+#30127
+A corridor in the abyss~
+~
+0 0 0
+D1
+~
+~
+0 0 30123
+D3
+~
+~
+0 0 30128
+S
+#30128
+A corridor in the abyss~
+~
+0 0 0
+D1
+~
+~
+0 0 30127
+D3
+~
+~
+0 0 30130
+S
+#30129
+A smoke infested room~
+~
+0 0 0
+D1
+~
+~
+0 0 30130
+D2
+~
+~
+0 0 30131
+S
+#30130
+A smoke infested room~
+~
+0 0 0
+D1
+~
+~
+0 0 30128
+D2
+~
+~
+0 0 30132
+D3
+~
+~
+0 0 30129
+S
+#30131
+A smoke infested room~
+~
+0 0 0
+D0
+~
+~
+0 0 30129
+D1
+~
+~
+0 0 30132
+S
+#30132
+A smoke infested room~
+~
+0 0 0
+D0
+~
+~
+0 0 30130
+D3
+~
+~
+0 0 30131
+S
+#30133
+A corridor in the abyss~
+~
+0 0 0
+D1
+~
+~
+0 0 30134
+D3
+~
+~
+0 0 30126
+S
+#30134
+A corridor in the abyss~
+~
+0 0 0
+D0
+~
+~
+0 0 30135
+D3
+~
+~
+0 0 30133
+S
+#30135
+The lava pool~
+~
+0 0 0
+D0
+~
+~
+0 0 30136
+D1
+~
+~
+0 0 30138
+D2
+~
+~
+0 0 30134
+S
+#30136
+The lava pool~
+~
+0 0 0
+D1
+~
+~
+0 0 30137
+D2
+~
+~
+0 0 30135
+S
+#30137
+The lava pool~
+~
+0 0 0
+D1
+~
+~
+0 0 30139
+D2
+~
+~
+0 0 30138
+D3
+~
+~
+0 0 30136
+S
+#30138
+The lava pool~
+~
+0 0 0
+D0
+~
+~
+0 0 30137
+D1
+~
+~
+0 0 30140
+D3
+~
+~
+0 0 30135
+S
+#30139
+The lava pool~
+~
+0 0 0
+D1
+~
+~
+0 0 30141
+D2
+~
+~
+0 0 30140
+D3
+~
+~
+0 0 30137
+S
+#30140
+The lava pool~
+~
+0 0 0
+D0
+~
+~
+0 0 30139
+D1
+~
+~
+0 0 30142
+D3
+~
+~
+0 0 30138
+S
+#30141
+The lava pool~
+~
+0 0 0
+D1
+~
+~
+0 0 30143
+D2
+~
+~
+0 0 30142
+D3
+~
+~
+0 0 30139
+S
+#30142
+The lava pool~
+~
+0 0 0
+D0
+~
+~
+0 0 30141
+D3
+~
+~
+0 0 30140
+S
+#30143
+A corridor in the abyss~
+~
+0 0 0
+D1
+~
+~
+0 0 30144
+D3
+~
+~
+0 0 30141
+S
+#30144
+The pit of Despair~
+~
+0 0 0
+D1
+~
+~
+0 0 30145
+D2
+~
+~
+0 0 30146
+D3
+~
+~
+0 0 30143
+S
+#30145
+The pit of Despair~
+~
+0 0 0
+D2
+~
+~
+0 0 30147
+D3
+~
+~
+0 0 30144
+S
+#30146
+The pit of Despair~
+~
+0 0 0
+D0
+~
+~
+0 0 30144
+D1
+~
+~
+0 0 30147
+D2
+~
+~
+0 0 30149
+S
+#30147
+The pit of Despair~
+~
+0 0 0
+D0
+~
+~
+0 0 30145
+D2
+~
+~
+0 0 30148
+D3
+~
+~
+0 0 30146
+S
+#30148
+The pit of Despair~
+~
+0 0 0
+D0
+~
+~
+0 0 30147
+D3
+~
+~
+0 0 30149
+S
+#30149
+The pit of Despair~
+~
+0 0 0
+D0
+~
+~
+0 0 30146
+D1
+~
+~
+0 0 30148
+S
+#30199
+going down even deeper~
+~
+0 0 0
+D4
+~
+~
+0 0 30200
+D5
+~
+~
+0 0 30100
+S
+#30200
+going down~
+~
+0 0 0
+D4
+~
+~
+0 0 6002
+D5
+~
+~
+0 0 30199
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 30100 10 30102
+M 0 30101 10 30102
+M 0 30102 10 30102
+M 0 30103 10 30102
+M 0 30104 10 30102
+M 0 30105 10 30102
+M 0 30106 10 30102
+M 0 30100 10 30106
+M 0 30101 10 30106
+M 0 30102 10 30106
+M 0 30103 10 30106
+M 0 30104 10 30106
+M 0 30105 10 30106
+M 0 30106 10 30106
+M 0 30111 1 30112
+M 0 30100 10 30113
+M 0 30101 10 30113
+M 0 30102 10 30113
+M 0 30103 10 30113
+M 0 30104 10 30113
+M 0 30105 10 30113
+M 0 30106 10 30113
+M 0 30100 10 30114
+M 0 30101 10 30114
+M 0 30102 10 30114
+M 0 30103 10 30114
+M 0 30104 10 30114
+M 0 30105 10 30114
+M 0 30106 10 30114
+M 0 30107 12 30117
+M 0 30107 12 30117
+M 0 30107 12 30117
+M 0 30107 12 30117
+M 0 30107 12 30119
+M 0 30107 12 30119
+M 0 30107 12 30119
+M 0 30107 12 30119
+M 0 30100 10 30122
+M 0 30101 10 30122
+M 0 30102 10 30122
+M 0 30103 10 30122
+M 0 30104 10 30122
+M 0 30105 10 30122
+M 0 30106 10 30122
+M 0 30107 12 30126
+M 0 30107 12 30126
+M 0 30107 12 30126
+M 0 30107 12 30126
+M 0 30100 10 30130
+M 0 30101 10 30130
+M 0 30102 10 30130
+M 0 30103 10 30130
+M 0 30104 10 30130
+M 0 30105 10 30130
+M 0 30106 10 30130
+M 0 30110 15 30135
+M 0 30110 15 30135
+M 0 30110 15 30135
+M 0 30110 15 30135
+M 0 30110 15 30137
+M 0 30110 15 30137
+M 0 30100 10 30138
+M 0 30101 10 30138
+M 0 30102 10 30138
+M 0 30103 10 30138
+M 0 30104 10 30138
+M 0 30105 10 30138
+M 0 30106 10 30138
+M 0 30110 15 30140
+M 0 30110 15 30140
+M 0 30110 15 30140
+M 0 30110 15 30140
+M 0 30100 10 30141
+M 0 30101 10 30141
+M 0 30102 10 30141
+M 0 30103 10 30141
+M 0 30104 10 30141
+M 0 30105 10 30141
+M 0 30106 10 30141
+M 0 30110 15 30141
+M 0 30110 15 30141
+M 0 30110 15 30141
+M 0 30110 15 30141
+M 0 30110 15 30141
+M 0 30100 10 30145
+M 0 30101 10 30145
+M 0 30102 10 30145
+M 0 30103 10 30145
+M 0 30104 10 30145
+M 0 30105 10 30145
+M 0 30106 10 30145
+M 0 30109 8 30145
+M 0 30109 8 30145
+M 0 30109 8 30145
+M 0 30109 8 30145
+M 0 30108 10 30146
+M 0 30108 10 30146
+M 0 30108 10 30146
+M 0 30108 10 30146
+M 0 30108 10 30146
+M 0 30109 8 30147
+M 0 30109 8 30147
+M 0 30109 8 30147
+M 0 30109 8 30147
+M 0 30100 10 30148
+M 0 30101 10 30148
+M 0 30102 10 30148
+M 0 30103 10 30148
+M 0 30104 10 30148
+M 0 30105 10 30148
+M 0 30106 10 30148
+M 0 30108 10 30148
+M 0 30108 10 30148
+M 0 30108 10 30148
+M 0 30108 10 30148
+M 0 30108 10 30148
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

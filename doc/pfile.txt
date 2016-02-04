@@ -1,0 +1,7 @@
+The pfiles uses a revision system, which allows admins to update
+pfiles without to much hazzle. In jobo_util.c you'll find a function
+called update_revision() and in merc.h you'll find a declartion of
+CURRENT_REVISION. Each time you update the pfile revision, you
+just increase the CURRENT_REVISION by one in merc.h, and add
+the revision update in jobo_util.c (theres an example on how to
+use it, commented out in the code).

@@ -1,0 +1,1783 @@
+#AREADATA
+Name        Jobo     Old Dystopia~
+Builders    Jobo~
+VNUMs       30400 30650
+Security    9
+Recall      3005
+End
+
+
+
+#MOBILES
+#30400
+Guard Royal Dystopia~
+a royal guard of Dystopia~
+A royal guard of Dystopia stands here, guarding the area.
+~
+This male guard looks extremely fierce and alert,
+noone is going to do anything wrong while this guy is around.
+~
+19 128 1000 S
+966 0 0 20d10+2 0d0+0
+0 0
+0 0 1
+#30401
+guard dystopia royal~
+a royal guard of Dystopia~
+A royal guard of Dystopia stands here, waiting for you to leave.
+~
+This female guard looks at you with contempt.
+~
+19 65674 1000 S
+1078 0 0 40d10+2 0d0+0
+0 0
+0 0 2
+#30402
+Waitress Dystopia~
+a waitress~
+A waitress waiting to serve you.
+~
+These nifty little ladies are everywhere in
+Dystopia, always ready to do whatever you tell
+them to do.
+~
+17 0 1000 S
+817 0 0 10d10+1 0d0+0
+0 0
+0 0 2
+#30403
+Mayor Dystopia~
+The Mayor of Dystopia~
+The Mayor of Dystopia
+~
+He's the mayor of Dystopia, maybe you should
+leave him alone, he might call the guards.
+~
+17 0 1000 S
+2010 0 0 50d20+3 0d0+0
+0 0
+0 0 1
+#30404
+Citizen Dystopia~
+a citizen of Dystopia~
+A citizen of Dystopia is standing here.
+~
+The citizens of Dystopia is well fed and live
+in harmony with eachother, everything about them
+suggest that Dystopia is a paradise.
+~
+17 0 1000 S
+484 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#30405
+no name~
+A female citizen of Dystopia~
+A female citizen of Dystopia is flirting with you.
+~
+The citizens of Dystopia is well fed and live
+in harmony with eachother, everything about them
+suggest that Dystopia is a paradise.
+~
+17 0 1000 S
+419 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#30406
+child~
+a little child~
+A child is playing here.
+~
+He's having so much fun, maybe you should play
+with him... it couldn't hurt, could it?
+~
+17 0 1000 S
+201 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#30407
+dragon silver~
+A silver Dragon~
+A silver Dragon is guarding the streets.
+~
+The streets of Dystopia is guarded by dragon,
+so don't do anything wrong while in town.
+~
+17 0 1000 S
+797 0 0 20d15+3 0d0+0
+0 0
+0 0 0
+#30408
+gold dragon~
+a gold dragon~
+A gold Dragon is guarding the streets.
+~
+This ancient dragon is watching your every step.
+~
+17 0 1000 S
+963 0 0 25d18+3 0d0+0
+0 0
+0 0 0
+#30409
+worker dystopia~
+A worker~
+A worker is running around fixing stuff.
+~
+These are the little helpers of Dystopia, whenever something
+breaks, they'll arive swiftly and fix it.
+~
+17 0 1000 S
+202 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30500
+beholder prisoner~
+A beholder prisoner~
+A huge beholder is chained to the wall, it's eyestalks are blinded.
+~
+Another one of the prisoners of Dystopia,
+death to all evil.
+~
+29 130 -1000 S
+1234 0 0 50d15+3 0d0+0
+0 0
+0 0 0
+#30501
+dragon black~
+a huge black dragon~
+A black dragon is sleeping here.
+~
+This vile create will rip your guts out if you
+try to wake it from it's sleep.
+~
+17 0 -1000 S
+1037 0 0 15d20+3 0d0+0
+0 0
+0 0 0
+#30502
+giant stone~
+a stone giant~
+A stone giant sits here.
+~
+He'll rip you, no doubt.
+~
+17 0 -1000 S
+845 0 0 30d15+2 0d0+0
+0 0
+0 0 0
+#30503
+Slime Green~
+some green slime~
+Some green slime lies on the ground
+~
+It's evil, like everything else down here.
+~
+17 0 -1000 S
+833 0 0 20d10+2 0d0+0
+0 0
+0 0 0
+#30504
+Demon slimy~
+a slimy demon~
+A slimy demon tries to kill you when you enter
+~
+He'll rip you.
+~
+17 0 -1000 S
+738 0 0 10d5+1 0d0+0
+0 0
+0 0 0
+#30505
+beast~
+A large beast~
+A large beast is trying to escape
+~
+It's damn ugly.
+~
+17 0 0 S
+596 0 0 5d10+1 0d0+0
+0 0
+0 0 0
+#30506
+A slimy horror tries to kill you.~
+a slimy horror~
+A horror from your worst nightmare stares at you.
+~
+It's here, what more do you need.
+~
+17 0 -1000 S
+972 0 0 10d20+3 0d0+0
+0 0
+0 0 0
+#30507
+shopkeeper~
+a shopkeeper~
+A shopkeeper stands here, ignoring you.
+~
+Doesn't seem like they ever sell anything in Dystopia,
+this guys more interested in himself than you.
+~
+19 0 0 S
+506 0 0 5d9+1 0d0+0
+0 0
+0 0 0
+#30508
+Queen Dystopia~
+The Queen~
+The Queen of Dystopia fondles you fondly
+~
+She's the god damn Queen.
+~
+19 128 1000 S
+990 0 0 20d15+3 0d0+0
+0 0
+0 0 2
+#30509
+King Dystopia~
+The King~
+The King of Dystopia is ready to listen to your ideas.
+~
+Worship the king.
+~
+17 128 1000 S
+1989 0 0 50d20+3 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#30400
+greatsword sword royal~
+royal Greatsword~
+A huge sword lies here.~
+~
+5 16384 8193
+0 10 12 3
+100 452 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#30500
+club stone~
+a stone club~
+A mighty club made from stone lies here.~
+~
+5 0 8193
+0 12 15 7
+200 1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#30400
+#CInside the gates to Old Dystopia#n~
+~
+0 0 4
+D0
+~
+~
+0 0 30401
+D2
+~
+~
+0 0 3503
+S
+#30401
+#CThe road to Old Dystopia#n~
+~
+0 0 4
+D0
+~
+~
+0 0 30402
+D2
+~
+~
+0 0 30400
+S
+#30402
+#CThe road to Old Dystopia#n~
+~
+0 4 0
+D0
+~
+~
+0 0 30403
+D2
+~
+~
+0 0 30401
+S
+#30403
+#CThe road to Old Dystopia#n~
+~
+0 4 0
+D0
+~
+~
+0 0 30404
+D2
+~
+~
+0 0 30402
+S
+#30404
+#CThe T-cross, where to go, where to go#n~
+~
+0 4 0
+D1
+~
+~
+0 0 30405
+D2
+~
+~
+0 0 30403
+D3
+~
+~
+0 0 30411
+S
+#30405
+#CThe east road around Dystopia#n~
+~
+0 4 0
+D1
+~
+~
+0 0 30406
+D3
+~
+~
+0 0 30404
+S
+#30406
+#CThe east road around Dystopia#n~
+~
+0 4 0
+D1
+~
+~
+0 0 30407
+D3
+~
+~
+0 0 30405
+S
+#30407
+#CThe east road around Dystopia#n~
+~
+0 4 0
+D1
+~
+~
+0 0 30408
+D3
+~
+~
+0 0 30406
+S
+#30408
+#CThe east road around Dystopia#n~
+~
+0 4 0
+D1
+~
+~
+0 0 30409
+D3
+~
+~
+0 0 30407
+S
+#30409
+#CThe east road around Dystopia#n~
+~
+0 4 0
+D1
+~
+~
+0 0 30410
+D3
+~
+~
+0 0 30408
+S
+#30410
+#CThe Tower entrance#n~
+Behind the guard there is a door leading up.
+~
+0 0 0
+D3
+~
+~
+0 0 30409
+D4
+~
+~
+7 0 30420
+S
+#30411
+#CThe west road around Dystopia#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30404
+D3
+~
+~
+0 0 30412
+S
+#30412
+#CThe west road around Dystopia#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30411
+D3
+~
+~
+0 0 30413
+S
+#30413
+#CThe west road around Dystopia#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30412
+D3
+~
+~
+0 0 30414
+S
+#30414
+#CThe west road around Dystopia#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30413
+D3
+~
+~
+0 0 30415
+S
+#30415
+#CThe west road around Dystopia#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30414
+D3
+~
+~
+0 0 30416
+S
+#30416
+#CThe Dungeon entrance#n~
+Theres a closed door going down behind the guard.
+~
+0 0 0
+D1
+~
+~
+0 0 30415
+D5
+~
+~
+7 0 30500
+S
+#30420
+#CThe stairs to Dystopia#n~
+~
+0 0 0
+D4
+~
+~
+0 0 30421
+D5
+~
+~
+7 0 30410
+S
+#30421
+#CThe entrance to the City of Dystopia#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30422
+D5
+~
+~
+0 0 30420
+S
+#30422
+#CThe golden streets of Dystopia#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30423
+D2
+~
+~
+0 0 30421
+S
+#30423
+#CThe golden streets of Dystopia#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30424
+D1
+~
+~
+0 0 30433
+D2
+~
+~
+0 0 30422
+D3
+~
+~
+0 0 30447
+S
+#30424
+#CThe golden streets of Dystopia#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30425
+D2
+~
+~
+0 0 30423
+S
+#30425
+#CThe golden streets of Dystopia#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30426
+D2
+~
+~
+0 0 30424
+S
+#30426
+#CThe golden streets of Dystopia#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30427
+D1
+~
+~
+0 0 30440
+D2
+~
+~
+0 0 30425
+D3
+~
+~
+0 0 30451
+S
+#30427
+#CThe golden streets of Dystopia#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30428
+D2
+~
+~
+0 0 30426
+S
+#30428
+#CThe entrance to the Castle of Dystopia#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30429
+D2
+~
+~
+0 0 30427
+S
+#30429
+#CThe Castle halls#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30430
+D1
+~
+~
+0 0 30455
+D2
+~
+~
+0 0 30428
+D3
+~
+~
+0 0 30460
+S
+#30430
+#CThe Castle halls#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30431
+D1
+~
+~
+0 0 30456
+D2
+~
+~
+0 0 30429
+D3
+~
+~
+0 0 30459
+S
+#30431
+#CThe Castle halls#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30432
+D1
+~
+~
+0 0 30457
+D2
+~
+~
+0 0 30430
+D3
+~
+~
+0 0 30458
+S
+#30432
+#CThe Throne Room#n~
+~
+0 0 0
+D2
+~
+~
+0 0 30431
+S
+#30433
+#CA sidestreet#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30434
+D3
+~
+~
+0 0 30423
+S
+#30434
+#CA sidestreet#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30438
+D1
+~
+~
+0 0 30435
+D2
+~
+~
+0 0 30436
+D3
+~
+~
+0 0 30433
+S
+#30435
+#CA sidestreet#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30439
+D2
+~
+~
+0 0 30437
+D3
+~
+~
+0 0 30434
+S
+#30436
+#CA house#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30434
+S
+#30437
+#CA house#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30435
+S
+#30438
+#CA house#n~
+~
+0 0 0
+D2
+~
+~
+0 0 30434
+S
+#30439
+#CA house#n~
+~
+0 0 0
+D2
+~
+~
+0 0 30435
+S
+#30440
+#CA sidestreet#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30441
+D3
+~
+~
+0 0 30426
+S
+#30441
+#CA sidestreet#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30443
+D1
+~
+~
+0 0 30442
+D2
+~
+~
+0 0 30445
+D3
+~
+~
+0 0 30440
+S
+#30442
+#CA sidestreet#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30444
+D2
+~
+~
+0 0 30446
+D3
+~
+~
+0 0 30441
+S
+#30443
+#CA magic shop#n~
+~
+0 0 0
+D2
+~
+~
+0 0 30441
+S
+#30444
+#CA pawn shop#n~
+~
+0 0 0
+D2
+~
+~
+0 0 30442
+S
+#30445
+#CA pet shop#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30441
+S
+#30446
+#CA jewelry shop#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30442
+S
+#30447
+#CA sidestreet#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30423
+D3
+~
+~
+0 0 30448
+S
+#30448
+#CA sidestreet#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30449
+D1
+~
+~
+0 0 30447
+D2
+~
+~
+0 0 30450
+S
+#30449
+#CA house#n~
+~
+0 0 0
+D2
+~
+~
+0 0 30448
+S
+#30450
+#CA house#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30448
+S
+#30451
+#CA sidestreet#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30426
+D3
+~
+~
+0 0 30452
+S
+#30452
+#CA sidestreet#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30453
+D1
+~
+~
+0 0 30451
+D2
+~
+~
+0 0 30454
+S
+#30453
+#CWeaponsmith#n~
+~
+0 0 0
+D2
+~
+~
+0 0 30452
+S
+#30454
+#CThe common library#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30452
+S
+#30455
+#CThe treasury#n~
+~
+0 0 0
+D3
+~
+~
+0 0 30429
+S
+#30456
+#CThe Armory#n~
+~
+0 0 0
+D3
+~
+~
+0 0 30430
+S
+#30457
+#CThe Bedroom of the King#n~
+~
+0 0 0
+D3
+~
+~
+0 0 30431
+S
+#30458
+#CThe Bedroom of the Queen#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30431
+S
+#30459
+#CThe Training room#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30430
+S
+#30460
+#CThe Library#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30429
+S
+#30500
+#0The Stairs to the Dungeon of Dystopia#n~
+~
+0 0 0
+D4
+~
+~
+7 0 30416
+D5
+~
+~
+0 0 30501
+S
+#30501
+#0The Center of the dungeon of Dystopia#n~
+your standing in the middle of the dungeon of
+Dystopia, where all the evil creatures that wander
+near Dystopia are held prisoners.
+There are stairs back up, and a trapdoor leading
+down (theres a sign on the trapdoor saying "beware")
+corridors leads in all directions.
+~
+0 0 0
+D0
+~
+~
+0 0 30502
+D1
+~
+~
+0 0 30512
+D2
+~
+~
+0 0 30522
+D3
+~
+~
+0 0 30532
+D4
+~
+~
+0 0 30500
+D5
+~
+~
+7 0 30542
+S
+#30502
+#0A dark corridor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30503
+D2
+~
+~
+0 0 30501
+S
+#30503
+#0a row of prison cells#n~
+there are locked doors to both sides, and
+a warning sign on the doors saying
+  " Don't enter, prisoners inside "
+~
+0 0 0
+D0
+~
+~
+0 0 30504
+D1
+~
+~
+7 0 30511
+D2
+~
+~
+0 0 30502
+D3
+~
+~
+7 0 30510
+S
+#30504
+#0a row of prison cells#n~
+there are locked doors to both sides, and
+a warning sign on the doors saying
+  " Don't enter, prisoners inside "
+~
+0 0 0
+D0
+~
+~
+0 0 30505
+D1
+~
+~
+7 0 30509
+D2
+~
+~
+0 0 30503
+D3
+~
+~
+7 0 30508
+S
+#30505
+#0a row of prison cells#n~
+there are locked doors to both sides, and
+a warning sign on the doors saying
+  " Don't enter, prisoners inside "
+~
+0 0 0
+D1
+~
+~
+7 0 30507
+D2
+~
+~
+0 0 30504
+D3
+~
+~
+7 0 30506
+S
+#30506
+#0A prison cell#n~
+~
+0 0 0
+D1
+~
+~
+7 0 30505
+S
+#30507
+#0A prison cell#n~
+~
+0 0 0
+D3
+~
+~
+7 0 30505
+S
+#30508
+#0A prison cell#n~
+~
+0 0 0
+D1
+~
+~
+7 0 30504
+S
+#30509
+#0A prison cell#n~
+~
+0 0 0
+D3
+~
+~
+7 0 30504
+S
+#30510
+#0A prison cell#n~
+~
+0 0 0
+D1
+~
+~
+7 0 30503
+S
+#30511
+#0A prison cell#n~
+~
+0 0 0
+D3
+~
+~
+7 0 30503
+S
+#30512
+#0A dark corridor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30513
+D3
+~
+~
+0 0 30501
+S
+#30513
+#0a row of prison cells#n~
+there are locked doors to both sides, and
+a warning sign on the doors saying
+  " Don't enter, prisoners inside "
+~
+0 0 0
+D0
+~
+~
+7 0 30518
+D1
+~
+~
+0 0 30514
+D2
+~
+~
+7 0 30519
+D3
+~
+~
+0 0 30512
+S
+#30514
+#0a row of prison cells#n~
+there are locked doors to both sides, and
+a warning sign on the doors saying
+  " Don't enter, prisoners inside "
+~
+0 0 0
+D1
+~
+~
+0 0 30515
+D2
+~
+~
+7 0 30520
+D3
+~
+~
+0 0 30513
+S
+#30515
+#0a row of prison cells#n~
+there are locked doors to both sides, and
+a warning sign on the doors saying
+  " Don't enter, prisoners inside "
+~
+0 0 0
+D0
+~
+~
+7 0 30516
+D2
+~
+~
+7 0 30521
+D3
+~
+~
+0 0 30514
+S
+#30516
+#0A prison cell#n~
+~
+0 0 0
+D2
+~
+~
+7 0 30515
+S
+#30517
+#0A prison cell#n~
+~
+0 0 0
+D2
+~
+~
+7 0 30514
+S
+#30518
+#0A prison cell#n~
+~
+0 0 0
+D2
+~
+~
+7 0 30513
+S
+#30519
+#0A prison cell#n~
+~
+0 0 0
+D0
+~
+~
+7 0 30513
+S
+#30520
+#0A prison cell#n~
+~
+0 0 0
+D0
+~
+~
+7 0 30514
+S
+#30521
+#0A prison cell#n~
+~
+0 0 0
+D0
+~
+~
+7 0 30515
+S
+#30522
+#0A dark corridor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 30501
+D2
+~
+~
+0 0 30523
+S
+#30523
+#0a row of prison cells#n~
+there are locked doors to both sides, and
+a warning sign on the doors saying
+  " Don't enter, prisoners inside "
+~
+0 0 0
+D0
+~
+~
+0 0 30522
+D1
+~
+~
+7 0 0
+D2
+~
+~
+0 0 30524
+D3
+~
+~
+7 0 30526
+S
+#30524
+#0a row of prison cells#n~
+there are locked doors to both sides, and
+a warning sign on the doors saying
+  " Don't enter, prisoners inside "
+~
+0 0 0
+D0
+~
+~
+0 0 30523
+D2
+~
+~
+0 0 30525
+S
+#30525
+#0a row of prison cells#n~
+there are locked doors to both sides, and
+a warning sign on the doors saying
+  " Don't enter, prisoners inside "
+~
+0 0 0
+D0
+~
+~
+0 0 30524
+S
+#30526
+#0A prison cell#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30523
+S
+#30527
+#0A prison cell#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30523
+S
+#30528
+#0A prison cell#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30523
+S
+#30529
+#0A prison cell#n~
+~
+0 0 0
+D1
+~
+~
+7 0 30523
+S
+#30530
+#0A prison cell#n~
+~
+0 0 0
+D1
+~
+~
+7 0 30523
+S
+#30531
+#0A prison cell#n~
+~
+0 0 0
+D1
+~
+~
+7 0 30523
+S
+#30532
+#0A dark corridor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 30501
+D3
+~
+~
+0 0 30533
+S
+#30533
+#0a row of prison cells#n~
+there are locked doors to both sides, and
+a warning sign on the doors saying
+  " Don't enter, prisoners inside "
+~
+0 0 0
+D0
+~
+~
+7 0 30538
+D1
+~
+~
+0 0 30532
+D2
+~
+~
+7 0 30541
+D3
+~
+~
+0 0 30534
+S
+#30534
+#0a row of prison cells#n~
+there are locked doors to both sides, and
+a warning sign on the doors saying
+  " Don't enter, prisoners inside "
+~
+0 0 0
+D0
+~
+~
+7 0 30537
+D1
+~
+~
+0 0 30533
+D2
+~
+~
+7 0 30540
+D3
+~
+~
+0 0 30535
+S
+#30535
+#0a row of prison cells#n~
+there are locked doors to both sides, and
+a warning sign on the doors saying
+  " Don't enter, prisoners inside "
+~
+0 0 0
+D0
+~
+~
+7 0 30536
+D1
+~
+~
+0 0 30534
+D2
+~
+~
+7 0 30539
+S
+#30536
+#0A prison cell#n~
+~
+0 0 0
+D2
+~
+~
+7 0 30535
+S
+#30537
+#0A prison cell#n~
+~
+0 0 0
+D2
+~
+~
+7 0 30534
+S
+#30538
+#0A prison cell#n~
+~
+0 0 0
+D2
+~
+~
+7 0 30533
+S
+#30539
+#0A prison cell#n~
+~
+0 0 0
+D0
+~
+~
+7 0 30535
+S
+#30540
+#0A prison cell#n~
+~
+0 0 0
+D0
+~
+~
+7 0 30534
+S
+#30541
+#0A prison cell#n~
+~
+0 0 0
+D0
+~
+~
+7 0 30533
+S
+#30542
+#0The pit#n~
+~
+0 0 0
+D4
+~
+~
+7 0 30501
+S
+#0
+
+
+
+#SPECIALS
+M 30400 spec_guard
+M 30401 spec_guard
+M 30403 spec_mayor
+M 30409 spec_janitor
+M 30501 spec_breath_acid
+S
+
+
+
+#RESETS
+M 0 30400 20 30400
+M 0 30401 20 30400
+M 0 30400 20 30404
+M 0 30401 20 30404
+M 0 30407 3 30406
+M 0 30408 3 30406
+M 0 30407 3 30409
+M 0 30408 3 30409
+M 0 30400 20 30410
+M 0 30401 20 30410
+M 0 30407 3 30413
+M 0 30408 3 30413
+M 0 30400 20 30416
+M 0 30401 20 30416
+M 0 30400 20 30421
+M 0 30401 20 30421
+M 0 30400 20 30423
+M 0 30401 20 30423
+M 0 30403 1 30425
+M 0 30400 20 30426
+M 0 30401 20 30426
+M 0 30400 20 30429
+M 0 30401 20 30429
+M 0 30409 10 30430
+M 0 30409 10 30430
+M 0 30400 20 30432
+M 0 30401 20 30432
+M 0 30509 1 30432
+E 0 30400 0 16
+M 0 30400 20 30434
+M 0 30401 20 30434
+M 0 30409 10 30435
+M 0 30409 10 30435
+M 0 30404 6 30436
+M 0 30405 6 30436
+M 0 30406 6 30436
+M 0 30404 6 30437
+M 0 30405 6 30437
+M 0 30406 6 30437
+M 0 30404 6 30438
+M 0 30405 6 30438
+M 0 30406 6 30438
+M 0 30404 6 30439
+M 0 30405 6 30439
+M 0 30406 6 30439
+M 0 30400 20 30441
+M 0 30401 20 30441
+M 0 30402 5 30441
+M 0 30409 10 30442
+M 0 30409 10 30442
+M 0 30507 5 30443
+M 0 30507 5 30444
+M 0 30507 5 30445
+M 0 30507 5 30446
+M 0 30402 5 30447
+M 0 30400 20 30448
+M 0 30401 20 30448
+M 0 30409 10 30448
+M 0 30409 10 30448
+M 0 30404 6 30449
+M 0 30405 6 30449
+M 0 30406 6 30449
+M 0 30404 6 30450
+M 0 30405 6 30450
+M 0 30406 6 30450
+M 0 30402 5 30451
+M 0 30409 10 30451
+M 0 30409 10 30451
+M 0 30400 20 30452
+M 0 30401 20 30452
+M 0 30507 5 30453
+M 0 30402 5 30455
+M 0 30400 20 30457
+M 0 30401 20 30457
+M 0 30400 20 30458
+M 0 30401 20 30458
+M 0 30508 1 30458
+M 0 30400 20 30460
+M 0 30401 20 30460
+M 0 30402 5 30460
+M 0 30400 20 30501
+M 0 30400 20 30501
+M 0 30401 20 30501
+M 0 30401 20 30501
+M 0 30505 4 30505
+M 0 30502 4 30506
+E 0 30500 0 16
+M 0 30502 4 30506
+E 0 30500 0 16
+M 0 30502 4 30506
+E 0 30500 0 16
+M 0 30502 4 30506
+E 0 30500 0 16
+M 0 30501 1 30507
+M 0 30500 2 30510
+M 0 30400 20 30512
+M 0 30400 20 30512
+M 0 30401 20 30512
+M 0 30401 20 30512
+M 0 30505 4 30515
+M 0 30504 10 30516
+M 0 30504 10 30516
+M 0 30504 10 30516
+M 0 30504 10 30516
+M 0 30503 10 30518
+M 0 30503 10 30518
+M 0 30503 10 30518
+M 0 30503 10 30518
+M 0 30503 10 30518
+M 0 30500 2 30519
+M 0 30505 4 30525
+M 0 30505 10 30526
+M 0 30505 10 30526
+M 0 30505 10 30526
+M 0 30505 10 30526
+M 0 30505 10 30527
+M 0 30505 10 30527
+M 0 30506 4 30529
+M 0 30506 4 30529
+M 0 30506 4 30529
+M 0 30506 4 30529
+M 0 30504 10 30531
+M 0 30504 10 30531
+M 0 30505 4 30535
+M 0 30504 10 30536
+M 0 30504 10 30536
+M 0 30504 10 30536
+M 0 30504 10 30536
+M 0 30505 10 30537
+M 0 30505 10 30537
+M 0 30505 10 30537
+M 0 30505 10 30537
+M 0 30505 10 30537
+M 0 30503 10 30541
+M 0 30503 10 30541
+M 0 30503 10 30541
+M 0 30503 10 30541
+M 0 30503 10 30541
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

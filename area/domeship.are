@@ -1,0 +1,3821 @@
+#AREADATA
+Name        Antibody Dome Ship StarSword~
+Builders    Antibody~
+VNUMs       93000 93150
+Security    9
+Recall      3001
+End
+
+
+
+#MOBILES
+#93000
+andalite guard~
+An Andalite Guard~
+An Andalite Guard is here to keep the peace.
+~
+An exeptionally large Andalite stands here.
+His Massive tail and blade wizzes by your face causing you to stumble.
+Hes one mean dude.
+~
+17 0 100 S
+202 0 0 1d1+1 0d0+0
+0 0
+0 0 1
+#93001
+andalite aristh arish ariths ~
+An Andalite Aristh~
+An Andalite Aristh walks around here clumsily.
+~
+A rather small Andalite is here with his tail dragging lazily behind
+~
+17 0 100 S
+195 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93002
+andalite warprince~
+An Andalite WarPrince~
+An Andalite War-Prince stands here.
+~
+He is one MASSIVE Andalite. 
+With a tail stretching over 10 feet.
+And a tail blade adding another foot and a half...
+Thats one big dude.. dont mess with em...
+~
+17 0 100 S
+377 0 0 1d1+1 0d0+0
+0 0
+0 0 1
+#93003
+An Andalite Prince~
+An Andalite Prince~
+An Andalite Prince swaggers by you.
+~
+This is one massive Andalite, with a Huge tail and a massive blade.
+He is not one to be messed with
+~
+17 0 100 S
+344 0 0 1d1+1 0d0+0
+0 0
+0 0 1
+#93004
+A female Andalite~
+An Andalite Female~
+An Andalite Female stands here.
+~
+She is confident. She is Proud. She can kick your ass.. 
+~
+17 0 100 S
+194 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#93005
+andalite captain feyorn~
+Captain Feyorn~
+Captain Feyorn walks around here
+~
+The captain of the Dome Ship StarSword he is one bad ass mofo
+~
+23 128 100 S
+586 0 0 1d3+0 0d0+0
+0 0
+0 0 1
+#93006
+elfangor andalite~
+Elfangor-Sirinial-Shamtul~
+War Prince Elfangor-Sirinial-Shamtul stands here
+~
+He is a legens among his people.....
+He is a known hero in the galaxy and a great fighter
+His skills are all unsurpassed....
+He will therefore kill you like a true pakistanian slut....
+~
+23 128 100 S
+595 0 0 1d10+1 0d0+0
+0 0
+0 0 1
+#93007
+andalite off duty~
+An Off-Duty Andalite~
+An Off-Duty Andalite stands around here trying not to be bored.
+~
+Hes bored..  Aint it sad No one to bother, No battles to fight...  No
+Andalites to punish...  Hey how about killing you?  
+~
+17 65536 100 S
+269 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93008
+andalite tall musc~
+A Tall Muscular Andalite~
+A Tall Muscular Andalite walks by you
+~
+Now thats one HUGE BITCH You look at his tail blade and nearly quiver at
+the size of it..  God damn...  
+~
+17 0 100 S
+300 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93009
+young andalite~
+A Young Andalite~
+A Young Andalite stands here trying to look cool to his friends.
+~
+Hes desperately trying to impress people around him so hes always
+standing upright keeping his head high...  
+~
+17 0 100 S
+211 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93010
+desbedean lemneer~
+A DesBeDean LemNeeR~
+A DesBeDean LemNeeR grazes in the Domes sweet grass.
+~
+A creature that looks sort of like a deer, but the joints at the knees
+are bent backward.  The head itself is shaped like an iscoceles triangle
+with the uneven ends making up its mouth.  The animal looks very friendly
+but you stay back becuse of its large size.  
+ 
+~
+19 0 100 S
+244 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#93011
+luminar huge~
+A Huge Luminar~
+A Huge Luminar walks around here spewing fire in all directions.
+~
+A great and large beast that has skin the is totally surrounded by fire. 
+It eats by absorbing the stray minerals that float around in the air.  It
+comes closer to yuo and you immediately draw away because of the immense
+heat Its one buff thingy 
+~
+1 0 100 S
+248 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#93012
+andalite conversating~
+An Conversating Andalite~
+An Andalite is conversating with his buddies here
+~
+Hes standing here... watching the game... smoking a bud... the normal stuff
+~
+19 0 100 S
+269 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93013
+andalite conversating~
+An Andalite Conversating~
+An Andalite is here conversating with her buds...
+~
+Shes just standing there... chilling... killing... **blow out a pume of smoke**
+~
+19 0 100 S
+191 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#93014
+aristh aximili~
+Aristh's Aximili~
+Aristh's Aximili walks around with his tail held high!
+~
+He is the brother of Elfagor Sirinial Shamtul...  Trying to live up to
+his brothers image he is proud and very vigilant.  He walks around with his
+head up and tail raised and carries with him an aura of power!  
+~
+19 0 100 S
+271 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93015
+aristh arbron~
+Aristh Arbron~
+Aristh Arbron stands here.
+~
+He is a tough Andalite who never applied for warrior status.  Even though
+he is stronger than most of the warrior on this ship.  He is humble and will
+never do anything to hurt anyone unless provoked.  
+~
+19 0 100 S
+295 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93016
+arysth arymon ygon~
+Aristh Arygon~
+Aristh Arygon stands here.
+~
+A relative of Force-Commander-Antibody he is one big mofo.  His
+humbleness seems weird because of his massive stature that makes him seems
+fearsome.  He has not applied for position as a warrior.  
+~
+19 0 100 S
+294 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93017
+aristh jackabo jack ~
+Aristh Jackalo~
+Aristh Jackalo is here, jerking off.
+~
+He has no shame.. hes carressing his body parts right in front of you 
+~
+19 0 100 S
+326 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93018
+aristh erou eroug~
+Aristh Erouf~
+Aristh Erouf is here.
+~
+Hes real gay.. dont get too close.. he might ask you to help put on his make up.
+~
+17 0 100 S
+290 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93020
+andalite prince ran and~
+Andalite Prince Rand~
+The Andalite Prince Rand
+~
+Hes one strange mofo.. 
+But he can KICK YO ASS
+~
+19 0 100 S
+409 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93021
+kaflit bird~
+A Kaflit Bird~
+A Kaflit Bird flys above you with its 6 set of wings
+~
+A large bird with the head of a predator.  Its most amazing attribute
+being its 6 set of wings..  This being there greatest strength ables them to
+go faster than most birds, buit its large size makes it less maneuverable.  
+~
+17 0 100 S
+252 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#93022
+prince antill tilles~
+Andalite Prince Antilles~
+The Andalite Prince Antilles stands here
+~
+With his tail held high, he looks at you and smiles, knowing he has power.  
+~
+19 0 100 S
+406 0 0 2d0+0 0d0+0
+0 0
+0 0 1
+#93023
+prince mad beed~
+Andalite Prince MadBeef~
+Andalite Prince MadBeef is here
+~
+Weird name for an Andalite Aint it?
+~
+19 0 100 S
+413 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93024
+prince fallen angel~
+Andalite Prince FallenAngel~
+Prince Fallen-Angel stands here, beaming at you.
+~
+He is so boring to look at you try your best and turn away.. good lord.
+~
+19 0 100 S
+404 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93025
+andalite prince ja tr~
+Prince Jatr your Leader~
+The Andalite Prince Jatr your Leader is here!
+~
+Husband to the beautiful #sE#sm#se#sr#Se#sl#sd#sa#n #0he stands proud
+with head held high and tail raised in respect.  
+~
+19 0 100 S
+430 0 0 2d1+0 0d0+0
+0 0
+0 0 1
+#93026
+commander xkill ~
+Commander Xkilla ~
+The Andalite Commander of StarSword Xkilla is here
+~
+Looking at him you see intelligence that defies his years of age.  Being
+small in stature he seems so awkward and doesnt look like one to have the
+position of Commander.  But try fighting him...  
+~
+19 0 100 S
+494 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#93027
+andalite princes shand archbunny~
+The ArchBunny Honey Shandara~
+The ArchBunny Honey Shandara is here looking DEAD SEXY!
+~
+She walks by you with that look on her face, that could make any male
+quiver in delight.  Females just think shes sassy.  Does she care?  I think
+not.  
+~
+19 0 100 S
+456 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#93028
+commander anti body big daddy~
+The Big-Booty-Daddy AntiBody~
+The Big-Booty-Daddy Antibody stands here shaking his tail to the beat.
+~
+With all the music blasting you barely can hear yourself think and seeing
+Antibody trying to dance with four legs and a tail just makes you wanna
+crack up laughing.  Aint he just the cutest....  But dont tell him that.. 
+Hell prolly just agree with you and try and make you dance with him..  
+~
+19 0 100 S
+491 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#93029
+desbedean bog~
+A DesBeDean Bog~
+A Desbidian Bog floats around here
+~
+A Desbidian Bog is floating above the ground on the artificial breeze of
+the Dome.  Its 6 foot wing span is curved outward allowing wind to push its
+body up.  It has the mouth of a grass eater which is strange since it has
+wings.  It is also 7 feet long with talons and claws that are razor sharp 
+~
+19 0 100 S
+308 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#93030
+chicabu~
+A Chicabu~
+An Andalite Chicabu is here grazing
+~
+It looks very much like any other andalite only it has a mouth and eats
+like a horse.  
+~
+19 0 100 S
+264 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#93000
+ring elfangors elfan~
+**Elfangors Ring**~
+#0A #sstrange #Cring #0lies on the floor here.#n~
+~
+9 1 3
+4 0 0 0
+5 5000 0
+A
+1 3
+A
+4 3
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93001
+vault magnetic seal~
+magnetic seal vault~
+A Large Vault with a Magnetic Seal is on the ground here.~
+~
+15 1 0
+1 13 93002 0
+1 10000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93002
+strange key card~
+a Strange Key Card~
+A Key-Card is lying on the floor here.~
+~
+18 0 1
+0 0 0 0
+1 100 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93003
+sword omens of~
+**Sword of Omens**~
+A sword with an eye embedded in its hilt~
+~
+5 1 16385
+0 5 10 1
+10 100 0
+A
+17 -10
+A
+19 5
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93004
+ring of death~
+ring of Death~
+A deep red ring lies on the ground here~
+~
+9 3 3
+10 0 0 0
+10 10 0
+A
+18 5
+A
+19 5
+A
+17 -10
+A
+1 3
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93005
+life ring of~
+ring of Life~
+A bright #CGlowing#n ring lies here.~
+~
+9 0 3
+0 0 0 0
+5 100 0
+A
+18 5
+A
+17 -10
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93006
+andalite bracer~
+andalite bracer~
+A strange peice of metal lies on the ground here~
+~
+9 1 4097
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93007
+andalite ring~
+andalite ring~
+A strange peice of metal lies on the ground here~
+~
+9 1 3
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93008
+andalite helmet~
+andalite helmet~
+A strange peice of metal lies on the ground here~
+~
+9 1 17
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93009
+andalite sleeves~
+andalite sleeves~
+A strange peice of metal lies on the ground here~
+~
+9 1 257
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93010
+andalite collar~
+andalite collar~
+A strange peice of metal lies on the ground here~
+~
+9 1 5
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93011
+andalite collar of life~
+collar of Life~
+A strange peice of metal lies on the ground here~
+~
+9 1 5
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93012
+andalite leggings~
+andalite leggings~
+A strange peice of metal lies on the ground here~
+~
+9 1 33
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93013
+andalite gauntlets~
+andalite gauntlets~
+A strange peice of metal lies on the ground here~
+~
+9 1 129
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93014
+andalite plate~
+andalite plate~
+A strange peice of metal lies on the ground here~
+~
+9 1 9
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93015
+andalite boots~
+andalite boots~
+A strange peice of metal lies on the ground here~
+~
+9 1 65
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93016
+andalite mask~
+andalite mask~
+A strange peice of metal lies on the ground here~
+~
+9 1 -1015807
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93017
+andalite cape~
+andalite cape~
+A strange peice of metal lies on the ground here~
+~
+9 1 1025
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93018
+andalite belt~
+andalite belt~
+A strange peice of metal lies on the ground here~
+~
+9 1 2049
+0 0 0 0
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93019
+andalite sword~
+andalite Sword~
+A strange peice of metal lies on the ground here~
+~
+5 1 8193
+0 7 16 1
+1 100 0
+A
+18 5
+A
+19 5
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#93000
+Center of the Docking Bay~
+The #sDocking #sBay, #na vast space filled with containers and other
+items that cannot be identified.  The #sDocking #sBay#n extends to the
+north, south, east and west of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93004
+D1
+~
+~
+0 0 93001
+D2
+~
+~
+0 0 93003
+D3
+~
+~
+0 0 93002
+D5
+~
+~
+0 0 93150
+S
+#93001
+Eastern Corner of Docking Bay~
+The eastern corner of the #sDocking #sBay#n is filled with large
+containers marked in a foreign language.  There is one sign that seems to be
+repeated frequently.  
+~
+0 0 0
+D3
+~
+~
+0 0 93000
+S
+#93002
+Eastern Corner of Docking Bay~
+The eastern corner of the #sDocking #sBay #ncontains a large amount of
+objects that look like weapons.  There are a few shelves that seemed to have
+hold many of them at one time.  
+~
+0 0 0
+D1
+~
+~
+0 0 93000
+D3
+~
+~
+1 0 93006
+S
+#93003
+Southern corner of Docking Bay~
+The southern corner of the #sDocking #sBay#n contains a row of machines
+that look like space ships.  There are several with open spaces and ramps
+leading in to them.  
+~
+0 0 0
+D0
+~
+~
+0 0 93000
+S
+#93004
+Northern Corner of Docking Bay~
+The northern corner of the #sDocking #sBay #nis defined by the #sHUGE
+#sHangar#n directly to the north.  The #sHangar #nseems to be able to
+accomidate a whole fleet of 757's..  Now thats one #CHUGE BITCH.  #n 
+~
+0 0 0
+D0
+~
+~
+3 0 93005
+D2
+~
+~
+0 0 93000
+S
+#93005
+Outter Space~
+~
+0 0 0
+D2
+~
+~
+3 0 93004
+S
+#93006
+Docking Bay Drop Shaft~
+The #sDrop #sShaft #nis a huge tube that has no bottom or top, but
+extends up and down.  To operate it you just #0think of the floor #nyou want
+to go and youll be there 
+~
+0 0 0
+D1
+~
+~
+1 0 93002
+D4
+~
+~
+0 0 93008
+D5
+~
+~
+0 0 93007
+S
+#93007
+Inside the Drop Shaft~
+~
+0 0 0
+D1
+~
+~
+0 0 93009
+D4
+~
+~
+0 0 93006
+S
+#93008
+Inside the Drop Shaft~
+The #sDrop #sShaft, #na huge tube that has no bottom or top, but extends up and down.
+To operate it you just #0think of the floor #nyou want to go and youll be there
+~
+0 0 0
+D4
+~
+~
+0 0 93012
+D5
+~
+~
+0 0 93006
+S
+#93009
+Lower Level ~
+~
+0 0 0
+D0
+~
+~
+0 0 93011
+D2
+~
+~
+0 0 93010
+D3
+~
+~
+0 0 93007
+S
+#93010
+Weapons Storage~
+~
+0 0 0
+D0
+~
+~
+0 0 93009
+S
+#93011
+Storage room~
+~
+0 0 0
+D2
+~
+~
+0 0 93009
+S
+#93012
+Inside the Drop Shaft~
+The #sDrop #sShaft, #na huge tube that has no bottom or top, but extends up and down.
+To operate it you just #0think of the floor #nyou want to go and youll be there
+To the east is the Main Level of #sStarSword.#n
+~
+0 0 0
+D1
+~
+~
+0 0 93013
+D5
+~
+~
+0 0 93008
+S
+#93013
+West Main Level~
+The western side of the Main Level is where the princes usually "hang
+out", when there "not" on duty....  To the west is a #sDrop #sShaft
+#nleading to the Docking Bay.  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 93016
+D1
+~
+~
+0 0 93018
+D2
+~
+~
+0 0 93017
+D3
+~
+~
+0 0 93012
+S
+#93014
+Main Level of StarSword~
+~
+0 4 0
+S
+#93015
+~
+~
+0 4 0
+S
+#93016
+West Main Level~
+The western side of the Main Level..  Where the Princes Are.  They walk
+around acting as if there betetr than the rest.  When the rest can prolly
+kick their ass.  There is lucious #ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93030
+D1
+~
+~
+0 0 93020
+D2
+~
+~
+0 0 93013
+D3
+~
+~
+0 0 93111
+S
+#93017
+West Main Level~
+The western side of the Main Level..  Where the Princes Are.  They walk
+around acting as if there betetr than the rest.  When the rest can prolly
+kick their ass.  There is lucious #ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93013
+D1
+~
+~
+0 0 93019
+D2
+~
+~
+0 0 93034
+D3
+~
+~
+0 0 93033
+S
+#93018
+Center Main Level~
+The Center of the Main Level is fileld with many Andalites conversing.. 
+Killing time..  Etc There is a mixure of every sort of Andalite on this
+Level.  There is lucious #ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93020
+D1
+~
+~
+0 0 93021
+D2
+~
+~
+0 0 93019
+D3
+~
+~
+0 0 93013
+S
+#93019
+Center Main Level~
+The Center of the Main Level is fileld with many Andalites conversing.. 
+Killing time..  Etc There is a mixure of every sort of Andalite on this
+Level.  There is lucious #ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93018
+D1
+~
+~
+0 0 93027
+D2
+~
+~
+0 0 93035
+D3
+~
+~
+0 0 93017
+S
+#93020
+Center Main Level~
+The Center of the Main Level is fileld with many Andalites conversing.. 
+Killing time..  Etc There is a mixure of every sort of Andalite on this
+Level.  There is lucious #ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93024
+D1
+~
+~
+0 0 93026
+D2
+~
+~
+0 0 93018
+D3
+~
+~
+0 0 93016
+S
+#93021
+East Main Level~
+The Eastern side of the Main Level, is bustling with activity as
+Andalites run by you trying to get somewhere.  Or just standing around. 
+There is lucious #ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93026
+D1
+~
+~
+0 0 93025
+D2
+~
+~
+0 0 93027
+D3
+~
+~
+0 0 93018
+S
+#93022
+North East Main Level~
+The north eastern side of the main level is bustling with activity as off
+duty Andalites run around trying to find something to do.  A group of
+Andalites stand around talking telapathically.  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D1
+~
+~
+0 0 93023
+D2
+~
+~
+0 0 93026
+D3
+~
+~
+0 0 93024
+S
+#93023
+Atisth #sErouf's #nQuarters~
+Inside #CAtisth #sErouf's #nQuarters there are a whole bunch of holo-pics of some rabit monkeys jumping up and down going oo oo aa a a a a .
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D3
+~
+~
+0 0 93022
+S
+#93024
+Center Main Level~
+The Center of the Main Level is fileld with many Andalites conversing.. 
+Killing time..  Etc There is a mixure of every sort of Andalite on this
+Level.  There is lucious #ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93039
+D1
+~
+~
+0 0 93022
+D2
+~
+~
+0 0 93020
+D3
+~
+~
+0 0 93030
+S
+#93025
+Aristh #sAximili's #nQuarters~
+Inside Aristh Aximili's quarters is a Holo- Projection of an Andalite
+Family.  One of those people is the famous #cElfangor#0-Sirinial-#cShamtul
+There is lucious #ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D3
+~
+~
+0 0 93021
+S
+#93026
+East Main Level~
+The Eastern side of the Main Level, is bustling with activity as
+Andalites run by you trying to get somewhere.  Or just standing around. 
+There is lucious #ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93022
+D1
+~
+~
+0 0 93028
+D2
+~
+~
+0 0 93021
+D3
+~
+~
+0 0 93020
+S
+#93027
+East Main Level~
+On this side of the Main Level, the population is mostly the Aristh's who
+come out of there quarters just to have some fun.  Yet anytime you see a
+Prince come by they all seem to straighten up and move out of his way.... 
+Interesting aint it?  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 93021
+D1
+~
+~
+0 0 93029
+D2
+~
+~
+0 0 93036
+D3
+~
+~
+0 0 93019
+S
+#93028
+Aristh #sJackalos #nQuarters~
+Inside #cAristh #0Jackalo's#n quarters you see a large holopic of a
+he-goat.  The He-Goats buttox is facing you, thats some weird shit..  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D3
+~
+~
+0 0 93026
+S
+#93029
+Aristh #sArbrons #nQuarters~
+Inside #cAristh #0Arbrons#n quarters, you feel cramped and claustrophobic from
+the lack of space.  God damn they must hate those Arisths
+~
+0 0 0
+D3
+~
+~
+0 0 93027
+S
+#93030
+North West Main Level~
+The north western side of the main level is largely populated by bored
+Andalites with nothing to do.  A group of Andalites stand around talking
+telapathically.  
+~
+0 0 0
+D1
+~
+~
+0 0 93024
+D2
+~
+~
+0 0 93016
+D3
+~
+~
+0 0 93031
+S
+#93031
+Prince #sRand's#n Quarters~
+Inside #CPrince #0Rand's#n Quarters are many stuffed toys..  One being
+identified as a purple Tellitubby...  Whats that doing in a Space Ship??  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D1
+~
+~
+0 0 93030
+S
+#93032
+Prince #sJaTr's#n Quarters~
+Inside #CPrince #0Jatr's #nBIG ASS quarters, is a huge Holo-image of his
+loving wife #sE#sm#se#sr#se#sl#sd#sa#n.  Also there is a large cushoined
+portion of the Quarters with some strange objects dangling from ropes and
+lying around...  Now what the hell is that for...  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D3
+~
+~
+3 0 93107
+S
+#93033
+Prince #sMadBeefs #nQuarters~
+Inside #cPrince #0MadBeef's #nquarters, its practically a Football Field. 
+Meaning you could actually play a game of FOOTBALL..  With space to
+spair for a little game of Basketball.  And they say that theres no
+discrimination in Andalite Society.
+~
+0 0 0
+D1
+~
+~
+0 0 93017
+S
+#93034
+West Main Level~
+The western side of the Main Level..  Where the Princes Are.  They walk
+around acting as if there betetr than the rest.  When the rest can prolly
+kick their ass.  There is lucious #ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93017
+D1
+~
+~
+0 0 93035
+D3
+~
+~
+0 0 93038
+S
+#93035
+Center Main Level~
+The Center of the Main Level is fileld with many Andalites conversing.. 
+Killing time..  Etc There is a mixure of every sort of Andalite on this
+Level.  There is lucious #ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93019
+D1
+~
+~
+0 0 93036
+D2
+~
+~
+0 0 93053
+D3
+~
+~
+0 0 93034
+S
+#93036
+East Main Level~
+The Eastern side of the Main Level, is bustling with activity as
+Andalites run by you trying to get somewhere.  Or just standing around. 
+There is lucious #ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93027
+D1
+~
+~
+0 0 93037
+D3
+~
+~
+0 0 93035
+S
+#93037
+Aristh #sArygons#n Quarters~
+Inside #cAristh #0Arygons#n quarters are many holo projectors.  In one corner
+is a sort of helmet that seems to look like a headset for a video game. 
+Childish isnt it... 
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D3
+~
+~
+0 0 93036
+S
+#93038
+Prince #sFallen-#sAngel's#n Quarters~
+Inside #sPrince #0Fallen-#yAngel#s'#s #nquarters its real big and
+boring...  
+~
+0 0 0
+D1
+~
+~
+0 0 93034
+S
+#93039
+A corridor~
+In a corridor that goes North and South.
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 93040
+D2
+~
+~
+0 0 93024
+S
+#93040
+Northen Drop Shaft~
+~
+0 0 0
+D2
+~
+~
+0 0 93039
+D4
+~
+~
+0 0 93041
+S
+#93041
+Inside Drop Shaft~
+Inside a Drop Shaft that goes up and down.  There is an #rExit #njust
+south of here.  
+~
+0 0 0
+D2
+~
+~
+0 0 93042
+D4
+~
+~
+0 0 93106
+D5
+~
+~
+0 0 93040
+S
+#93042
+A Hallway~
+Outside of the Drop Shaft and inside a Hallway, that stretches to the east.
+~
+0 0 0
+D0
+~
+~
+0 0 93041
+D1
+~
+~
+0 0 93043
+S
+#93043
+End of Hallway~
+The Hallway Stops abruptly. Why the hell am I here?
+~
+0 0 0
+D0
+~
+~
+3 0 93044
+D3
+~
+~
+0 0 93042
+S
+#93044
+Bridge of StarSword: Communications~
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 93045
+D1
+~
+~
+0 0 93046
+D2
+~
+~
+3 0 93043
+D3
+~
+~
+0 0 93047
+S
+#93045
+Bridge of StarSword: Holo-Imagery~
+In the center of the room is a 2 feet raised platform that emits #simages
+#nof outer space.  One of the Andalites in the room touches a #Cstar #nand the
+image refocusses describing the #csolar-#0system #nit holds. 
+Now aint that just pretty...
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 1 0
+D0
+~
+~
+0 0 93048
+D1
+~
+~
+0 0 93049
+D2
+~
+~
+0 0 93044
+D3
+~
+~
+0 0 93050
+S
+#93046
+Bridge of StarSword: Helmsmans Console~
+There is a panel in the southern corner of the room that has 2 Joysticks
+sticking out of it.  You look closer and see that they seem to be moving on
+their own.  
+~
+0 1 0
+D0
+~
+~
+0 0 93049
+D3
+~
+~
+0 0 93044
+S
+#93047
+Bridge of StarSword: Miscellaneous Controls.~
+Theres a #swhole #sbuncha #spanels#n and stuff..  Its a #spain #son #sthe
+#seyes #sfrom #sall #Sthe#s god #Sdamn#s colors#n.  There is lucious #ggreen
+#nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93050
+D1
+~
+~
+0 0 93044
+S
+#93048
+Bridge of StarSword: Weapons Stations~
+In the Northern most Corner of the room are holo images of the space
+surrounding the ship.  Each image being viewed as if from the turret of a
+ship.  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D1
+~
+~
+0 0 93051
+D2
+~
+~
+0 0 93045
+D3
+~
+~
+0 0 93052
+S
+#93049
+Bridge of StarSword: Navigations~
+There is a terminal located in the western corner of the room.. A whole bunch of #Cshiny #nbuttons are on it..
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 93051
+D2
+~
+~
+0 0 93046
+D3
+~
+~
+0 0 93045
+S
+#93050
+Bridge of StarSword: Z-Space Controls~
+There is a control panel in the room with some strange designs.  Ow yeah
+one of em has a big Z....  NO NOT ZORRO YOU IDIOT.  There is lucious #ggreen
+#nhardy grass under your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 93052
+D1
+~
+~
+0 0 93045
+D2
+~
+~
+0 0 93047
+S
+#93051
+Bridge of StarSword: Ship Communications~
+There is a terminal with a list of names going down in a long file.  Next
+to each name is a sign of some sort.  There is a hand-print space on the
+wall and there are small lines extending from it to each name.  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D2
+~
+~
+0 0 93049
+D3
+~
+~
+0 0 93048
+S
+#93052
+Bridge of StarSword: Dome Controls~
+In the North-Eastern corner of the room, a holo-image of the Dome is
+being shown.  There are lines extending form certain poitns of the dome and
+a mini-image of the dome and the ship seperated.  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 1 0
+D1
+~
+~
+0 0 93048
+D2
+~
+~
+0 0 93050
+S
+#93053
+A Corridor~
+The corridor heads north to a #sDrop #sShaft #nand south back to the #sMain #sLevel.#n
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 4 0
+D0
+~
+~
+0 0 93035
+D2
+~
+~
+0 0 93054
+S
+#93054
+Southern Drop Shaft~
+The #sDrop #sShaft#n is a vast space stretching up down and having an opening to the south.
+~
+0 0 0
+D0
+~
+~
+0 0 93053
+D4
+~
+~
+0 0 93055
+S
+#93055
+Inside Drop Shaft~
+~
+0 0 0
+D1
+~
+~
+0 0 93115
+D4
+~
+~
+0 0 93056
+D5
+~
+~
+0 0 93054
+S
+#93056
+#0Top #cof #CDrop #0Shaft: #cDome #CEntrance#n~
+The Drop Shaft stops abrubptly above. The Great Dome extends to the North,
+South, East and West of here
+~
+0 0 0
+D0
+~
+~
+0 0 93060
+D1
+~
+~
+0 0 93057
+D2
+~
+~
+0 0 93059
+D3
+~
+~
+0 0 93058
+D5
+~
+~
+0 0 93055
+S
+#93057
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93062
+D1
+~
+~
+0 0 93068
+D2
+~
+~
+0 0 93061
+D3
+~
+~
+0 0 93056
+S
+#93058
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93063
+D1
+~
+~
+0 0 93056
+D2
+~
+~
+0 0 93064
+D3
+~
+~
+0 0 93076
+S
+#93059
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93056
+D1
+~
+~
+0 0 93061
+D2
+~
+~
+0 0 93094
+D3
+~
+~
+0 0 93064
+S
+#93060
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93065
+D1
+~
+~
+0 0 93062
+D2
+~
+~
+0 0 93056
+D3
+~
+~
+0 0 93063
+S
+#93061
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93057
+D1
+~
+~
+0 0 93069
+D2
+~
+~
+0 0 93093
+D3
+~
+~
+0 0 93059
+S
+#93062
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93066
+D1
+~
+~
+0 0 93070
+D2
+~
+~
+0 0 93057
+D3
+~
+~
+0 0 93060
+S
+#93063
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93067
+D1
+~
+~
+0 0 93060
+D2
+~
+~
+0 0 93058
+D3
+~
+~
+0 0 93078
+S
+#93064
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93058
+D1
+~
+~
+0 0 93059
+D2
+~
+~
+0 0 93095
+D3
+~
+~
+0 0 93077
+S
+#93065
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93084
+D1
+~
+~
+0 0 93066
+D2
+~
+~
+0 0 93060
+D3
+~
+~
+0 0 93067
+S
+#93066
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93085
+D1
+~
+~
+0 0 93071
+D2
+~
+~
+0 0 93062
+D3
+~
+~
+0 0 93065
+S
+#93067
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93088
+D1
+~
+~
+0 0 93065
+D2
+~
+~
+0 0 93063
+D3
+~
+~
+0 0 93079
+S
+#93068
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93070
+D1
+~
+~
+0 0 93074
+D2
+~
+~
+0 0 93069
+D3
+~
+~
+0 0 93057
+S
+#93069
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93068
+D1
+~
+~
+0 0 93075
+D2
+~
+~
+0 0 93092
+D3
+~
+~
+0 0 93061
+S
+#93070
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93071
+D1
+~
+~
+0 0 93073
+D2
+~
+~
+0 0 93068
+D3
+~
+~
+0 0 93062
+S
+#93071
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93086
+D1
+~
+~
+0 0 93072
+D2
+~
+~
+0 0 93070
+D3
+~
+~
+0 0 93066
+S
+#93072
+Eastern Wall of The Dome~
+The #sDomes #nedge is directly East of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the west south and north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93087
+D2
+~
+~
+0 0 93073
+D3
+~
+~
+0 0 93071
+S
+#93073
+Eastern Wall of The Dome~
+The #sDomes #nedge is directly East of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the west south and north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93072
+D2
+~
+~
+0 0 93074
+D3
+~
+~
+0 0 93070
+S
+#93074
+Eastern Wall of The Dome~
+The #sDomes #nedge is directly East of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the west south and north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93073
+D2
+~
+~
+0 0 93075
+D3
+~
+~
+0 0 93068
+S
+#93075
+Eastern Wall of The Dome~
+The #sDomes #nedge is directly East of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the west south and north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93074
+D2
+~
+~
+0 0 93091
+D3
+~
+~
+0 0 93069
+S
+#93076
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93078
+D1
+~
+~
+0 0 93058
+D2
+~
+~
+0 0 93077
+D3
+~
+~
+0 0 93080
+S
+#93077
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93076
+D1
+~
+~
+0 0 93064
+D2
+~
+~
+0 0 93096
+D3
+~
+~
+0 0 93081
+S
+#93078
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93079
+D1
+~
+~
+0 0 93063
+D2
+~
+~
+0 0 93076
+D3
+~
+~
+0 0 93082
+S
+#93079
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93089
+D1
+~
+~
+0 0 93067
+D2
+~
+~
+0 0 93078
+D3
+~
+~
+0 0 93083
+S
+#93080
+Western Wall of The Dome~
+The #sDomes #nedge is directly North West of here.  For extra protection
+there is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable
+and protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the north, east, and south of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93082
+D1
+~
+~
+0 0 93076
+D2
+~
+~
+0 0 93081
+S
+#93081
+Western Wall of The Dome~
+The #sDomes #nedge is directly North West of here.  For extra protection
+there is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable
+and protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the north, east, and south of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93080
+D1
+~
+~
+0 0 93077
+D2
+~
+~
+0 0 93097
+S
+#93082
+Western Wall of The Dome~
+The #sDomes #nedge is directly North West of here.  For extra protection
+there is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable
+and protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the north, east, and south of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93083
+D1
+~
+~
+0 0 93078
+D2
+~
+~
+0 0 93080
+S
+#93083
+Western Wall of The Dome~
+The #sDomes #nedge is directly North West of here.  For extra protection
+there is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable
+and protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the north, east, and south of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93090
+D1
+~
+~
+0 0 93079
+D2
+~
+~
+0 0 93082
+S
+#93084
+Northern Wall of The Dome~
+The #sDomes #nedge is directly North of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the east, west and south of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 93085
+D2
+~
+~
+0 0 93065
+D3
+~
+~
+0 0 93088
+S
+#93085
+Northern Wall of The Dome~
+The #sDomes #nedge is directly North of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the east, west and south of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 93086
+D2
+~
+~
+0 0 93066
+D3
+~
+~
+0 0 93084
+S
+#93086
+Northern Wall of The Dome~
+The #sDomes #nedge is directly North of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the east, west and south of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 93087
+D2
+~
+~
+0 0 93071
+D3
+~
+~
+0 0 93085
+S
+#93087
+North Eastern Corner of The Dome~
+The #sDomes #nedge is directly North East of here.  For extra protection
+there is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable
+and protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the west and south of here.  
+~
+0 0 0
+D2
+~
+~
+0 0 93072
+D3
+~
+~
+0 0 93086
+S
+#93088
+Northern Wall of The Dome~
+The #sDomes #nedge is directly North of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the east, west and south of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 93084
+D2
+~
+~
+0 0 93067
+D3
+~
+~
+0 0 93089
+S
+#93089
+Northern Wall of The Dome~
+The #sDomes #nedge is directly North of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the east, west and south of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 93088
+D2
+~
+~
+0 0 93079
+D3
+~
+~
+0 0 93090
+S
+#93090
+North Western Corner of The Dome~
+The #sDomes #nedge is directly North West of here.  For extra protection
+there is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable
+and protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the east, and south of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 93089
+D2
+~
+~
+0 0 93083
+S
+#93091
+Eastern Wall of The Dome~
+The #sDomes #nedge is directly East of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the west south and north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93075
+D2
+~
+~
+0 0 93105
+D3
+~
+~
+0 0 93092
+S
+#93092
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93069
+D1
+~
+~
+0 0 93091
+D2
+~
+~
+0 0 93104
+D3
+~
+~
+0 0 93093
+S
+#93093
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93061
+D1
+~
+~
+0 0 93092
+D2
+~
+~
+0 0 93103
+D3
+~
+~
+0 0 93094
+S
+#93094
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93059
+D1
+~
+~
+0 0 93093
+D2
+~
+~
+0 0 93102
+D3
+~
+~
+0 0 93095
+S
+#93095
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93064
+D1
+~
+~
+0 0 93094
+D2
+~
+~
+0 0 93101
+D3
+~
+~
+0 0 93096
+S
+#93096
+The Dome of StarSword~
+The Great #SDome #nof StarSword.#n
+The #sDome#n extends to the north, south, east, and west from here.#n
+The veiw from here is #smesmerising#n, and the stars in the sky seem so relaxing.#n
+#nThere is luscious #ggreen grass#n on the ground here.#n
+~
+0 0 0
+D0
+~
+~
+0 0 93077
+D1
+~
+~
+0 0 93095
+D2
+~
+~
+0 0 93100
+D3
+~
+~
+0 0 93097
+S
+#93097
+Western Wall of The Dome~
+The #sDomes #nedge is directly North West of here.  For extra protection
+there is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable
+and protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the north, east, and south of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93081
+D1
+~
+~
+0 0 93096
+D2
+~
+~
+0 0 93098
+S
+#93098
+South Western Corner of The Dome~
+The #sDomes #nedge is directly South West of here.  For extra protection
+there is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable
+and protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the east, and north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93097
+D1
+~
+~
+0 0 93100
+S
+#93099
+South Western Corner of The Dome~
+~
+0 4 0
+S
+#93100
+Southern Wall of The Dome~
+The #sDomes #nedge is directly South of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the east, west and north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93096
+D1
+~
+~
+0 0 93101
+D3
+~
+~
+0 0 93098
+S
+#93101
+Southern Wall of The Dome~
+The #sDomes #nedge is directly South of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the east, west, and north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93095
+D1
+~
+~
+0 0 93102
+D3
+~
+~
+0 0 93100
+S
+#93102
+Southern Wall of The Dome~
+The #sDomes #nedge is directly South of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the east, west, and north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93094
+D1
+~
+~
+0 0 93103
+D3
+~
+~
+0 0 93101
+S
+#93103
+Southern Wall of The Dome~
+The #sDomes #nedge is directly South of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the east, west, and north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93093
+D1
+~
+~
+0 0 93104
+D3
+~
+~
+0 0 93102
+S
+#93104
+Southern Wall of The Dome~
+The #sDomes #nedge is directly South of here.  For extra protection there
+is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable and
+protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the east, west, and north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93092
+D1
+~
+~
+0 0 93105
+D3
+~
+~
+0 0 93103
+S
+#93105
+South Eastern Corner of The Dome~
+The #sDomes #nedge is directly South East of here.  For extra protection
+there is a #sForce #sField#n set up.  The #cforce field#n is unpenetrable
+and protects anyone from being sucked into the #sDome #ncovering#n.  The
+#sDome#n extends to the west and north of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 93091
+D3
+~
+~
+0 0 93104
+S
+#93106
+Inside Drop Shaft~
+Inside a Drop Shaft that #rExits#n to the North, South, East, and West.
+~
+0 0 0
+D0
+~
+~
+0 0 93110
+D1
+~
+~
+0 0 93107
+D2
+~
+~
+0 0 93109
+D3
+~
+~
+0 0 93108
+D5
+~
+~
+0 0 93041
+S
+#93107
+Hallway to Jatr's Quarters~
+Inside a large hallway, and to the east a huge door with a
+#shand-#sprint#n, and #sretinal #nscan idea to the right of it.  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D1
+~
+~
+3 0 93032
+D3
+~
+~
+0 0 93106
+S
+#93108
+Hallway to Xkilla's Quarters~
+Inside a large hallway, and to the west a huge door with a
+#shand-#Sprint, #nand #sretinal #nscan idea to the right of it.  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D1
+~
+~
+0 0 93106
+D3
+~
+~
+3 0 93112
+S
+#93109
+Hallway to Shandara's Quarters.~
+Inside a large hallway, and to the South a huge door with a
+#shand-#sprint,#n and #sretinal #nscan idea to the right of it.
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 93106
+D2
+~
+~
+3 0 93113
+S
+#93110
+#0Hallway to #sAntibodys #cBIGASS #0Chambers#n~
+Inside a large hallway, and to the North a huge door with a
+#shand-#sprint,#n and #sretinal #nscan idea to the right of it.
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D0
+~
+~
+3 0 93114
+D2
+~
+~
+0 0 93106
+S
+#93111
+Prince Antilles Quarters~
+Inside #CPrince #sAntilles #nquarters you see a life size #cholo-#0image
+#nof his wife #sC#sa#ss#ss#sa#sn#Sd#sr#sa#n, in all her splender and beauty.
+#sAntilles #nwho is off fighting on some mission carries a smaller holo of
+this in his pocket at all times.  Makes you feel all tender inside doesnt
+it...  
+~
+0 0 0
+D1
+~
+~
+0 0 93016
+S
+#93112
+Commander #sXkillas#n Chamber~
+Inside #sXkillas #sChambers#n you see a computer terminal complete with
+the newest form of technology seen throughout the whole ship.  There is also
+a holo-image of a nude female in the corner..  Sick bastard...  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D1
+~
+~
+3 0 93108
+D3
+~
+~
+3 0 0
+S
+#93113
+Playroom of the ArchBunny~
+#CInside #0Shandaras #sPlayroom, #nthere are a whole bunch of
+#sholo#s-#Sbunnies #njumping around emitting strange annoying sounds.... 
+Bah damnit cant kill em...  DAMNIT..  Also along the floor are a whole bunch
+of Play Toys..  And floating in midair is a #sHolo-Pic#n of her husband.  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D0
+~
+~
+3 0 93109
+S
+#93114
+#cAntibodys #0-#rHOT #7STEAMING #CPURE #sS#sE#sX #0ROOM#n~
+#sInside #sAntibodys #sRoom #sof #s Love...#n Theres a big #sHamock #nand some magazines and novels neatly stacked in one corner. There is a large #scomputer #sinterface#n with what looks like an advanced form of a #svideo#s game.#n  On one #scomputer #sterminal #nthere is text steadily going up the screen. All the makings of a normal home...
+What did you think.. id have some sex shit in here... YOU PERVERTED WHORE
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D2
+~
+~
+3 0 93110
+S
+#93115
+A hallway~
+A hallway leading to the storage room
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D1
+~
+~
+0 0 93116
+D3
+~
+~
+0 0 93055
+S
+#93116
+Main Storage Area~
+The Storage Rooms spread out to the north, south and east filled with
+disgarded weaponry..  Old batteries...  Some other weird crap...  What the
+hell is all this shit?  
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 93118
+D1
+~
+~
+0 0 93119
+D2
+~
+~
+0 0 93117
+D3
+~
+~
+0 0 93115
+S
+#93117
+Item Storage~
+There are several cartons and crates with various different items in them 
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 93116
+S
+#93118
+Ship-Part Storage~
+There are a whole bunch of metallic parts all around the floor..  Some
+stacked neatly an dothers just thrown down hastily.  There is lucious
+#ggreen #nhardy grass under your feet.  
+~
+0 0 0
+D2
+~
+~
+0 0 93116
+S
+#93119
+Weapon Storage~
+There are a whole bunch of crates filled with many discarded weapons.
+There is lucious #ggreen #nhardy grass under your feet.
+~
+0 0 0
+D3
+~
+~
+0 0 93116
+S
+#93150
+A crash landing~
+~
+0 0 0
+D2
+~
+~
+0 0 6002
+D4
+~
+~
+0 0 93000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 93002 1 93000
+M 0 93003 1 93000
+M 0 93004 1 93000
+M 0 93007 1 93000
+M 0 93008 1 93000
+M 0 93009 1 93000
+M 0 93000 1 93000
+M 0 93000 1 93000
+M 0 93000 1 93000
+M 0 93000 1 93001
+M 0 93001 1 93001
+M 0 93002 1 93001
+M 0 93003 1 93001
+M 0 93004 1 93001
+M 0 93007 1 93001
+M 0 93008 1 93001
+M 0 93009 1 93001
+M 0 93000 1 93001
+M 0 93000 1 93001
+M 0 93000 1 93001
+M 0 93000 1 93002
+M 0 93004 1 93002
+M 0 93000 1 93002
+M 0 93000 1 93002
+M 0 93000 1 93002
+M 0 93000 1 93002
+M 0 93000 1 93003
+M 0 93000 1 93003
+M 0 93001 1 93003
+M 0 93002 1 93003
+M 0 93003 1 93003
+M 0 93004 1 93003
+M 0 93007 1 93003
+M 0 93008 1 93003
+M 0 93009 1 93003
+M 0 93000 1 93003
+M 0 93000 1 93003
+M 0 93000 1 93003
+M 0 93000 1 93004
+M 0 93000 1 93004
+M 0 93001 1 93004
+M 0 93002 1 93004
+M 0 93003 1 93004
+M 0 93004 1 93004
+M 0 93007 1 93004
+M 0 93008 1 93004
+M 0 93009 1 93004
+M 0 93000 1 93004
+M 0 93000 1 93004
+M 0 93000 1 93004
+M 0 93000 1 93006
+M 0 93004 1 93006
+M 0 93004 1 93007
+M 0 93000 1 93009
+M 0 93001 1 93009
+M 0 93002 1 93009
+M 0 93003 1 93009
+M 0 93004 1 93009
+M 0 93007 1 93009
+M 0 93008 1 93009
+M 0 93009 1 93009
+M 0 93004 1 93010
+M 0 93000 1 93010
+M 0 93001 1 93010
+M 0 93002 1 93010
+M 0 93003 1 93010
+M 0 93004 1 93010
+M 0 93007 1 93010
+M 0 93008 1 93010
+M 0 93009 1 93010
+M 0 93000 1 93011
+M 0 93001 1 93011
+M 0 93002 1 93011
+M 0 93003 1 93011
+M 0 93004 1 93011
+M 0 93007 1 93011
+M 0 93008 1 93011
+M 0 93009 1 93011
+M 0 93003 1 93012
+M 0 93000 1 93013
+M 0 93001 1 93013
+M 0 93002 1 93013
+M 0 93002 1 93013
+M 0 93004 1 93013
+M 0 93007 1 93013
+M 0 93000 1 93013
+M 0 93002 1 93013
+M 0 93003 1 93013
+M 0 93007 1 93013
+M 0 93008 1 93013
+M 0 93013 1 93013
+M 0 93012 1 93013
+M 0 93000 1 93015
+M 0 93004 1 93015
+M 0 93002 1 93016
+M 0 93003 1 93016
+M 0 93000 1 93016
+M 0 93001 2 93016
+M 0 93004 1 93016
+M 0 93001 1 93016
+M 0 93002 1 93016
+M 0 93002 1 93016
+M 0 93004 1 93016
+M 0 93007 1 93016
+M 0 93000 1 93016
+M 0 93001 1 93016
+M 0 93009 1 93016
+M 0 93004 1 93016
+M 0 93008 1 93016
+M 0 93013 1 93016
+M 0 93012 1 93016
+M 0 93000 1 93017
+M 0 93001 3 93017
+M 0 93001 3 93017
+M 0 93001 0 93017
+M 0 93000 1 93017
+M 0 93001 1 93017
+M 0 93004 1 93017
+M 0 93001 1 93017
+M 0 93002 1 93017
+M 0 93002 1 93017
+M 0 93004 1 93017
+M 0 93007 1 93017
+M 0 93000 1 93017
+M 0 93001 1 93017
+M 0 93009 1 93017
+M 0 93004 1 93017
+M 0 93008 1 93017
+M 0 93013 1 93017
+M 0 93012 1 93017
+M 0 93000 1 93018
+M 0 93000 1 93018
+M 0 93002 1 93018
+M 0 93004 1 93018
+M 0 93001 1 93018
+M 0 93002 1 93018
+M 0 93002 1 93018
+M 0 93004 1 93018
+M 0 93007 1 93018
+M 0 93000 1 93018
+M 0 93001 1 93018
+M 0 93002 1 93018
+M 0 93003 1 93018
+M 0 93004 1 93018
+M 0 93008 1 93018
+M 0 93013 1 93018
+M 0 93012 1 93018
+M 0 93000 1 93019
+M 0 93002 1 93019
+M 0 93001 1 93019
+M 0 93002 1 93019
+M 0 93002 1 93019
+M 0 93004 1 93019
+M 0 93007 1 93019
+M 0 93000 1 93019
+M 0 93001 1 93019
+M 0 93002 1 93019
+M 0 93003 1 93019
+M 0 93004 1 93019
+M 0 93008 1 93019
+M 0 93013 1 93019
+M 0 93012 1 93019
+M 0 93000 1 93020
+M 0 93000 1 93020
+M 0 93003 1 93020
+M 0 93003 1 93020
+M 0 93003 2 93020
+M 0 93003 1 93020
+M 0 93004 1 93020
+M 0 93002 1 93020
+M 0 93001 1 93020
+M 0 93001 1 93020
+M 0 93002 1 93020
+M 0 93002 1 93020
+M 0 93004 1 93020
+M 0 93007 1 93020
+M 0 93004 3 93020
+M 0 93000 1 93020
+M 0 93001 1 93020
+M 0 93002 1 93020
+M 0 93003 1 93020
+M 0 93004 1 93020
+M 0 93008 1 93020
+M 0 93013 1 93020
+M 0 93012 1 93020
+M 0 93000 1 93021
+M 0 93002 1 93021
+M 0 93003 1 93021
+M 0 93001 1 93021
+M 0 93002 1 93021
+M 0 93001 1 93021
+M 0 93001 1 93021
+M 0 93002 1 93021
+M 0 93002 1 93021
+M 0 93004 1 93021
+M 0 93007 1 93021
+M 0 93001 1 93021
+M 0 93002 1 93021
+M 0 93002 1 93021
+M 0 93004 1 93021
+M 0 93007 1 93021
+M 0 93000 1 93021
+M 0 93001 1 93021
+M 0 93009 1 93021
+M 0 93004 1 93021
+M 0 93008 1 93021
+M 0 93013 1 93021
+M 0 93012 1 93021
+M 0 93001 1 93022
+M 0 93002 1 93022
+M 0 93003 1 93022
+M 0 93004 1 93022
+M 0 93001 1 93022
+M 0 93002 1 93022
+M 0 93002 1 93022
+M 0 93004 1 93022
+M 0 93007 1 93022
+M 0 93000 1 93022
+M 0 93001 1 93022
+M 0 93009 1 93022
+M 0 93004 1 93022
+M 0 93008 1 93022
+M 0 93013 1 93022
+M 0 93012 1 93022
+M 0 93018 1 93023
+E 0 93012 0 7
+M 0 93000 1 93024
+M 0 93001 1 93024
+M 0 93002 1 93024
+M 0 93003 1 93024
+M 0 93004 1 93024
+M 0 93008 1 93024
+M 0 93013 1 93024
+M 0 93012 1 93024
+M 0 93014 1 93025
+G 0 93002 0
+E 0 93009 0 10
+M 0 93000 1 93026
+M 0 93003 1 93026
+M 0 93001 1 93026
+M 0 93002 1 93026
+M 0 93001 1 93026
+M 0 93001 1 93026
+M 0 93002 1 93026
+M 0 93002 1 93026
+M 0 93004 1 93026
+M 0 93007 1 93026
+M 0 93000 1 93026
+M 0 93001 1 93026
+M 0 93009 1 93026
+M 0 93004 1 93026
+M 0 93008 1 93026
+M 0 93013 1 93026
+M 0 93012 1 93026
+M 0 93000 1 93027
+M 0 93001 1 93027
+M 0 93002 1 93027
+M 0 93002 1 93027
+M 0 93004 1 93027
+M 0 93007 1 93027
+M 0 93000 1 93027
+M 0 93001 1 93027
+M 0 93009 1 93027
+M 0 93004 1 93027
+M 0 93008 1 93027
+M 0 93013 1 93027
+M 0 93012 1 93027
+M 0 93001 1 93028
+M 0 93001 3 93028
+M 0 93017 1 93028
+E 0 93010 0 3
+M 0 93001 3 93029
+M 0 93015 1 93029
+E 0 93008 0 6
+M 0 93001 1 93030
+M 0 93002 1 93030
+M 0 93002 1 93030
+M 0 93004 1 93030
+M 0 93007 1 93030
+M 0 93000 1 93030
+M 0 93002 1 93030
+M 0 93003 1 93030
+M 0 93007 1 93030
+M 0 93008 1 93030
+M 0 93013 1 93030
+M 0 93012 1 93030
+M 0 93003 1 93031
+M 0 93020 1 93031
+E 0 93013 0 9
+M 0 93025 1 93032
+G 0 93019 0
+M 0 93003 1 93033
+M 0 93023 1 93033
+E 0 93015 0 8
+M 0 93000 1 93034
+M 0 93001 1 93034
+M 0 93002 1 93034
+M 0 93002 1 93034
+M 0 93004 1 93034
+M 0 93007 1 93034
+M 0 93000 1 93034
+M 0 93001 1 93034
+M 0 93009 1 93034
+M 0 93004 1 93034
+M 0 93008 1 93034
+M 0 93013 1 93034
+M 0 93012 1 93034
+M 0 93001 1 93035
+M 0 93002 1 93035
+M 0 93002 1 93035
+M 0 93004 1 93035
+M 0 93007 1 93035
+M 0 93000 1 93035
+M 0 93001 1 93035
+M 0 93002 1 93035
+M 0 93003 1 93035
+M 0 93004 1 93035
+M 0 93008 1 93035
+M 0 93013 1 93035
+M 0 93012 1 93035
+M 0 93000 1 93035
+M 0 93001 1 93035
+M 0 93002 1 93035
+M 0 93001 1 93036
+M 0 93002 1 93036
+M 0 93002 1 93036
+M 0 93004 1 93036
+M 0 93007 1 93036
+M 0 93000 1 93036
+M 0 93001 1 93036
+M 0 93009 1 93036
+M 0 93004 1 93036
+M 0 93008 1 93036
+M 0 93013 1 93036
+M 0 93012 1 93036
+M 0 93001 1 93037
+M 0 93001 2 93037
+M 0 93016 1 93037
+M 0 93016 1 93037
+E 0 93006 0 14
+M 0 93024 1 93038
+E 0 93017 0 12
+M 0 93004 3 93039
+M 0 93000 2 93043
+M 0 93000 5 93044
+M 0 93008 5 93044
+M 0 93000 1 93044
+M 0 93006 1 93045
+E 0 93000 0 1
+M 0 93005 1 93045
+M 0 93000 1 93045
+M 0 93008 1 93045
+G 0 93016 0
+E 0 93018 0 13
+M 0 93000 1 93045
+M 0 93000 1 93045
+M 0 93000 5 93046
+M 0 93008 5 93046
+M 0 93008 5 93047
+M 0 93000 5 93047
+M 0 93000 5 93048
+M 0 93002 5 93048
+M 0 93000 5 93049
+M 0 93003 4 93049
+M 0 93002 1 93049
+M 0 93002 5 93050
+M 0 93000 1 93050
+M 0 93000 1 93050
+M 0 93008 5 93051
+M 0 93002 5 93051
+M 0 93008 5 93052
+M 0 93000 5 93052
+M 0 93002 1 93053
+M 0 93001 1 93053
+M 0 93000 1 93053
+M 0 93000 1 93055
+M 0 93003 1 93055
+M 0 93029 2 93057
+M 0 93030 2 93057
+M 0 93010 2 93057
+M 0 93011 2 93057
+M 0 93029 2 93057
+M 0 93030 2 93057
+M 0 93010 2 93057
+M 0 93011 2 93057
+M 0 93029 2 93059
+M 0 93030 2 93059
+M 0 93010 2 93059
+M 0 93011 2 93059
+M 0 93029 2 93060
+M 0 93030 2 93060
+M 0 93010 2 93060
+M 0 93011 2 93060
+M 0 93029 2 93061
+M 0 93030 2 93061
+M 0 93010 2 93061
+M 0 93011 2 93061
+M 0 93029 2 93062
+M 0 93030 2 93062
+M 0 93010 2 93062
+M 0 93011 2 93062
+M 0 93029 2 93062
+M 0 93030 2 93062
+M 0 93010 2 93062
+M 0 93011 2 93062
+M 0 93029 2 93063
+M 0 93030 2 93063
+M 0 93010 2 93063
+M 0 93011 2 93063
+M 0 93029 2 93064
+M 0 93030 2 93064
+M 0 93010 2 93064
+M 0 93011 2 93064
+M 0 93029 2 93065
+M 0 93030 2 93065
+M 0 93010 2 93065
+M 0 93011 2 93065
+M 0 93001 1 93065
+M 0 93002 1 93065
+M 0 93011 1 93065
+M 0 93029 1 93065
+M 0 93030 1 93065
+M 0 93029 2 93066
+M 0 93030 2 93066
+M 0 93010 2 93066
+M 0 93011 2 93066
+M 0 93001 1 93066
+M 0 93002 1 93066
+M 0 93011 1 93066
+M 0 93029 1 93066
+M 0 93030 1 93066
+M 0 93029 2 93067
+M 0 93030 2 93067
+M 0 93010 2 93067
+M 0 93011 2 93067
+M 0 93001 1 93067
+M 0 93002 1 93067
+M 0 93011 1 93067
+M 0 93029 1 93067
+M 0 93030 1 93067
+M 0 93029 1 93068
+M 0 93030 1 93068
+M 0 93011 1 93068
+M 0 93000 1 93068
+M 0 93001 1 93068
+M 0 93001 1 93068
+M 0 93002 1 93068
+M 0 93011 1 93068
+M 0 93029 1 93068
+M 0 93030 1 93068
+M 0 93029 2 93069
+M 0 93030 2 93069
+M 0 93010 2 93069
+M 0 93011 2 93069
+M 0 93001 1 93069
+M 0 93002 1 93069
+M 0 93011 1 93069
+M 0 93029 1 93069
+M 0 93030 1 93069
+M 0 93001 1 93069
+M 0 93002 1 93069
+M 0 93011 1 93069
+M 0 93029 1 93069
+M 0 93030 1 93069
+M 0 93029 2 93070
+M 0 93030 2 93070
+M 0 93010 2 93070
+M 0 93011 2 93070
+M 0 93029 2 93070
+M 0 93030 2 93070
+M 0 93010 2 93070
+M 0 93011 2 93070
+M 0 93001 1 93070
+M 0 93002 1 93070
+M 0 93011 1 93070
+M 0 93029 1 93070
+M 0 93030 1 93070
+M 0 93029 2 93071
+M 0 93030 2 93071
+M 0 93010 2 93071
+M 0 93011 2 93071
+M 0 93001 1 93071
+M 0 93002 1 93071
+M 0 93011 1 93071
+M 0 93029 1 93071
+M 0 93030 1 93071
+M 0 93029 2 93072
+M 0 93030 2 93072
+M 0 93010 2 93072
+M 0 93011 2 93072
+M 0 93001 1 93072
+M 0 93002 1 93072
+M 0 93011 1 93072
+M 0 93029 1 93072
+M 0 93030 1 93072
+M 0 93029 2 93073
+M 0 93030 2 93073
+M 0 93010 2 93073
+M 0 93011 2 93073
+M 0 93029 2 93073
+M 0 93030 2 93073
+M 0 93010 2 93073
+M 0 93011 2 93073
+M 0 93001 1 93073
+M 0 93002 1 93073
+M 0 93011 1 93073
+M 0 93029 1 93073
+M 0 93030 1 93073
+M 0 93029 2 93074
+M 0 93030 2 93074
+M 0 93010 2 93074
+M 0 93011 2 93074
+M 0 93029 2 93074
+M 0 93030 2 93074
+M 0 93010 2 93074
+M 0 93011 2 93074
+M 0 93029 2 93074
+M 0 93030 2 93074
+M 0 93010 2 93074
+M 0 93011 2 93074
+M 0 93001 1 93074
+M 0 93002 1 93074
+M 0 93011 1 93074
+M 0 93029 1 93074
+M 0 93030 1 93074
+M 0 93029 2 93075
+M 0 93030 2 93075
+M 0 93010 2 93075
+M 0 93011 2 93075
+M 0 93001 1 93075
+M 0 93002 1 93075
+M 0 93011 1 93075
+M 0 93029 1 93075
+M 0 93030 1 93075
+M 0 93001 1 93076
+M 0 93002 1 93076
+M 0 93011 1 93076
+M 0 93029 1 93076
+M 0 93030 1 93076
+M 0 93029 2 93077
+M 0 93030 2 93077
+M 0 93010 2 93077
+M 0 93011 2 93077
+M 0 93029 2 93078
+M 0 93030 2 93078
+M 0 93010 2 93078
+M 0 93011 2 93078
+M 0 93029 2 93079
+M 0 93030 2 93079
+M 0 93010 2 93079
+M 0 93011 2 93079
+M 0 93029 2 93081
+M 0 93030 2 93081
+M 0 93010 2 93081
+M 0 93011 2 93081
+M 0 93029 2 93082
+M 0 93030 2 93082
+M 0 93010 2 93082
+M 0 93011 2 93082
+M 0 93029 2 93082
+M 0 93030 2 93082
+M 0 93010 2 93082
+M 0 93011 2 93082
+M 0 93029 2 93083
+M 0 93030 2 93083
+M 0 93010 2 93083
+M 0 93011 2 93083
+M 0 93029 2 93084
+M 0 93030 2 93084
+M 0 93010 2 93084
+M 0 93011 2 93084
+M 0 93029 2 93085
+M 0 93030 2 93085
+M 0 93010 2 93085
+M 0 93011 2 93085
+M 0 93029 2 93086
+M 0 93030 2 93086
+M 0 93010 2 93086
+M 0 93011 2 93086
+M 0 93029 2 93087
+M 0 93030 2 93087
+M 0 93010 2 93087
+M 0 93011 2 93087
+M 0 93029 2 93088
+M 0 93030 2 93088
+M 0 93010 2 93088
+M 0 93011 2 93088
+M 0 93029 2 93089
+M 0 93030 2 93089
+M 0 93010 2 93089
+M 0 93011 2 93089
+M 0 93029 2 93090
+M 0 93030 2 93090
+M 0 93010 2 93090
+M 0 93011 2 93090
+M 0 93029 2 93091
+M 0 93030 2 93091
+M 0 93010 2 93091
+M 0 93011 2 93091
+M 0 93029 2 93092
+M 0 93030 2 93092
+M 0 93010 2 93092
+M 0 93011 2 93092
+M 0 93029 2 93093
+M 0 93030 2 93093
+M 0 93010 2 93093
+M 0 93011 2 93093
+M 0 93029 2 93094
+M 0 93030 2 93094
+M 0 93010 2 93094
+M 0 93011 2 93094
+M 0 93029 2 93095
+M 0 93030 2 93095
+M 0 93010 2 93095
+M 0 93011 2 93095
+M 0 93029 2 93096
+M 0 93030 2 93096
+M 0 93010 2 93096
+M 0 93011 2 93096
+M 0 93029 2 93097
+M 0 93030 2 93097
+M 0 93010 2 93097
+M 0 93011 2 93097
+M 0 93029 2 93098
+M 0 93030 2 93098
+M 0 93010 2 93098
+M 0 93011 2 93098
+M 0 93000 1 93098
+M 0 93029 2 93100
+M 0 93030 2 93100
+M 0 93010 2 93100
+M 0 93011 2 93100
+M 0 93007 2 93100
+M 0 93000 1 93100
+M 0 93004 2 93100
+M 0 93007 2 93100
+M 0 93029 2 93101
+M 0 93030 2 93101
+M 0 93010 2 93101
+M 0 93011 2 93101
+M 0 93029 2 93102
+M 0 93030 2 93102
+M 0 93010 2 93102
+M 0 93011 2 93102
+M 0 93029 2 93103
+M 0 93030 2 93103
+M 0 93010 2 93103
+M 0 93011 2 93103
+M 0 93029 2 93104
+M 0 93030 2 93104
+M 0 93010 2 93104
+M 0 93011 2 93104
+M 0 93029 2 93105
+M 0 93030 2 93105
+M 0 93010 2 93105
+M 0 93011 2 93105
+M 0 93022 1 93111
+E 0 93014 0 5
+M 0 93026 1 93112
+E 0 93004 0 2
+E 0 93011 0 3
+M 0 93027 1 93113
+G 0 93019 0
+M 0 93028 1 93114
+E 0 93005 0 1
+O 0 93001 0 93116
+P 0 93004 0 93001
+P 0 93005 0 93001
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

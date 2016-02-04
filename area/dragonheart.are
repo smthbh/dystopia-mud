@@ -1,0 +1,2367 @@
+#AREADATA
+Name        Wynfair Castle Dragonheart~
+Builders    None~
+VNUMs       19100 19195
+Security    1
+Recall      3005
+End
+
+
+
+#MOBILES
+#19100
+executioner castle psychotic~
+The Psychotic Castle Executioner~
+The Psicotic Castle Executioner is standing here.
+~
+This guy is a nut, he bathes in the blood of his victims and never
+changes his clothes.
+~
+35 682 0 S
+439 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19101
+guard sergeant~
+A Sergeant of the Guard~
+The Sergeant is here barking orders to the sentries.
+~
+You see medals all over the shiny armor of the sergeant.
+~
+67 128 0 S
+168 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19102
+sinbad lord~
+The Mighty Lord Sinbad~
+The Mighty Lord Sinbad is here drinking is ale.
+~
+You see a man well into the years.  He is sort of plump with a great,
+long beard.  You notice two huge mauls at his side and realize he is no
+novince to the meaning of personal combat,and by judging the size of the
+weapons, cannot even guess as to his strength, truly, this mans appearance
+is not as it seems...
+~
+67 74408 1000 S
+590 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19103
+sentri guard castle~
+A castle sentri~
+The sentri guard is standing here guarding his post.
+~
+'I will guard everything within the limits of my post and quit my post
+only when properly relieved.  I will guard everything within the limits of
+my post.  Heh, Enough of that, Kill him..  ;)
+~
+67 128 1000 S
+161 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19104
+drexel samurai master~
+Drexel Cartitival the Samuria Master~
+Drexel Cartitival is standing here checking all of his hidden weapons.
+~
+You see a well built man dressed in a garb that you have never seen,
+There are little slits located in all manner of areas on the armor and you
+guess that there are small hidden blades located in every one.  You wonder
+whether or not to risk conflict with this obviously skilled warrior.
+~
+67 107178 0 S
+536 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19105
+toth thief master~
+Toth Lightfinger, The Master Thief~
+Toth is here going though all of your things.
+~
+You look at the little hobbit and realize he is holding YOUR SWORD!!.. 
+WHAT THE HELL??..  How did HE do that?!
+~
+67 98346 0 S
+546 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19106
+alexander worldwalker master~
+Alexander Worldwalker~
+Alexander is standing here pondering the ways of the universe...
+~
+You have never before seen such a presence.  You wonder for a moment if
+this being is a god.
+~
+67 4793022 1000 S
+782 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19107
+natasha lordanon apprentice~
+Natasha Lordanon, Apprentice to the Great Aalexander Worldwalker~
+Natasha is here studying one of Alexander's Spellbooks
+~
+You see a Mage with a glow in her eyes that hungers for knowledge, Truly
+she is a good apprentice.
+~
+67 524442 1000 S
+408 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#19108
+wandering sentri~
+A wandering sentri~
+A wandering sentri is here trying to avoid the sergeants.
+~
+He is a loser who abandoned his post.
+~
+193 0 0 S
+114 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19109
+castle cleaner~
+A castle cleaner~
+A castle cleaner is here picking up after the soldiers.
+~
+He looks like an ordinary cleaning person.  What did you expect?  You see
+a great scarr on the side of his head leaking dusgusting puss and mukus? 
+No!  He is an ordinary cleaner.
+~
+197 0 0 S
+98 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19110
+wandering bum~
+A wandering bum~
+There is a wandering bum hiding here.
+~
+This guy is a LOSER!
+~
+193 65536 0 S
+34 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19111
+captain guard~
+The captain of the guard~
+The Captain of the guard is here giving orders to his sergeants.
+~
+You see a strong man clad in beautiful armor with many medals.
+~
+67 8320 1000 S
+414 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19112
+elite guard~
+An Elite Guard of Castle Dragonheart~
+The Elite Guard of Castle Dragonheart is here Guarding Lord Sinbad's Home.
+~
+You see a very well armored guard.
+~
+67 8320 1000 S
+406 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#19113
+elite crimson guard castle~
+A Elite Crimson Castle Guard~
+An Elite Crimson Castle Guard of the Dragonheart is standing here.
+~
+You see a muscular soldier of the highest stature.  He is Clad in the
+most beautiful armor you have ever seen.
+~
+35 4268714 0 S
+448 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#19100
+axe executioner's psychotic~
+the Psychotic Executioner's Axe~
+A bloody axe is lying here.~
+~
+5 643 8193
+0 7 11 1
+500 5000 0
+A
+19 16
+A
+18 16
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19101
+black bloody hood~
+a bloody, black, leather hood~
+A black leather hood, soaked to through with blood, is lying here in a crumpled mass.~
+~
+9 512 17
+0 0 0 0
+5 100 0
+A
+19 5
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19102
+bag bloody brown~
+a bloody, brown bag~
+A brown bag is lying here, blood is seeping from the bottom.~
+~
+15 2 1
+1000 5 0 0
+100 1000000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19103
+head severed prisoner's~
+a severed prisoner's head~
+The severed head of a prisoner, slayed by the executioner.~
+~
+13 0 1
+0 0 0 0
+5 0 0
+E
+head~
+You think this guys name was BOB.  
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19104
+head severed prisoner's~
+a severed prisoner's head~
+The severed head of a prisoner, slayed by the executioner.~
+~
+13 0 1
+0 0 0 0
+5 0 0
+E
+head~
+Hmmm...  John?  
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19105
+head severed prisoner's~
+a severed prisoner's head~
+The severed head of a prisoner, slayed by the executioner.~
+~
+13 0 1
+0 0 0 0
+5 0 0
+E
+head~
+I bet this guys name was Frank.  
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19106
+brick crack~
+a small brick.~
+There are lots of cracks in the cobblestone ground here.~
+~
+15 0 0
+10000 13 19107 0
+10000 5 0
+E
+brick ~
+You see a small hole in a certain brick.  
+~
+E
+crack~
+You see that a certain brick has a small hole in it.  
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19107
+key black shiny~
+a black shiny key~
+A shiny black key is lying here.~
+~
+18 0 1
+0 0 0 0
+1 5 0
+E
+key~
+You see a small inscription upon the key.  
+~
+E
+inscription~
+Whoa to the seekers of The Migty axe of the Evil Executioner.  May his
+punishment reconcile his deeds.  
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19108
+polish~
+a small, bottle of clear polish.~
+A small bottle of clear, blue polish has been carelessly left here.~
+~
+40 1 1
+0 -1 -1 -1
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#19100
+The Main Gate of Castle Dragonheart~
+You are standing before the great drawbridge to Castle Dragonheart.  The
+castle is huge, it is everything and more that you have ever heard about.
+~
+0 16384 2
+D0
+~
+~
+0 0 19101
+D2
+~
+~
+0 0 4036
+S
+#19101
+The Courtyard of Castle Dragonheart.~
+You are in the wonderous courtyard of Dragonheart Castle.  The whole area
+has been paved with cobblestone.  The Great walls give you the greatest
+feeling of safety you have ever known.
+~
+0 16384 1
+D0
+~
+~
+0 0 19114
+D1
+~
+~
+0 0 19106
+D2
+~
+~
+0 0 19100
+D3
+~
+~
+0 0 19102
+S
+#19102
+The Courtyard~
+You stand in the casle courtyard, the air is fresh, the sky is nice.  All
+seems well untill you trip on a small, cobblestone brick.  Overall, this
+part of the courtyard seems different.
+~
+0 16384 1
+D0
+~
+~
+0 0 19115
+D1
+~
+~
+0 0 19101
+D3
+~
+~
+0 0 19103
+S
+#19103
+The Courtyard~
+The courtyard stretches on, but a small painting in the wall catches your attention.
+~
+0 16384 1
+D0
+~
+~
+0 0 19116
+D1
+~
+~
+0 0 19102
+D3
+~
+~
+0 0 19104
+S
+#19104
+The Courtyard~
+You are standing in the huge, southern courtyard of Castle Dragonheart. 
+Its size is very overwhelming.  To the north you see a huge statue.
+~
+0 16384 1
+D0
+~
+~
+0 0 19117
+D1
+~
+~
+0 0 19103
+D3
+~
+~
+0 0 19105
+S
+#19105
+South-West corner of the courtyard.~
+You see the great wall to the west has a small entrance to it.  There are
+a set of stairs going up inside and You realize that it leads to the tops of
+the walls, where the sentries are posting guard.
+~
+0 16384 1
+D0
+~
+~
+0 0 19118
+D1
+~
+~
+0 0 19104
+D3
+~
+~
+0 0 19125
+S
+#19106
+The Courtyard~
+You are standing in the courtyard.  The patterns used on the cobblestone
+are beautiful, you have GOT to get the names of the masons who did this so
+they can one day do your castle.
+~
+0 16384 1
+D0
+~
+~
+0 0 19113
+D1
+~
+~
+0 0 19107
+D3
+~
+~
+0 0 19101
+S
+#19107
+The great courtyard.~
+You are in the courtyard.  The cobblestone seems to sing an enchanting
+tune as your boots walk accros it and it makes you walk heavier to sound
+important.
+~
+0 16384 1
+D0
+~
+~
+0 0 19112
+D1
+~
+~
+0 0 19108
+D3
+~
+~
+0 0 19106
+S
+#19108
+The Courtyard.~
+You are standing in another part of the southern courtyard.  You are
+astounded by the exotic size of the courtyard alone.  To the north you see
+what appears to be a statue.
+~
+0 16384 1
+D0
+~
+~
+0 0 19111
+D1
+~
+~
+0 0 19109
+D3
+~
+~
+0 0 19107
+S
+#19109
+South-East corner of this courtyard.~
+You see the great wall before you has a small entrance to it.  There are
+a set of stairs going up inside and You realize that it leads to the tops of
+the walls, where the sentries are posting guard.
+~
+0 16384 1
+D0
+~
+~
+0 0 19110
+D1
+~
+~
+0 0 19119
+D3
+~
+~
+0 0 19108
+S
+#19110
+Before the east wall.~
+The great wall looms over you.  There are many men scattered about the
+area who appear ready to act at a minutes notice.  The wall itself seems to
+radiate a light of its own and you can feel a slight warmth from the,
+normally, cold stones.
+~
+0 16384 1
+D0
+~
+~
+0 0 19131
+D2
+~
+~
+0 0 19109
+D3
+~
+~
+0 0 19111
+S
+#19111
+The Statue of Drexel Cartitval.~
+You see a great statue of one of the Five Heroes, Drexel Cartitival, he
+is said to be the master of all samurai.  The statue is bathing in the
+sunlight.  It dominates the area, and seems to watch your every move.
+~
+0 16384 1
+D0
+~
+~
+0 0 19132
+D1
+~
+~
+0 0 19110
+D2
+~
+~
+0 0 19108
+D3
+~
+~
+0 0 19112
+S
+#19112
+The great courtyard.~
+You are standing in the great courtyard of Castle Dragonheart.  There is
+an ominous statue to the east that appears to eminate its own light.
+~
+0 16384 1
+D0
+~
+~
+0 0 19133
+D1
+~
+~
+0 0 19111
+D2
+~
+~
+0 0 19107
+D3
+~
+~
+0 0 19113
+S
+#19113
+The courtyard.~
+The great courtyard is spread out before you.  The size of the place is
+astounding, you only hope to find your way out.
+~
+0 16384 1
+D0
+~
+~
+0 0 19134
+D1
+~
+~
+0 0 19112
+D2
+~
+~
+0 0 19106
+D3
+~
+~
+0 0 19114
+S
+#19114
+The Center of the great courtyard.~
+You find yourself overtaken by the majesty of this great castle.  The
+great banners, the brick, the obviously massive amount of wealth spent by
+these five legendary adventurers and feel a renewed sence of hope as to what
+adventureing can bring you.
+~
+0 16384 1
+D0
+~
+~
+0 0 19135
+D1
+~
+~
+0 0 19113
+D2
+~
+~
+0 0 19101
+D3
+~
+~
+0 0 19115
+S
+#19115
+In the great courtyard.~
+You are somwhere in the great courtyard of Castle Dragonheart.
+~
+0 16384 1
+D0
+~
+~
+0 0 19136
+D1
+~
+~
+0 0 19114
+D2
+~
+~
+0 0 19102
+D3
+~
+~
+0 0 19116
+S
+#19116
+The Courtyard.~
+You are standing somewhere in the great courtyard.  You see a statue off
+to the west a ways.
+~
+0 16384 1
+D0
+~
+~
+0 0 19137
+D1
+~
+~
+0 0 19115
+D2
+~
+~
+0 0 19103
+D3
+~
+~
+0 0 19117
+S
+#19117
+The Statue of Natasha Lordanon.~
+You see a great statue of one of the Five Heroes, Natasha Lordanon,
+apprentice, to the great one himself, Alexander Worldwalker.  It bathes in
+the sunlight.  And dominates the area.  You feel like it watches your every
+move.
+~
+0 16384 1
+D0
+~
+~
+0 0 19138
+D1
+~
+~
+0 0 19116
+D2
+~
+~
+0 0 19104
+D3
+~
+~
+0 0 19118
+S
+#19118
+In front of the west wall.~
+You are now looking at the West wall of Castle Dragonheart.  It looks to
+be one of the sturdiest walls you have ever seen , and even though It shades
+you from the sunlight.  You feel a small warmth generating from it.
+~
+0 16384 1
+D0
+~
+~
+0 0 19139
+D1
+~
+~
+0 0 19117
+D2
+~
+~
+0 0 19105
+S
+#19119
+A Small Entryway with stairs leading up.~
+You are in a small entryway with a flight of stairs leading up to the top
+of the great wall.
+~
+0 16384 0
+D3
+~
+~
+0 0 19109
+D4
+~
+~
+0 0 19120
+S
+#19120
+The South-East Corner of the Great Wall.~
+You are at the South-Eastern Corner of the Great Wall.  You can see for
+miles along the southern Countryside.  The Air is fresh and You can only
+imagine what the view would look like from the Balcony you see at the center
+of the keep.
+~
+0 16384 1
+D0
+~
+~
+0 0 19142
+D3
+~
+~
+0 0 19121
+D5
+~
+~
+0 0 19119
+S
+#19121
+The Top of the Great Wall.~
+You are standing on top of the great wall, looking out over the
+countryside, you see for miles.  It is breathtaking.
+~
+0 16384 1
+D1
+~
+~
+0 0 19120
+D3
+~
+~
+0 0 19122
+S
+#19122
+The Top of the Great Wall.~
+You are on the top of the Great Wall.  There are hundreds of Guards
+bustling about up here, Keeping watch, cleaning, doing all sorts of tasks. 
+Yet, they all seem happy.  You wonder what kind of man Lord Sinbad really
+is...
+~
+0 16384 1
+D1
+~
+~
+0 0 19121
+D3
+~
+~
+0 0 19123
+S
+#19123
+The Top of the Great Wall.~
+You are standing on top of the great wall, there is a tower further east.
+~
+0 16384 1
+D1
+~
+~
+0 0 19122
+D3
+~
+~
+0 0 19124
+S
+#19124
+The Sentry's eastern gate tower.~
+You are now standing in a tiny tower that is only a little higher than
+the wall on the east side of the gate.  There are some guards here keeping
+Watch down the road and accross the horrizon.  It appears that Lord Sinbad
+may have himself a few enemies.
+~
+0 16384 0
+D1
+~
+~
+0 0 19123
+S
+#19125
+Small entryway with stairs leading up.~
+You are in a small entryway with a flight of stairs leading up to the top
+of the great wall.
+~
+0 16384 0
+D1
+~
+~
+0 0 19105
+D4
+~
+~
+0 0 19126
+S
+#19126
+The South-West corner of the great wall.~
+You are on the south-western corner of the great wall.  You can see for
+miles along the southern countryside.  The air is fresh and you can only
+imagine what the view would look like from the balcony you see at the center
+of the keep.
+~
+0 16384 1
+D0
+~
+~
+0 0 19143
+D1
+~
+~
+0 0 19127
+D5
+~
+~
+0 0 19125
+S
+#19127
+On top of the great wall.~
+You look at all the people working in astonishment.  'They are actually
+washing the stones that line the walkway of the wall.  Such labor seems
+wastefull, How much money DOES this Sinbad have?
+~
+0 16384 1
+D1
+~
+~
+0 0 19128
+D3
+~
+~
+0 0 19126
+S
+#19128
+On top of the great wall.~
+There are lots of guards everywhere you look.  Why does lord Sinbad feel
+the need to house such a force?  Is he preparing for war?
+~
+0 16384 1
+D1
+~
+~
+0 0 19129
+D3
+~
+~
+0 0 19127
+S
+#19129
+On top of the great wall.~
+You are on top of the great wall.  There are lots of people bustling here
+and there cleaning and shift rotation from the guards.  To the east you see
+a large amount of commotion begin to take place as one of them notices you. 
+The guards in the tower appear to be hiding somthing.
+~
+0 16384 1
+D1
+~
+~
+0 0 19130
+D3
+~
+~
+0 0 19128
+S
+#19130
+The Sentry's western gate tower.~
+You now stand inside a small tower.  There are several guards standing
+near the small slots in the walls.  There is a table here, and on top of it
+you see a poker set.  These guards are obviously acting according to your
+presence.
+~
+0 16384 0
+D3
+~
+~
+0 0 19129
+S
+#19131
+North-East corner of the great courtyard.~
+You are in the corner of the courtyard.  There is a small entrance into
+the wall, you see some stairs leading up.  Banners adorn the castle itself
+and off to the west you see the castle gates.
+~
+0 16384 1
+D1
+~
+~
+0 0 19145
+D2
+~
+~
+0 0 19110
+D3
+~
+~
+0 0 19132
+S
+#19132
+In the courtyard.~
+You are in the courtyard.  There is a large ominous statue to the south
+and the you can barely see the vague outline of a small door to the east. 
+To the west are the castle gates.
+~
+0 16384 1
+D1
+~
+~
+0 0 19131
+D2
+~
+~
+0 0 19111
+D3
+~
+~
+0 0 19133
+S
+#19133
+In the Courtyard.~
+You are in the largest courtyard you have ever seen.  There seems to be
+no end to this wonder and you constantly find yourself struggling not to
+lose your sense of direction.
+~
+0 16384 1
+D1
+~
+~
+0 0 19132
+D2
+~
+~
+0 0 19112
+D3
+~
+~
+0 0 19134
+S
+#19134
+The Courtyard.~
+You are in the courtyard of Castle Dragonheart.  There is a small paved
+walk that sticks out from the regular cobblestone to the west and it leads
+to the gate.  To the east you see a small door way off in the distance. 
+This place is Huge!
+~
+0 16384 1
+D1
+~
+~
+0 0 19133
+D2
+~
+~
+0 0 19113
+D3
+~
+~
+0 0 19135
+S
+#19135
+Before the Mighty Gate to Castle Dragonheart.~
+The great gate looms over you, welcoming you,and yet warning you, should
+your intentions be hainous, you will be attacked.
+~
+0 16384 1
+D0
+~
+~
+0 0 19146
+D1
+~
+~
+0 0 19134
+D2
+~
+~
+0 0 19114
+D3
+~
+~
+0 0 19136
+S
+#19136
+In the Courtyard.~
+You are in the courtyard.  As you look around, you notice something you
+never really thought of before.  The whole area is remarkably clean.  At
+that moment it hits you like a ton of bricks.  You can never recall being
+someplace where you couldn't at least see someone.  There are tons of people
+here, from cleaners to guards.  Would this be a security measure, or is
+someone lonely.
+~
+0 16384 1
+D1
+~
+~
+0 0 19135
+D2
+~
+~
+0 0 19115
+D3
+~
+~
+0 0 19137
+S
+#19137
+The Courtyard.~
+You are in the castle courtyard.  There are huge banners lining the
+castle itself.  One of them catches your eye, you think it looks something
+like a hammer or maul of some sort and behind it is a barrel, or so it
+looks.  They are crossed over each other in the standard manner that banners
+are done.  You ponder the meaning of this strange flag.
+~
+0 16384 1
+D1
+~
+~
+0 0 19136
+D2
+~
+~
+0 0 19116
+D3
+~
+~
+0 0 19138
+S
+#19138
+The castle courtyard.~
+You are in the courtyard.  There is a statue to the south and the castle
+entrance is further east.  To the west you see a small doorway.
+~
+0 16384 1
+D1
+~
+~
+0 0 19137
+D2
+~
+~
+0 0 19117
+D3
+~
+~
+0 0 19139
+S
+#19139
+The North-West corner of the courtyard.~
+The courtyard seems so large that it could be considered rediculous.  To
+the east of you, there is a small doorway, to the west, you think you can
+make out the Castle Entrance.
+~
+0 16384 1
+D1
+~
+~
+0 0 19138
+D2
+~
+~
+0 0 19118
+D3
+~
+~
+0 0 19140
+S
+#19140
+A small Stairwell, leading up.~
+You are in a small stairwell.  The stone stairs spiral upward.
+~
+0 16384 0
+D1
+~
+~
+0 0 19139
+D4
+~
+~
+0 0 19141
+S
+#19141
+Atop the Great Wall.~
+The walk goes on beside the castle to the north of here and south leads
+to the corner of the wall.  There are guards and cleaners everywhere, tis a
+good thing the wall is 10 feet wide, else you would be crouded.
+~
+0 16384 1
+D0
+~
+~
+0 0 19164
+D2
+~
+~
+0 0 19143
+D5
+~
+~
+0 0 19140
+S
+#19142
+The Great Wall.~
+From your vantage point atop the wall you can see the entire courtyard. 
+The Castle majesticaly looms over you and everything else.  The view from
+atop the wall is breathtaking and when you see the sun starting to set you
+decide to finish watching and get down to got to bed.
+~
+0 16384 1
+D0
+~
+~
+0 0 19144
+D2
+~
+~
+0 0 19120
+S
+#19143
+The Great Wall.~
+Atop the great wall, visuall examination of the landscape is nearly
+peeked.  You can see for miles across the countryside.  The courtyard seems
+so small and yet Huge at the same time.  The Beauty of this whole scene is
+breathtaking.  There are some things in this world that you wish could last
+forever, but, who wants to live forever?
+~
+0 16384 1
+D0
+~
+~
+0 0 19141
+D2
+~
+~
+0 0 19126
+S
+#19144
+On top of the wall.~
+The top of the wall shows a great deal about the eastern geography,
+things you have never seen, such as that large lake about 5 miles away, in
+the grove of trees that you didn't know was there.
+~
+0 16384 1
+D0
+~
+~
+0 0 19175
+D2
+~
+~
+0 0 19142
+D5
+~
+~
+0 0 19145
+S
+#19145
+A Stairwell.~
+You are in a small stairwell.  There are spiraling stairs here goin up,
+hey appear to lead to the top of the wall.
+~
+0 16384 0
+D3
+~
+~
+0 0 19131
+D4
+~
+~
+0 0 19144
+S
+#19146
+The Entrance to Castle Dragonheart.~
+You enter a huge room, and find yourself in a state of awe.  There is a
+huge statue of Sinbad him self to the north.  You can see him now, in all
+his glory, driving back fate with his two massive mauls that he won from the
+Titans.
+~
+0 16384 0
+D0
+~
+~
+0 0 19147
+D2
+~
+~
+0 0 19135
+S
+#19147
+Before The Great Statue of Sinbad.~
+You are standing before the great statue, revelating in its shadow,
+wondering about all of the things you had heard in your youth.  This was
+really him, This is the great Lord Sinbad.
+~
+0 16384 0
+D0
+~
+~
+0 0 19148
+D1
+~
+~
+0 0 19149
+D2
+~
+~
+0 0 19146
+D3
+~
+~
+0 0 19177
+S
+#19148
+The Great Meeting Hall.~
+Huge, magnificent tapestries adorn the walls and the floor is made of
+pure marble.  There is a beautifully hand crafted mahogany table in the
+center of the room with a dozen or so chairs to match.  There is a beautiful
+candelabra in the center of the table with 12 lit candles lighting tghe
+room.
+~
+0 16384 0
+D2
+~
+~
+0 0 19147
+S
+#19149
+East Hall~
+The Hall goes but a short distance.  There are ornamental suits of armor
+all about the walls and sentries posted by each door.  The red carpet runs
+all the way to the end of the hall and the warmth of the walls embraces you.
+~
+0 16384 0
+D0
+~
+~
+0 0 19152
+D1
+~
+~
+0 0 19150
+D2
+~
+~
+0 0 19153
+D3
+~
+~
+0 0 19147
+S
+#19150
+East Hall~
+The Hall continues.  You can see several doors, all leading to guest
+rooms.
+~
+0 16384 0
+D0
+~
+~
+0 0 19155
+D1
+~
+~
+0 0 19151
+D2
+~
+~
+0 0 19154
+D3
+~
+~
+0 0 19149
+S
+#19151
+The End of the East Hall.~
+You stand at the end of the east hall inside the wonderous Castle
+Dragonheart.  There is a huge statue back the way you came and several doors
+along the hall in shich you stand.
+~
+0 16384 0
+D0
+~
+~
+0 0 19156
+D2
+~
+~
+0 0 19157
+D3
+~
+~
+0 0 19150
+S
+#19152
+A guest room.~
+You are in a very lavishly decorated Guest room.  The Castle is well
+known for it's hospitality to all people.  Rich and poor, and you know that
+if you wanted to stay, You could.
+~
+0 16384 0
+D2
+~
+~
+0 0 19149
+S
+#19153
+A guest room.~
+You are in another guest room.  This one even has an ice-box.  Whats it
+do?
+~
+0 16384 0
+D0
+~
+~
+0 0 19149
+S
+#19154
+A guest room.~
+You are in a very lavishly decorated Guest room.  The Castle is well
+known for it's hospitality to all people.  Rich and poor, and you know that
+if you wanted to stay, You could.
+~
+0 16384 0
+D0
+~
+~
+0 0 19150
+S
+#19155
+A guest room.~
+You are in another one of Sinbad's guest rooms.  The comfort these rooms
+provide is a real improvement from the field.
+~
+0 16384 0
+D2
+~
+~
+0 0 19150
+S
+#19156
+Entrance to Drexal's Study~
+You are standing in a room with litteraly thousands of small weapons
+lying everywhere.  They are from all make and model and you get a chill
+running down you spine to know that the owner has indeed mastered their
+use...
+~
+0 16384 0
+D1
+~
+~
+0 0 19159
+D2
+~
+~
+0 0 19151
+S
+#19157
+The Study of the Master Thief, Toth Lightfinger.~
+You are in an ordinary room.  There is nothing here.  Everything of value
+is gone.
+~
+0 16384 0
+D0
+~
+~
+0 0 19151
+D1
+~
+~
+0 0 19158
+S
+#19158
+Toth's Bedroom.~
+You see huge bugling sacs of gold lying all about the room.  You know
+know why his study was empty, all the decorations and such, he stole from
+himself for all people to share.  Toth is here.  Lookin through a very
+fimiliar satchel.
+~
+0 16384 0
+D0
+~
+~
+0 0 19160
+D3
+~
+~
+0 0 19157
+S
+#19159
+Drexel's Bedroom.~
+You barely Have enough time to get halfway into the dorrway and Drexel is
+Up and clothed, with a sword to your throat, wondering why you choose to see
+him.
+~
+0 16384 0
+D2
+~
+~
+0 0 19160
+D3
+~
+~
+0 0 19156
+S
+#19160
+Stairs to the basement.~
+You are in a room that has nothing but stair leading down.
+~
+0 16384 0
+D0
+~
+~
+0 0 19159
+D2
+~
+~
+0 0 19158
+D5
+~
+~
+0 0 19161
+S
+#19161
+The Castle Basement Entryway.~
+You are now in the basement of Castle Dragonheart.  The walls seem to
+glow even brighter here.  That seems odd somehow, but the answer appears to
+lay just down the hall.
+~
+0 1 0
+D3
+~
+~
+0 0 19162
+D4
+~
+~
+0 0 19160
+S
+#19162
+The Hallway under the castle.~
+The walls are starting to glow even brighter still.  There is an alter up
+ahead with someting strange set upon it.  What it is still remains to be
+seen.
+~
+0 1 0
+D1
+~
+~
+0 0 19161
+D3
+~
+~
+0 0 19163
+S
+#19163
+The Altar of The Dragonheart~
+You enter a large chamber.  In the center You see a few guards all
+standing around what appears to be the beating heart of a dragon.  It is set
+in some magical casing and, by the color of the light it emits, you guess
+that it is powering the walls.  You can feel the raw magical energy
+radiating from the heart and it seems to invigorate you.
+~
+0 1 0
+D1
+~
+~
+0 0 19162
+S
+#19164
+The West Center Tower of The Great Wall.~
+You are now in the center tower, located on the west wall.  The localle
+for all towers are in very strategic places so when it is neccesary to pick
+up arms, everyone will have fast and easy access to them.
+~
+0 16384 1
+D0
+~
+~
+0 0 19165
+D2
+~
+~
+0 0 19141
+S
+#19165
+The Edge of the Great Wall.~
+You stand at the edge of the great wall.  Behind the massive castle, you
+see a huge mountain.  You now understand why there is no REAR wall...  There
+is a mountain there.  There is a door to the east, leading into the castle
+~
+0 16384 1
+D1
+~
+~
+0 0 19166
+D2
+~
+~
+0 0 19164
+S
+#19166
+West Entrance to The Officer's Chambers~
+You are standing inside what appears to be a long Hallway.  There are
+tapestries along the walls and a nice carpet lining the floor.  You see an
+oak door further down the hall.
+~
+0 16384 0
+D1
+~
+~
+0 0 19167
+D3
+~
+~
+0 0 19165
+S
+#19167
+The long hallway.~
+You are in a large hallway.  The Walls are warm to the touch and seem to
+emit their own light.  It is now that you notice that there are no torches
+along the walls.  Strange, strange indeed.
+~
+0 16384 0
+D1
+~
+~
+0 0 19168
+D3
+~
+~
+0 0 19166
+S
+#19168
+The long hallway.~
+The hall is getting shorter as you close on the door.  There are neat
+suits of armor standing next to the walls.  At least, you hope they are
+suits....
+~
+0 16384 0
+D1
+~
+~
+0 0 19169
+D3
+~
+~
+0 0 19167
+S
+#19169
+The long hallway.~
+You are almost to the door.  You notice that it is deathly quiet and
+start to wonder if you should be here.
+~
+0 16384 0
+D1
+~
+~
+0 0 19170
+D3
+~
+~
+0 0 19168
+S
+#19170
+The Captain's Quarters~
+You are in the Captains Quarters.  There is Paperwork Skewed all about
+his large desk.  You see all sorts of medals and awards adorning the walls
+and have to admire his taste for everything in the room is made out of the
+finest leather.
+~
+0 16384 0
+D1
+~
+~
+0 0 19171
+D3
+~
+~
+0 0 19169
+S
+#19171
+The large hall.~
+You are in a large hallway.  There are suits af armor lining the floor
+and many tapestries lining the walls.  There is an oaken door to the west
+and the entrance to the hall to the east.
+~
+0 16384 0
+D1
+~
+~
+0 0 19172
+D3
+~
+~
+0 0 19170
+S
+#19172
+The large hall.~
+You are in a long hallway.  It turns out that this hallway is alot longer
+than you thought.  You wonder if it's a magical hallway and the entrances
+and doors are illusions.  Might be a good time to recall.
+~
+0 16384 0
+D1
+~
+~
+0 0 19173
+D3
+~
+~
+0 0 19171
+S
+#19173
+The large hall.~
+You are in a large hallway.  The hall spans 6 feet wide and seems to be
+an endless length.
+~
+0 16384 0
+D1
+~
+~
+0 0 19174
+D3
+~
+~
+0 0 19172
+S
+#19174
+East entrance to the Officer's Chambers.~
+You are standing inside what appears to be a long hallway.  There are
+tapestries along the walls and a nice red carpet lining the floor.  You see
+an oak door further down the hall.
+~
+0 16384 0
+D1
+~
+~
+0 0 19176
+D3
+~
+~
+0 0 19173
+S
+#19175
+On top of the Great Wall.~
+You are on top of the great wall.  There is a door leading into the
+castle to the north, a way down to the south and a huge mountain behind the
+castle.
+~
+0 16384 1
+D0
+~
+~
+0 0 19176
+D2
+~
+~
+0 0 19144
+S
+#19176
+The edge of the great wall.~
+You now stand at the edge of the great wall.  You see what lies behind
+Castle Dragonheart, A HUGE MOUNTAIN!  No wonder the wall ends here.  There
+is a door to the inside of the castle west of here.
+~
+0 16384 1
+D2
+~
+~
+0 0 19175
+D3
+~
+~
+0 0 19174
+S
+#19177
+The Guarded Hall~
+The Hall goes but a short distance.  There are ornamental suits of armor
+all about the walls and sentries posted by each door.  The red carpet runs
+all the way to the end of the hall and the warmth of the walls embraces you.
+~
+0 16384 0
+D0
+~
+~
+0 0 19180
+D1
+~
+~
+0 0 19147
+D2
+~
+~
+0 0 19181
+D3
+~
+~
+0 0 19178
+S
+#19178
+The Guarded Hall.~
+You are about half way down the hall.  There are more guest rooms to the
+north and south.
+~
+0 16384 0
+D0
+~
+~
+0 0 19183
+D1
+~
+~
+0 0 19177
+D2
+~
+~
+0 0 19182
+D3
+~
+~
+0 0 19179
+S
+#19179
+End of the Guarded Hall.~
+You are at the end of the hallway.  There are two doors, to the north and
+south and they appear to be somewhat different than that of the Guest rooms.
+~
+0 16384 0
+D0
+~
+~
+0 0 19184
+D1
+~
+~
+0 0 19178
+D2
+~
+~
+0 0 19185
+S
+#19180
+A Guest Room~
+This is a lavishly decorated guest room.  There are private facilities, a
+sink and bath, and a nice, gnome invented waterbed.  And its heated too.
+~
+0 16384 0
+D2
+~
+~
+0 0 19177
+S
+#19181
+A Guest Room~
+This guest room has a large, king size bed.  A small card table and an
+icebox.
+~
+0 16384 0
+D0
+~
+~
+0 0 19177
+S
+#19182
+A Guest Room~
+The room looks pretty ordinary.  It makes you feel at home and want to
+take a rest on the nice bed.
+~
+0 16384 0
+D0
+~
+~
+0 0 19178
+S
+#19183
+A Guest Room~
+This guest room has stuff inside the likes of which you have never seen. 
+There is a bed, a table and chairs, and a peculiar looking chest with small
+pieces of weak steal poking out of the top of it.  You also notice that the
+front of the chest is made of glass and there are little black knobs with
+small symbols all about them.
+~
+0 16384 0
+D2
+~
+~
+0 0 19178
+S
+#19184
+Natasha's Study~
+This study appears alot different than all the other studies, in that, it
+is a mess.  There are books with strange wrighting scattered all about the
+room.  This adventurer is a scholar for sure.
+~
+0 16384 0
+D2
+~
+~
+0 0 19179
+D3
+~
+~
+0 0 19187
+S
+#19185
+The Study of Alexander Worldwalker.~
+You enter the study of the greatest hero ever known, Alexander
+Worldwalker.  There are remnants of the many battles he had fought and
+strange little devices scattered all about the room.  You can hear some
+muttering to the west.
+~
+0 16384 0
+D0
+~
+~
+0 0 19179
+D3
+~
+~
+0 0 19186
+S
+#19186
+Alexander's Bedroom~
+You enter the large bedroom of Alexander Worldwalker.  The room is nearly
+void of everything except a faint light and a small pillow that seems to
+float in the air.  Alexander is about to levitate himsef to sleep.
+~
+0 16384 0
+D0
+~
+~
+0 0 19188
+D1
+~
+~
+0 0 19185
+S
+#19187
+Natasha's Bedroom~
+You enter the bedroom of Natasha only to find her aready asleep,
+collapsed while reading a book of some sort.  Probably one of Alexander's
+from what you gather about her.
+~
+0 16384 0
+D1
+~
+~
+0 0 19184
+D2
+~
+~
+0 0 19188
+S
+#19188
+The Stairs to the Tower.~
+You see before you a HUGE set of sprialing stairs leading up.  These Must
+go to the Upper level of the castle.
+~
+0 16384 0
+D0
+~
+~
+0 0 19187
+D2
+~
+~
+0 0 19186
+D4
+~
+~
+0 0 19189
+S
+#19189
+Going up the Stairs.~
+You are climbing the spiral stairs of Castle Dragonheart.
+~
+0 0 0
+D4
+~
+~
+0 0 19190
+D5
+~
+~
+0 0 19188
+S
+#19190
+The Top of The Spiral Stairs.~
+You are standing at the top of the great sprial stairs of Castle
+Dragonheart.  The only exit to this little chamber is to the east.
+~
+0 0 0
+D1
+~
+~
+0 0 19191
+D5
+~
+~
+0 0 19189
+S
+#19191
+The Guarded Hallway.~
+You are standing in a great Hallway.  There is a beautiful red-velvet
+Carpet lining the floor.  Majestic looking suits of armor lining the
+walls...  Oops..  Those are guards Oh well..  They look good.
+~
+0 0 0
+D1
+~
+~
+0 0 19192
+D3
+~
+~
+0 0 19190
+S
+#19192
+A Huge Audiance Hall.~
+The Hall of Audiance is where Lord Sinbad Greets all of his guests. 
+There is a great throne in the center of the far wall.  There are two
+Massive Mauls lying on either side of it and you also see a big glowing keg
+on the right of it.  Sinbad is here ready to greet you and answer any
+questions you might have about his keep.
+~
+0 0 0
+D0
+~
+~
+0 0 19195
+D1
+~
+~
+0 0 19193
+D2
+~
+~
+0 0 19194
+D3
+~
+~
+0 0 19191
+S
+#19193
+Sinbad's Bedroom~
+You are in sinbad's Bedroom.  The huge silk-covered bed is in the center,
+with some hangers all arout it no doubt to hang his mauls.  Doesn't he ever
+leave them alone?
+~
+0 0 0
+D3
+~
+~
+0 0 19192
+S
+#19194
+The Castle Balcony.~
+The view from here is totaly enchanting.  Never before have you gazed
+upon such beauty, truly, the gods come here to look out over the majestic
+scenery.  You can see everything for hundreds of miles, in all directions. 
+Blessed be the powers that created such a place of wonder...
+~
+0 0 0
+D0
+~
+~
+0 0 19192
+S
+#19195
+The Castle Restroom~
+You look around and realize that this is a convenient place for lord
+Sinbad.  But him alone, what about everyone else?  Oh well, at least the
+guests have access.
+~
+0 0 0
+D2
+~
+~
+0 0 19192
+S
+#0
+
+
+
+#SPECIALS
+M 19100 spec_rogue
+M 19102 spec_cast_judge
+M 19103 spec_guard
+M 19112 spec_guard
+S
+
+
+
+#RESETS
+M 0 19103 5 19100
+M 0 19103 5 19100
+M 0 19103 5 19100
+M 0 19103 5 19100
+M 0 19103 5 19100
+M 0 19100 1 19101
+E 0 19101 0 6
+G 0 19102 0
+P 0 19103 0 19102
+P 0 19105 0 19102
+P 0 19104 0 19102
+O 0 19106 0 19102
+P 0 19100 0 19106
+M 0 19103 5 19103
+M 0 19103 5 19103
+M 0 19103 5 19103
+M 0 19103 5 19103
+M 0 19103 5 19103
+M 0 19103 5 19105
+M 0 19103 5 19105
+M 0 19103 5 19105
+M 0 19103 5 19105
+M 0 19103 5 19105
+M 0 19103 5 19107
+M 0 19103 5 19107
+M 0 19103 5 19107
+M 0 19103 5 19107
+M 0 19103 5 19107
+M 0 19103 5 19109
+M 0 19103 5 19109
+M 0 19103 5 19109
+M 0 19103 5 19109
+M 0 19103 5 19109
+M 0 19109 20 19111
+M 0 19103 2 19111
+M 0 19103 2 19111
+M 0 19110 10 19112
+M 0 19110 10 19112
+M 0 19110 10 19112
+M 0 19110 10 19112
+M 0 19110 10 19112
+M 0 19103 5 19113
+M 0 19103 5 19113
+M 0 19103 5 19113
+M 0 19103 5 19113
+M 0 19103 5 19113
+M 0 19108 5 19114
+M 0 19108 5 19114
+M 0 19103 5 19114
+M 0 19103 5 19114
+M 0 19110 10 19115
+M 0 19103 2 19115
+M 0 19103 2 19115
+M 0 19109 20 19117
+M 0 19103 3 19117
+M 0 19103 3 19117
+M 0 19103 3 19117
+M 0 19108 10 19119
+M 0 19108 10 19119
+M 0 19103 5 19120
+M 0 19103 5 19120
+M 0 19103 5 19120
+M 0 19103 5 19120
+M 0 19103 5 19120
+M 0 19109 5 19122
+M 0 19103 3 19122
+M 0 19103 3 19122
+M 0 19103 3 19122
+M 0 19103 2 19122
+M 0 19109 5 19122
+M 0 19101 1 19124
+M 0 19103 5 19124
+M 0 19103 5 19124
+M 0 19103 5 19124
+M 0 19103 5 19124
+M 0 19103 5 19124
+M 0 19108 5 19125
+M 0 19108 5 19125
+M 0 19103 5 19126
+M 0 19103 5 19126
+M 0 19103 5 19126
+M 0 19103 5 19126
+M 0 19103 5 19126
+M 0 19109 5 19127
+M 0 19109 5 19127
+M 0 19109 5 19127
+M 0 19109 5 19127
+M 0 19109 5 19127
+M 0 19103 5 19128
+M 0 19103 5 19128
+M 0 19103 5 19128
+M 0 19103 5 19128
+M 0 19103 5 19128
+M 0 19101 2 19130
+M 0 19103 10 19130
+M 0 19103 10 19130
+M 0 19103 10 19130
+M 0 19103 10 19130
+M 0 19103 10 19130
+M 0 19103 10 19130
+M 0 19103 10 19130
+M 0 19103 10 19130
+M 0 19103 10 19130
+M 0 19101 2 19130
+M 0 19103 5 19131
+M 0 19103 5 19131
+M 0 19103 5 19131
+M 0 19103 5 19131
+M 0 19103 5 19131
+M 0 19103 2 19133
+M 0 19103 2 19133
+M 0 19103 5 19135
+M 0 19103 5 19135
+M 0 19103 5 19135
+M 0 19103 5 19135
+M 0 19103 5 19135
+M 0 19103 5 19137
+M 0 19103 5 19137
+M 0 19103 5 19137
+M 0 19103 5 19137
+M 0 19103 5 19137
+M 0 19103 5 19139
+M 0 19103 5 19139
+M 0 19103 5 19139
+M 0 19103 5 19139
+M 0 19103 5 19139
+M 0 19108 5 19140
+M 0 19108 5 19140
+M 0 19108 5 19140
+M 0 19108 5 19140
+M 0 19108 5 19140
+M 0 19103 2 19141
+M 0 19103 2 19141
+M 0 19109 5 19142
+M 0 19109 5 19142
+M 0 19109 5 19142
+M 0 19109 5 19142
+M 0 19109 5 19142
+M 0 19109 5 19143
+M 0 19109 5 19143
+M 0 19109 5 19143
+M 0 19109 5 19143
+M 0 19109 5 19143
+M 0 19103 5 19144
+M 0 19103 5 19144
+M 0 19103 5 19144
+M 0 19103 5 19144
+M 0 19103 5 19144
+M 0 19108 5 19145
+M 0 19108 5 19145
+M 0 19112 3 19146
+M 0 19112 3 19146
+M 0 19112 3 19146
+M 0 19112 3 19147
+M 0 19112 3 19147
+M 0 19112 3 19147
+M 0 19109 5 19148
+M 0 19109 5 19148
+M 0 19109 5 19148
+M 0 19109 5 19148
+M 0 19109 5 19148
+M 0 19112 3 19149
+M 0 19112 3 19149
+M 0 19112 3 19149
+M 0 19112 3 19151
+M 0 19112 3 19151
+M 0 19112 3 19151
+M 0 19109 1 19152
+M 0 19109 1 19153
+M 0 19109 1 19154
+M 0 19109 1 19155
+M 0 19105 1 19158
+M 0 19104 1 19159
+M 0 19113 3 19161
+M 0 19113 3 19161
+M 0 19113 3 19161
+M 0 19113 3 19162
+M 0 19113 3 19162
+M 0 19113 3 19162
+M 0 19113 3 19163
+M 0 19113 3 19163
+M 0 19113 3 19163
+M 0 19113 5 19163
+M 0 19103 5 19165
+M 0 19103 5 19165
+M 0 19103 5 19165
+M 0 19103 5 19165
+M 0 19103 5 19165
+M 0 19109 5 19166
+M 0 19109 5 19166
+M 0 19109 5 19166
+M 0 19109 5 19166
+M 0 19109 5 19166
+M 0 19101 1 19169
+M 0 19103 5 19169
+M 0 19103 5 19169
+M 0 19103 5 19169
+M 0 19103 5 19169
+M 0 19103 5 19169
+M 0 19111 1 19170
+M 0 19101 2 19170
+M 0 19101 2 19170
+M 0 19103 10 19170
+M 0 19103 10 19170
+M 0 19103 10 19170
+M 0 19103 10 19170
+M 0 19103 10 19170
+M 0 19103 10 19170
+M 0 19103 10 19170
+M 0 19103 10 19170
+M 0 19103 10 19170
+M 0 19103 10 19170
+M 0 19101 1 19171
+M 0 19103 5 19171
+M 0 19103 5 19171
+M 0 19103 5 19171
+M 0 19103 5 19171
+M 0 19103 5 19171
+M 0 19109 5 19174
+M 0 19109 5 19174
+M 0 19103 5 19176
+M 0 19103 5 19176
+M 0 19103 5 19176
+M 0 19103 5 19176
+M 0 19103 5 19176
+M 0 19112 3 19177
+M 0 19112 3 19177
+M 0 19112 3 19177
+M 0 19112 3 19179
+M 0 19112 3 19179
+M 0 19112 3 19179
+M 0 19109 2 19180
+M 0 19109 2 19180
+M 0 19109 2 19181
+M 0 19109 2 19181
+M 0 19109 2 19182
+M 0 19109 2 19182
+M 0 19109 2 19183
+M 0 19109 2 19183
+M 0 19106 1 19186
+M 0 19107 1 19187
+M 0 19112 10 19188
+M 0 19112 10 19188
+M 0 19112 10 19188
+M 0 19112 10 19188
+M 0 19112 10 19188
+M 0 19112 10 19188
+M 0 19112 10 19188
+M 0 19112 10 19188
+M 0 19112 10 19188
+M 0 19112 10 19188
+M 0 19112 5 19189
+M 0 19112 5 19189
+M 0 19112 5 19189
+M 0 19112 5 19189
+M 0 19112 5 19189
+M 0 19112 5 19190
+M 0 19112 5 19190
+M 0 19112 5 19190
+M 0 19112 5 19190
+M 0 19112 5 19190
+M 0 19112 5 19191
+M 0 19112 5 19191
+M 0 19112 5 19191
+M 0 19112 5 19191
+M 0 19112 5 19191
+M 0 19112 2 19192
+M 0 19112 2 19192
+M 0 19102 1 19192
+G 0 19107 0
+M 0 19109 2 19193
+M 0 19109 2 19193
+M 0 19112 2 19194
+M 0 19112 2 19194
+M 0 19109 2 19195
+M 0 19109 2 19195
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

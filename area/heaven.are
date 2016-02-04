@@ -1,0 +1,897 @@
+#AREADATA
+Name        Jobo     Jobo's Heaven~
+Builders    Jobo~
+VNUMs       99000 99100
+Security    1
+Recall      3005
+End
+
+
+
+#MOBILES
+#99000
+worshipper~
+a worshipper~
+A worshipper of the almighty stands and preaches his word.
+~
+"He is the lord, your savoir. You must worship
+him, for he will lead you out of darkness."
+~
+17 0 1000 S
+100 0 0 1d1+1 0d0+0
+0 0
+0 0 1
+#99001
+sinner~
+a sinner~
+A sinner is trying to repent
+~
+I repent, I do, I do, please forgive me oh
+Father, I have sinned, but I repent...
+~
+17 0 500 S
+80 0 0 1d2+2 0d0+0
+0 0
+0 0 2
+#99002
+angel~
+an angel~
+An angel flitters around, looking for fun.
+~
+Oh glory, oh Glory!!!
+~
+1 8204 1000 S
+122 0 0 10d1+1 0d0+0
+0 0
+0 0 1
+#99003
+archangel~
+an archangel~
+An archangel watches over the sinners.
+~
+You shall repent!!!!
+~
+17 8332 1000 S
+198 0 0 20d5+2 0d0+0
+0 0
+0 0 2
+#99004
+overseer~
+the overseer~
+The overseer is busy, no wonder with all those sinners around.
+~
+"oh my, oh my, I wonder why he did that, now
+I'll have to send him straight to hell, oh
+my, oh my."
+~
+19 16384 1000 S
+298 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#99000
+flaming sword~
+a Flaming Sword~
+A flaming sword stands against the wall~
+~
+5 0 8193
+0 10 15 3
+20 2344 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#99000
+The elevator back to Midgaard~
+Theres an elevator leading down to midgaard,
+but the door seems to be locked, wonder who
+has the key, these damn angels never seem to
+think of anything but having fun.
+~
+0 0 0
+D0
+~
+~
+0 0 99002
+D1
+~
+~
+0 0 99005
+D2
+~
+~
+0 0 99011
+D3
+~
+~
+0 0 99008
+D4
+~
+~
+0 0 99001
+D5
+~
+~
+7 0 3001
+S
+#99001
+The chamber of Ruling~
+A computer teminal stands in the corner, and
+the rest of the room is a mess of papers and
+journals.. seems Heaven is keeping track of
+everyone these days.
+~
+0 0 0
+D5
+~
+~
+0 0 99000
+S
+#99002
+A glowing corridor leading north~
+~
+0 0 0
+D0
+~
+~
+0 0 99003
+D2
+~
+~
+0 0 99000
+S
+#99003
+A glowing corridor leading north~
+~
+0 0 0
+D0
+~
+~
+0 0 99004
+D2
+~
+~
+0 0 99002
+S
+#99004
+A glowing corridor leading north~
+~
+0 0 0
+D0
+~
+~
+0 0 99015
+D2
+~
+~
+0 0 99003
+S
+#99005
+A glowing corridor leading east~
+~
+0 0 0
+D1
+~
+~
+0 0 99006
+D3
+~
+~
+0 0 99000
+S
+#99006
+A glowing corridor leading east~
+~
+0 0 0
+D1
+~
+~
+0 0 99007
+D3
+~
+~
+0 0 99005
+S
+#99007
+A glowing corridor leading east~
+~
+0 0 0
+D1
+~
+~
+0 0 99035
+D3
+~
+~
+0 0 99006
+S
+#99008
+A glowing corridor leading west~
+~
+0 0 0
+D1
+~
+~
+0 0 99000
+D3
+~
+~
+0 0 99009
+S
+#99009
+A glowing corridor leading west~
+~
+0 0 0
+D1
+~
+~
+0 0 99008
+D3
+~
+~
+0 0 99010
+S
+#99010
+A glowing corridor leading west~
+~
+0 0 0
+D1
+~
+~
+0 0 99009
+D3
+~
+~
+0 0 99028
+S
+#99011
+A glowing corridor leading south~
+~
+0 0 0
+D0
+~
+~
+0 0 99000
+D2
+~
+~
+0 0 99012
+S
+#99012
+A glowing corridor leading south~
+~
+0 0 0
+D0
+~
+~
+0 0 99011
+D2
+~
+~
+0 0 99013
+S
+#99013
+A glowing corridor leading south~
+~
+0 0 0
+D0
+~
+~
+0 0 99012
+D2
+~
+~
+0 0 99042
+S
+#99014
+Chamber of Pleasure~
+~
+0 0 0
+D0
+~
+~
+0 0 99017
+D4
+~
+~
+0 0 99018
+D5
+~
+~
+0 0 99000
+S
+#99015
+Chamber of Harmony~
+~
+0 0 0
+D1
+~
+~
+0 0 99016
+D2
+~
+~
+0 0 99004
+S
+#99016
+Chamber of Love~
+~
+0 0 0
+D0
+~
+~
+0 0 99019
+D3
+~
+~
+0 0 99015
+S
+#99017
+Chamber of Peace~
+~
+0 0 0
+D0
+~
+~
+0 0 99020
+D2
+~
+~
+0 0 99014
+S
+#99018
+Chamber of Meditation~
+~
+0 0 0
+D5
+~
+~
+0 0 99014
+S
+#99019
+Chamber of Universal peace~
+~
+0 0 0
+D0
+~
+~
+0 0 99022
+D2
+~
+~
+0 0 99016
+S
+#99020
+Chamber of Friendship~
+~
+0 0 0
+D1
+~
+~
+0 0 99021
+D2
+~
+~
+0 0 99017
+S
+#99021
+The Family Room~
+~
+0 0 0
+D1
+~
+~
+0 0 99022
+D3
+~
+~
+0 0 99020
+S
+#99022
+The Chamber of Devotion~
+~
+0 0 0
+D2
+~
+~
+0 0 99019
+D3
+~
+~
+0 0 99021
+S
+#99023
+Pool of Blood~
+~
+0 0 0
+D1
+~
+~
+0 0 99024
+D5
+~
+~
+0 0 99000
+S
+#99024
+Pool of Arsenic~
+~
+0 0 0
+D1
+~
+~
+0 0 99025
+D3
+~
+~
+0 0 99023
+S
+#99025
+Pool of Darkness~
+~
+0 0 0
+D2
+~
+~
+0 0 99031
+D3
+~
+~
+0 0 99024
+S
+#99026
+The Cleansing God~
+~
+0 0 0
+D1
+~
+~
+0 0 99027
+D2
+~
+~
+0 0 99029
+S
+#99027
+The Lovers God~
+~
+0 0 0
+D1
+~
+~
+0 0 99028
+D3
+~
+~
+0 0 99026
+S
+#99028
+The only God~
+~
+0 0 0
+D1
+~
+~
+0 0 99010
+D3
+~
+~
+0 0 99027
+S
+#99029
+Your Father~
+~
+0 0 0
+D0
+~
+~
+0 0 99026
+D1
+~
+~
+0 0 99030
+S
+#99030
+Your Mother~
+~
+0 0 0
+D1
+~
+~
+0 0 99031
+D3
+~
+~
+0 0 99029
+S
+#99031
+All are you his Children~
+~
+0 0 0
+D0
+~
+~
+0 0 99025
+D3
+~
+~
+0 0 99030
+S
+#99032
+A Tortured Sinner~
+~
+0 0 0
+D1
+~
+~
+0 0 99033
+D2
+~
+~
+0 0 99038
+S
+#99033
+A Heathen in Despair~
+~
+0 0 0
+D1
+~
+~
+0 0 99034
+D3
+~
+~
+0 0 99032
+S
+#99034
+Cauldron of Despair~
+~
+0 0 0
+D2
+~
+~
+0 0 99037
+D3
+~
+~
+0 0 99033
+S
+#99035
+Misery without God~
+~
+0 0 0
+D1
+~
+~
+0 0 99036
+D3
+~
+~
+0 0 99007
+S
+#99036
+Longing, no God~
+~
+0 0 0
+D1
+~
+~
+0 0 99037
+D3
+~
+~
+0 0 99035
+S
+#99037
+Repent sinners, your time has come~
+~
+0 0 0
+D0
+~
+~
+0 0 99034
+D3
+~
+~
+0 0 99036
+S
+#99038
+War and Famine~
+~
+0 0 0
+D0
+~
+~
+0 0 99032
+D1
+~
+~
+0 0 99039
+S
+#99039
+Death and Plague~
+~
+0 0 0
+D1
+~
+~
+0 0 99040
+D3
+~
+~
+0 0 99038
+S
+#99040
+The Scourge~
+~
+0 0 0
+D3
+~
+~
+0 0 99039
+D5
+~
+~
+0 0 99000
+S
+#99041
+Those who Repent~
+~
+0 0 0
+D1
+~
+~
+0 0 99043
+D2
+~
+~
+0 0 99044
+S
+#99042
+All will find Peace~
+~
+0 0 0
+D0
+~
+~
+0 0 99013
+D2
+~
+~
+0 0 99045
+S
+#99043
+You must worship the Lord~
+~
+0 0 0
+D2
+~
+~
+0 0 99048
+D3
+~
+~
+0 0 99041
+S
+#99044
+There are no other Gods~
+~
+0 0 0
+D0
+~
+~
+0 0 99041
+D2
+~
+~
+0 0 99047
+S
+#99045
+He is your saviour~
+~
+0 0 0
+D0
+~
+~
+0 0 99042
+D2
+~
+~
+0 0 99046
+S
+#99046
+He sacrificed his Son for you~
+~
+0 0 0
+D0
+~
+~
+0 0 99045
+D3
+~
+~
+0 0 99047
+S
+#99047
+There are no other Gods~
+~
+0 0 0
+D0
+~
+~
+0 0 99044
+D1
+~
+~
+0 0 99046
+S
+#99048
+Only those that believe~
+~
+0 0 0
+D0
+~
+~
+0 0 99043
+D2
+~
+~
+0 0 99049
+S
+#99049
+A worshipper~
+~
+0 0 0
+D0
+~
+~
+0 0 99048
+D4
+~
+~
+0 0 99000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 99002 20 99001
+M 0 99004 1 99001
+M 0 99000 36 99002
+M 0 99000 36 99002
+M 0 99001 34 99003
+M 0 99001 34 99003
+M 0 99002 20 99003
+M 0 99000 36 99004
+M 0 99000 36 99004
+M 0 99000 36 99005
+M 0 99000 36 99005
+M 0 99002 20 99005
+M 0 99003 10 99006
+E 0 99000 0 16
+M 0 99000 36 99007
+M 0 99000 36 99007
+M 0 99001 34 99007
+M 0 99001 34 99007
+M 0 99002 20 99007
+M 0 99000 36 99008
+M 0 99000 36 99008
+M 0 99000 36 99009
+M 0 99000 36 99009
+M 0 99002 20 99009
+M 0 99000 36 99010
+M 0 99000 36 99010
+M 0 99001 34 99010
+M 0 99001 34 99010
+M 0 99002 20 99011
+M 0 99003 10 99011
+E 0 99000 0 16
+M 0 99000 36 99012
+M 0 99000 36 99012
+M 0 99002 20 99013
+M 0 99000 36 99014
+M 0 99000 36 99014
+M 0 99001 34 99014
+M 0 99001 34 99014
+M 0 99002 20 99015
+M 0 99001 34 99016
+M 0 99001 34 99016
+M 0 99000 36 99017
+M 0 99000 36 99017
+M 0 99002 20 99017
+M 0 99001 34 99018
+M 0 99001 34 99018
+M 0 99000 36 99019
+M 0 99000 36 99019
+M 0 99002 20 99019
+M 0 99001 34 99020
+M 0 99001 34 99020
+M 0 99000 36 99021
+M 0 99000 36 99021
+M 0 99002 20 99021
+M 0 99003 10 99021
+E 0 99000 0 16
+M 0 99002 20 99023
+M 0 99001 34 99024
+M 0 99001 34 99024
+M 0 99000 36 99025
+M 0 99000 36 99025
+M 0 99002 20 99025
+M 0 99003 10 99025
+E 0 99000 0 16
+M 0 99000 36 99026
+M 0 99000 36 99026
+M 0 99001 34 99026
+M 0 99001 34 99026
+M 0 99002 20 99027
+M 0 99000 36 99028
+M 0 99000 36 99028
+M 0 99001 34 99028
+M 0 99001 34 99028
+M 0 99002 20 99029
+M 0 99000 36 99031
+M 0 99000 36 99031
+M 0 99002 20 99031
+M 0 99003 10 99032
+E 0 99000 0 16
+M 0 99001 34 99033
+M 0 99001 34 99033
+M 0 99002 20 99033
+M 0 99000 36 99034
+M 0 99000 36 99034
+M 0 99003 10 99034
+E 0 99000 0 16
+M 0 99001 34 99035
+M 0 99001 34 99035
+M 0 99002 20 99035
+M 0 99003 10 99035
+E 0 99000 0 16
+M 0 99000 36 99038
+M 0 99000 36 99038
+M 0 99001 34 99038
+M 0 99001 34 99038
+M 0 99001 34 99041
+M 0 99001 34 99041
+M 0 99003 10 99042
+E 0 99000 0 16
+M 0 99003 10 99043
+E 0 99000 0 16
+M 0 99003 10 99044
+E 0 99000 0 16
+M 0 99001 34 99045
+M 0 99001 34 99045
+M 0 99002 20 99045
+M 0 99002 20 99046
+M 0 99001 34 99047
+M 0 99001 34 99047
+M 0 99001 34 99049
+M 0 99001 34 99049
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

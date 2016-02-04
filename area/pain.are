@@ -1,0 +1,173 @@
+#AREADATA
+Name        Dracknuur Hall of pain ~
+Builders    Dracknuur~
+VNUMs       91000 91099
+Security    5
+Recall      3001
+End
+
+
+
+#MOBILES
+#91000
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+2928 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#91000
+guard of light power~
+the power of Guard of Light~
+The power of Guard of Light is here.~
+~
+50 323 1
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#91000
+#CHall of #RPain#n~
+West Entrance to Dark Templars
+East Entrance to Ancient Dystopia
+~
+0 24590 0
+D1
+~
+~
+0 -1 90000
+D2
+~
+~
+0 -1 91001
+D3
+~
+~
+0 -1 90100
+D4
+~
+~
+0 0 3001
+S
+#91001
+#CHall of #RPain#n~
+East Entrance to Assassins
+West Entrance to Knights of Round
+~
+0 24590 0
+D0
+~
+~
+0 -1 91000
+D1
+~
+~
+0 -1 90200
+D2
+~
+~
+0 -1 91002
+D3
+~
+~
+0 0 90300
+S
+#91002
+#CHall of #RPain#n~
+East Entrance to Shadow Guards
+~
+0 24590 0
+D0
+~
+~
+0 -1 91001
+D1
+~
+~
+0 -1 90400
+D2
+~
+~
+0 0 91003
+D3
+~
+~
+0 -1 90500
+S
+#91003
+#CHall of #RPain#n~
+~
+0 24590 0
+D0
+~
+~
+0 -1 91002
+D1
+~
+~
+0 -1 90600
+D2
+~
+~
+0 -1 91004
+D3
+~
+~
+0 -1 90700
+S
+#91004
+#CHall of #RPain#n~
+~
+0 24590 0
+D0
+~
+~
+0 -1 91003
+D1
+~
+~
+0 -1 90800
+D3
+~
+~
+0 -1 90900
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

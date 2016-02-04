@@ -1,0 +1,3088 @@
+#AREADATA
+Name        Xara    Mountain of the Evil Ones~
+Builders    Xara Vaul~
+VNUMs       31100 31178
+Security    1
+Recall      3001
+End
+
+
+
+#MOBILES
+#31100
+evil death one~
+an Evil One~
+An Evil One stares at you, it's eyes glowing red.
+~
+You had never quite believed the woodcuts in the Book of Jezekiel, but it
+appears they were totally true to life.
+  The Evil Ones stand four feet high, and their body looks almost exactly
+like a longhaired kiwi with four little pink paws sticking out of it, two
+huge round eyes, and a tiny round mouth. This one happens to be blonde.
+~
+97 552 -1000 S
+110 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31101
+evil death one~
+an Evil One~
+An Evil One glares at you, it's eyes glowing red.
+~
+You had never quite believed the woodcuts in the Book of Jezekiel, but it
+appears they were totally true to life.
+  The Evil Ones stand four feet high, and their body looks almost exactly
+like a longhaired kiwi with four little pink paws sticking out of it, two
+huge round eyes, and a tiny round mouth. This one happens to have black fur.
+~
+97 680 -1000 S
+123 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31102
+evil death one~
+an Evil One~
+An Evil One stares at you with red glowing eyes.
+~
+You had never quite believed the woodcuts in the Book of Jezekiel, but it
+appears they were totally true to life.
+  The Evil Ones stand four feet high, and their body looks almost exactly
+like a longhaired kiwi with four little pink paws sticking out of it, two
+huge round eyes, and a tiny round mouth. This one happens to be blonde, but
+has had a flattop haircut done. It doesn't look quite the same atop a bald
+kiwi.
+~
+97 680 -1000 S
+168 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31103
+evil death one~
+an Evil One~
+An Evil One glares at you with red glowing eyes.
+~
+You had never quite believed the woodcuts in the Book of Jezekiel, but it
+appears they were totally true to life.
+  The Evil Ones stand four feet high, and their body looks almost exactly
+like a longhaired kiwi with four little pink paws sticking out of it, two
+huge round eyes, and a tiny round mouth. This one happens to have black
+fur, but has had a flattop haircut done. It doesn't look quite the same
+atop a bald kiwi.
+~
+97 680 -1000 S
+101 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31104
+evil death one~
+an Evil One~
+An Evil One growls at you, deep in it's throat.
+~
+You had never quite believed the woodcuts in the Book of Jezekiel, but it
+appears they were totally true to life.
+  The Evil Ones stand four feet high, and their body looks almost exactly
+like a longhaired kiwi with four little pink paws sticking out of it, two
+huge round eyes, and a tiny round mouth. This one happens to be blonde.
+  The amount of makeup tells you that this is a female Evil One. Just as
+despicable as the males, but faster.
+~
+97 680 -1000 S
+172 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31105
+evil death one~
+an Evil One~
+An Evil One snarls at you, it's teeth bared.
+~
+You had never quite believed the woodcuts in the Book of Jezekiel, but it
+appears they were totally true to life.
+  The Evil Ones stand four feet high, and their body looks almost exactly
+like a longhaired kiwi with four little pink paws sticking out of it, two
+huge round eyes, and a tiny round mouth. This one happens to have black fur.
+  The amount of makeup tells you that this is a female Evil One. Just as
+despicable as the males, but faster.
+~
+97 680 -1000 S
+115 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31106
+evil death one~
+a Death From Above Evil One~
+An Evil One hurls itself on you from above, razor sharp claws ready to kill.
+~
+This is an Evil One of the Death From Above circle. His fur is short in
+front, but longer at the back and very long behind his head. Overall, it
+gives the impression of a small furry God swooping out of the sky on fire,
+razorsharp (if miniscule) claws bared to tear out whoever's throat it lands
+on.
+  Probably the God of Kiwis though.
+~
+97 524968 -1000 S
+201 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31107
+evil death one~
+a Death From Above Evil One~
+An Evil One leaps down at you from the path above, razor claws bared.
+~
+This is an Evil One of the Death From Above circle. His fur is short in
+front, but longer at the back and very longbehind his head. Overall, it
+gives the impression of a small furry God swooping out of the sky, black
+fire trailing behind him, razorsharp (if miniscule) claws bared to tear out
+whoever's throat it lands on.
+  Probably the God of Kiwis though.
+~
+99 524968 -1000 S
+126 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31108
+evil one die screaming snowboarding~
+a Die Screaming Evil One~
+An Evil One runs down the Mountain, screaming a fierce war cry.
+~
+Now that you look closer, you can see that he's snowboarding. That would
+explain how he manages to go over all the sharp rocks without screaming.
+His fur streams out behind him similarly to that of the Death From Above
+Evil Ones, with an unfortunately similar effect.
+~
+99 680 -1000 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31109
+evil one die screaming snowboarding~
+a Die Screaming Evil One~
+An Evil One races down the Mountain towards you at a phenomenal speed.
+~
+Now that you look closer, you can see that he's snowboarding. That would
+explain how he manages to go over all the sharp rocks without screaming.
+His fur streams out behind him similarly to that of the Death From Above
+Evil Ones, with an unfortunately similar effect.
+~
+99 680 -1000 S
+170 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31110
+evil death squad one~
+a Death Squad Evil One~
+One of the Death Squad is charging straight at you, screaming loudly.
+~
+The Death Squad are the creme de la creme of the Evil Ones. These are the
+toughest of the Evil One crunch troops. On entry, every Death Squad Evil
+One is shaved to the skin. A month later, if the Evil One has survived
+training that long, it's fur is dyed blood red. The longer the red part,
+the fiercer the Death Squad trooper.
+  This Evil One must a raw recruit, for it's entire coat is red. There is a
+significant amount of red however; this Evil One was probably the pride of
+the camp.
+~
+99 680 -1000 S
+178 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31111
+evil death squad one~
+a Death Squad Evil One~
+One of the Death Squad runs toward you, naginata in hand.
+~
+The Death Squad are the creme de la creme of the Evil Ones. These are the
+toughest of the Evil One crunch troops. On entry, every Death Squad Evil
+One is shaved to the skin. A month later, if the Evil One has survived
+training that long, it's fur is dyed blood red. The longer the red part,
+the fiercer the Death Squad trooper.
+  This Evil One must a raw recruit, for it's entire coat is red. From the
+length of it, this one was probably average. Fierce, but not berserk.
+~
+99 552 -1000 S
+175 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31112
+evil one death squad ~
+a Death Squad Evil One~
+One of the Death Squad runs at you, naginata held out to spike you.
+~
+The Death Squad are the creme de la creme of the Evil Ones. These are the
+toughest of the Evil One crunch troops. On entry, every Death Squad Evil
+One is shaved to the skin. A month later, if the Evil One has survived
+training that long, it's fur is dyed blood red. The longer the red part,
+the fiercer the Death Squad trooper.
+  This Evil One must a raw recruit, for it's entire coat is red. Most of
+it's only an inch long though, and along it's stomach you can see the
+remains of where 'Washout' had been shaved in. The Death Squad are not kind.
+~
+99 680 -1000 S
+91 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31113
+evil death squad one~
+a Death Squad Evil One~
+One of the Death Squad charges at you, swinging his axe.
+~
+The Death Squad are the creme de la creme of the Evil Ones. These are the
+toughest of the Evil One crunch troops. On entry, every Death Squad Evil
+One is shaved to the skin. A month later, if the Evil One has survived
+training that long, it's fur is dyed blood red. The longer the red part,
+the fiercer the Death Squad trooper.
+  The red has grown out a reasonable amount, but he's obviously still just
+a squaddie.
+~
+99 680 -1000 S
+238 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31114
+evil death squad one~
+a Death Squad Evil One~
+A Death Squad Evil One stomps toward you, axe in hand.
+~
+The Death Squad are the creme de la creme of the Evil Ones. These are the
+toughest of the Evil One crunch troops. On entry, every Death Squad Evil
+One is shaved to the skin. A month later, if the Evil One has survived
+training that long, it's fur is dyed blood red. The longer the red part,
+the fiercer the Death Squad trooper.
+  The red has grown out a reasonable amount, but he's obviously still just
+a squaddie.
+~
+99 680 -1000 S
+193 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31115
+evil death squad one~
+a Death Squad Evil One~
+A heavily armoured Evil One charges at you, shouting ferociously.
+~
+The Death Squad are the creme de la creme of the Evil Ones. These are the
+toughest of the Evil One crunch troops. On entry, every Death Squad Evil
+One is shaved to the skin. A month later, if the Evil One has survived
+training that long, it's fur is dyed blood red. The longer the red part,
+the fiercer the Death Squad trooper.
+  This Evil One must be a veteran, for the red has grown out so far by now
+that his fur just looks like the ends were stained with blood.
+~
+99 680 -1000 S
+203 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31116
+evil death squad one~
+a Death Squad Evil One~
+An Evil One walks toward you, twohanded axe held warily before him.
+~
+The Death Squad are the creme de la creme of the Evil Ones. These are the
+toughest of the Evil One crunch troops. On entry, every Death Squad Evil
+One is shaved to the skin. A month later, if the Evil One has survived
+training that long, it's fur is dyed blood red. The longer the red part,
+the fiercer the Death Squad trooper.
+  This Evil One must be a veteran, for the red has grown out so far by now
+that his fur just looks like the ends were stained with blood.
+~
+99 680 -1000 S
+82 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31117
+evil one fardeath~
+a Fardeath Evil One~
+A Fardeath Evil One stands here calmly, firing arrow after arrow at you.
+~
+The Fardeath circle is not so tough in training as the Death Squad, but
+more selective for candidates. In the Book of Jezekiel, it tells how any
+Fardeath who cannot shoot through both ears of a running hare by the time
+they finish training are removed from the circle, in the only way possible.
+  Fardeath are ranked by the number of blue stripes they have. Every time
+they kill, the magic of the Evil Ones causes a stripe to appear on their
+fur. The loathed Chrizza, he who once ran the Fardeath, and who could kill
+four men with every shaft, was rumoured to have turned entirely blue. The
+stripes then ran black, and finally, when his last blue patch turned black,
+he disappeared.
+  But a single stripe crosses this Fardeath's coat. Obviously a very new
+recruit, but you remember one story from the Book of Jezekiel which
+indicated that one novice, likewise with but a single stripe, had been so
+ashamed by it that his next battle he managed to stripe half his fur. Your
+ancestors mourn that day.
+~
+99 680 -1000 S
+85 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31118
+evil one fardeath~
+a Fardeath Evil One~
+One of the Death Squad is charging straight at you, naginata in hand.
+~
+The Fardeath circle is not so tough in training as the Death Squad, but
+more selective for candidates. In the Book of Jezekiel, it tells how any
+Fardeath who cannot shoot through both ears of a running hare by the time
+they finish training are removed from the circle, in the only way possible.
+  Fardeath are ranked by the number of blue stripes they have. Every time
+they kill, the magic of the Evil Ones causes a stripe to appear on their
+fur. The loathed Chrizza, he who once ran the Fardeath, and who could kill
+four men with every shaft, was rumoured to have turned entirely blue. The
+stripes then ran black, and finally, when his last blue patch turned black,
+he disappeared.
+  This particular Fardeath has only a few stripes so far, but looks intent
+on improving his score.
+~
+99 680 -1000 S
+67 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31119
+evil one fardeath~
+a Fardeath Evil One~
+One of the Death Squad is charging straight at you, naginata in hand.
+~
+The Fardeath circle is not so tough in training as the Death Squad, but
+more selective for candidates. In the Book of Jezekiel, it tells how any
+Fardeath who cannot shoot through both ears of a running hare by the time
+they finish training are removed from the circle, in the only way possible.
+  Fardeath are ranked by the number of blue stripes they have. Every time
+they kill, the magic of the Evil Ones causes a stripe to appear on their
+fur. The loathed Chrizza, he who once ran the Fardeath, and who could kill
+four men with every shaft, was rumoured to have turned entirely blue. The
+stripes then ran black, and finally, when his last blue patch turned black,
+he disappeared.
+  This particular Fardeath has only a few stripes so far, but looks intent
+on improving his score.
+~
+99 680 -1000 S
+137 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31120
+evil one fardeath~
+a Fardeath Evil One~
+One of the Death Squad is charging straight at you, naginata in hand.
+~
+The Fardeath circle is not so tough in training as the Death Squad, but
+more selective for candidates. In the Book of Jezekiel, it tells how any
+Fardeath who cannot shoot through both ears of a running hare by the time
+they finish training are removed from the circle, in the only way possible.
+  Fardeath are ranked by the number of blue stripes they have. Every time
+they kill, the magic of the Evil Ones causes a stripe to appear on their
+fur. The loathed Chrizza, he who once ran the Fardeath, and who could kill
+four men with every shaft, was rumoured to have turned entirely blue. The
+stripes then ran black, and finally, when his last blue patch turned black,
+he disappeared.
+  This particular Fardeath has many stripes. He must be a veteran of many
+battles.
+~
+99 680 -1000 S
+167 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31121
+fire demon daemon pink rabbit~
+a fire daemon~
+A fire daemon runs towards you, the path smoking in it's wake.
+~
+The fire daemons are the most terrible of the Evil One's forces. Nominally,
+they resemble white rabbits; the fangs, the claws, the red gleam in their
+eyes. But the plumes of fire, the destruction and the death that occur
+wherever it goes, most of all the pink fur, reveal it to be something far
+deadlier. A fire daemon.
+~
+97 552 -1000 S
+167 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31122
+gibberling daemon demon earth sheep~
+a gibberling~
+A gibberling stands here, a stream of drool dropping from it's mouth.
+~
+Gibberlings are the daemons of earth; able to go where they will. Their
+woolly fleece protects them like rock, and their fierce grinding teeth do
+terrible damage to any unlucky enough to be attacked by one.
+~
+97 552 -1000 S
+132 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31123
+guardian circle golem black stone giant mice~
+a Guardian of the Circle~
+A Guardian of the Circle stands beside the Portal.
+~
+When the Great Circle was founded, and the Portal was built, guardians
+became necessary to guard both. The Evil Ones and their demonic allies
+laboured for a year and a day on the problem, and devised these golems.
+  Shaped from black stone to look like giant mice, the guardians stand
+together to guard the Portal, each at his place. And when the Portal is
+threatened, they use its power to defend it.
+~
+97 552 -1000 S
+196 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31124
+passion lust anger sorrow~
+Passion~
+Passion stands here, fire in her eyes.
+~
+Passion is lust.
+Passion is anger.
+Passion is sorrow.
+
+She's not pretty, but she is incredibly sexy.
+Your mind almost manages to ignore the scourges she is holding.
+~
+99 680 -1000 S
+231 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31125
+hate~
+Hate~
+Hate stands here, absolute loathing in his eyes.
+~
+Hate is hideous.
+Hate is burnt all over, maimed and wounded.
+Hate cries continually for the thing's he's done.
+Hate hates himself.
+But he hates you more.
+~
+99 680 -1000 S
+244 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31126
+Despair~
+Despair~
+Despair refuses to look at you.
+~
+Despair...
+Despair was beautiful, for once she was the only good in the Great Circle.
+Once she had flowing raven locks, flashing green eyes, a sword, and a cause.
+Now her hair is matted and filthy. Her eyes have turned black, and the
+sword and the cause have tarnished until they are nearly corroded away.
+Once, she was Hope.
+Hope has been replaced by Despair.
+~
+99 680 -1000 S
+352 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#31127
+desire face~
+Desire~
+Desire smiles cynically at you.
+~
+Desire's face is perfect. Each angle is perfect, each feature is perfect.
+He is the most beautiful man that will ever exist.
+  Desire's face IS Desire. There is nothing else to him.
+~
+99 680 -1000 S
+213 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#31128
+evil one jailer~
+the jailer~
+The jailer is torturing some poor unfortunate.
+~
+As you watch the jailer, it becomes clear why they have one. It is a
+position where any Evil One who can get it can inflict as much pain as it
+likes. This, for the Evil Ones, is joy.
+~
+99 680 -1000 S
+57 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#31100
+iron chainmail skirt~
+a chainmail skirt~
+A heap of chainmail lies here.~
+~
+9 0 2049
+8 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31101
+iron bracers bracer~
+a pair of iron bracers~
+Some iron bracers lie here abandoned.~
+~
+9 0 4097
+8 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31102
+iron ring shining~
+a iron ring~
+A iron ring lies here, shining dully.~
+~
+9 0 3
+8 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31103
+iron choker~
+a iron choker~
+A iron choker has been dropped here.~
+~
+9 0 5
+8 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31104
+iron breastplate plate~
+a iron breastplate~
+Someone's breastplate has been abandoned here.~
+~
+9 0 9
+10 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31105
+iron helmet helm full face full-face fullface~
+a full-face helm~
+A full-face helm sits here.~
+~
+9 0 17
+8 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31106
+pair iron greaves greave leg legs guard guards~
+a pair of iron greaves~
+Some greaves lie here abandoned.~
+~
+9 0 33
+8 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31107
+solid boots boot~
+a pair of solid boots~
+Some solid boots sit here. You're disappointed not to see smoke wisping out
+of them.~
+~
+9 0 65
+8 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31108
+iron gauntlets gauntlet glove~
+a pair of iron gauntlets~
+Two iron gauntlets rest here.~
+~
+9 0 129
+8 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31109
+iron arm guards guard~
+a pair of iron arm guards~
+Two iron arm guards have been left here.~
+~
+9 0 257
+8 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31110
+steel chainmail skirt~
+a chainmail skirt~
+A heap of chainmail lies here.~
+~
+9 0 2049
+10 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31111
+steel bracers bracer~
+a pair of steel bracers~
+Some steel bracers lie here abandoned.~
+~
+9 0 4097
+15 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31112
+steel ring shining~
+a steel ring~
+A steel ring lies here, shining dully.~
+~
+9 0 3
+15 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31113
+steel choker~
+a steel choker~
+A steel choker has been dropped here.~
+~
+9 0 5
+15 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31114
+steel breastplate plate~
+a steel breastplate~
+Someone's breastplate has been abandoned here.~
+~
+9 0 9
+20 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31115
+steel helmet helm full face full-face fullface~
+a full-face helm~
+A full-face helm sits here.~
+~
+9 0 17
+15 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31116
+pair steel greaves greave leg legs guard guards~
+a pair of steel greaves~
+Some greaves lie here abandoned.~
+~
+9 0 33
+15 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31117
+solid boots boot~
+a pair of solid boots~
+Some solid boots sit here. You're disappointed not to see smoke wisping out
+of them.~
+~
+9 0 65
+15 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31118
+steel gauntlets gauntlet glove~
+a pair of steel gauntlets~
+Two steel gauntlets rest here.~
+~
+9 0 129
+15 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31119
+steel arm guards guard~
+a pair of steel arm guards~
+Two steel arm guards have been left here.~
+~
+9 0 257
+15 1 6 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31120
+black lacquered chainmail skirt~
+a chainmail skirt~
+A heap of chainmail lies here.~
+~
+9 0 2049
+15 1 6 11
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31121
+black lacquered bracers bracer~
+a pair of black bracers~
+Some black bracers lie here abandoned.~
+~
+9 0 4097
+15 1 6 11
+1 0 0
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31122
+black lacquered ring shining~
+a black ring~
+A black ring lies here, shining dully.~
+~
+9 0 3
+15 1 6 11
+1 0 0
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31123
+black lacquered choker~
+a black choker~
+A black choker has been dropped here.~
+~
+9 0 5
+15 1 6 11
+1 0 0
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31124
+black lacquered breastplate plate~
+a black breastplate~
+Someone's breastplate has been abandoned here.~
+~
+9 0 9
+20 1 6 11
+1 0 0
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31125
+black lacquered helmet helm full face full-face fullface~
+a full-face helm~
+A full-face helm sits here.~
+~
+9 0 17
+15 1 6 11
+1 0 0
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31126
+pair black lacquered greaves greave leg legs guard guards~
+a pair of black greaves~
+Some black lacquered greaves lie here abandoned.~
+~
+9 0 33
+15 1 6 11
+1 0 0
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31127
+solid boots boot~
+a pair of solid boots~
+Some solid boots sit here. You're disappointed not to see smoke wisping out
+of them.~
+~
+9 0 65
+15 1 6 11
+1 0 0
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31128
+black lacquered gauntlets gauntlet glove~
+a pair of black gauntlets~
+Two black gauntlets rest here.~
+~
+9 0 129
+15 1 6 11
+1 0 0
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31129
+black lacquered arm guards guard~
+a pair of black arm guards~
+Two black arm guards have been left here.~
+~
+9 0 257
+15 1 6 11
+1 0 0
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31130
+leather codpiece~
+a leather codpiece~
+A leather codpiece lies here.~
+~
+9 0 2049
+10 1 6 11
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31131
+leather bracers bracer~
+a pair of leather bracers~
+Some leather bracers lie here abandoned.~
+~
+9 0 4097
+10 1 6 11
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31132
+hematite ring shining~
+a hematite ring~
+A hematite ring lies here, shining dully.~
+~
+9 0 3
+10 1 6 11
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31133
+leather choker~
+a leather choker~
+A leather choker has been dropped here.~
+~
+9 0 5
+10 1 6 11
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31134
+leather breastplate plate~
+a leather breastplate~
+Someone's breastplate has been abandoned here.~
+~
+9 0 9
+12 1 6 11
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31135
+leather cap~
+a leather cap~
+A leather cap sits here.~
+~
+9 0 17
+10 1 6 11
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31136
+pair leather greaves greave leg legs guard guards~
+a pair of leather greaves~
+Some greaves lie here abandoned.~
+~
+9 0 33
+10 1 6 11
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31137
+solid boots boot~
+a pair of solid boots~
+Some solid boots sit here. You're disappointed not to see smoke wisping out
+of them.~
+~
+9 0 65
+10 1 6 11
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31138
+leather gauntlets gauntlet glove~
+a pair of leather gauntlets~
+Two leather gauntlets rest here.~
+~
+9 0 129
+10 1 6 11
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31139
+leather arm guards guard~
+a pair of leather arm guards~
+Two leather arm guards have been left here.~
+~
+9 0 257
+10 1 6 11
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31140
+pair spiked gloves~
+a pair of spiked gloves~
+Some spiked gloves are lying here.~
+~
+5 0 24577
+0 2 6 0
+1 0 0
+A
+19 5
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31141
+severed pair claws~
+a pair of claws~
+Some severed claws are lying here.~
+~
+5 0 24577
+0 5 10 5
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31142
+long harpoon spear~
+a harpoon~
+A long harpoon has been dropped here.~
+~
+5 0 24577
+0 5 10 5
+1 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31143
+naginata~
+a naginata~
+A naginata has been left here.~
+~
+5 0 24577
+0 8 16 2
+3 0 0
+A
+18 3
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31144
+great axe greataxe~
+a greataxe~
+A greataxe has been left here.~
+~
+5 0 24577
+0 12 20 2
+3 0 0
+A
+19 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31145
+arrow arrows~
+some arrows~
+Several arrows have been left here.~
+~
+5 0 8193
+0 12 20 11
+3 0 0
+A
+19 5
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31146
+composite bow~
+a bow~
+A composite bow rests here.~
+~
+8 0 16385
+0 12 20 2
+3 0 0
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31147
+huge bundle jailer jailers jailer's key keys~
+the jailer's keys~
+A huge bundle of keys lies here.~
+~
+18 0 1
+0 1 6 11
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#31100
+The Edge of Hancom~
+You stand at the edge of town, getting ready to sally forth and battle
+the Evil Ones in their mountain fortress.
+~
+0 4 2
+D2
+~
+~
+0 -1 31101
+S
+#31101
+Field~
+You stand upon the Plain of Evil, the field upon which Hancom citizens
+have defended their town for generations.  Thousands of battles have been
+fought, and enough blood has been spilt over the years to flood the entire
+village above the rooftops.
+~
+0 0 2
+D0
+~
+~
+0 -1 31100
+D2
+~
+~
+0 -1 31102
+S
+#31102
+Bottom of the Mountain~
+This is the very bottom of the Mountain.  It has no name, for all know it
+to be the fortress of the Evil Ones.  It has no name, because a name implies
+respect, and the people of Hancom have nothing but hatred for the Evil Ones.
+~
+0 4 3
+D0
+~
+~
+0 -1 31101
+D2
+~
+~
+0 -1 31103
+S
+#31103
+Mountain Path~
+The mountain path stretches out, slowly inching it's way up the Mountain.
+~
+0 0 5
+D0
+~
+~
+0 -1 31102
+D2
+~
+~
+0 -1 31104
+S
+#31104
+Mountain Path~
+The mountain path stretches out, slowly inching it's way up the Mountain.
+~
+0 0 5
+D0
+~
+~
+0 -1 31103
+D2
+~
+~
+0 -1 31105
+S
+#31105
+Mountain Path~
+The mountain path stretches out, slowly inching it's way up the Mountain.
+~
+0 0 5
+D0
+~
+~
+0 -1 31104
+D2
+~
+~
+0 -1 31106
+S
+#31106
+Mountain Path~
+The mountain path stretches out, slowly inching it's way up the Mountain.
+~
+0 0 5
+D0
+~
+~
+0 -1 31105
+D1
+~
+~
+0 -1 31107
+S
+#31107
+Mountain Path~
+The mountain path stretches out, slowly inching it's way up the Mountain.
+~
+0 0 5
+D1
+~
+~
+0 -1 31108
+D3
+~
+~
+0 -1 31106
+S
+#31108
+Mountain Path~
+The way begins to get narrower as the path ascends.  Soon, it's only wide
+enough for two people to walk shoulder to shoulder.
+~
+0 0 5
+D1
+~
+~
+0 -1 31109
+D3
+~
+~
+0 -1 31107
+S
+#31109
+Mountain Path~
+The path continues it's slow revolution of the Mountain.
+~
+0 0 5
+D1
+~
+~
+0 -1 31110
+D3
+~
+~
+0 -1 31108
+S
+#31110
+Mountain Path~
+The path continues it's slow revolution of the Mountain.
+~
+0 0 5
+D0
+~
+~
+0 -1 31111
+D3
+~
+~
+0 -1 31109
+S
+#31111
+Mountain Path~
+The path continues it's slow revolution of the Mountain.
+~
+0 0 5
+D0
+~
+~
+0 -1 31112
+D2
+~
+~
+0 -1 31110
+S
+#31112
+Mountainside~
+The way narrows even more here, becoming so tight there is only just room
+for one person to walk along it, and then only if they're agile.  A thin
+frost on the ground makes the ascent even trickier.
+~
+0 0 10
+D0
+~
+~
+0 -1 31113
+D2
+~
+~
+0 -1 31111
+S
+#31113
+Mountainside~
+The tiny track continues to twist, not yet having made even a single
+circle of the Mountain.
+~
+0 0 10
+D0
+~
+~
+0 -1 31114
+D2
+~
+~
+0 -1 31112
+S
+#31114
+Mountainside~
+The path leads onwards and upwards, stretching around the Mountain like a
+thin creeper.
+~
+0 0 10
+D2
+~
+~
+0 -1 31113
+D3
+~
+~
+0 -1 31115
+S
+#31115
+Mountainside~
+The path leads onwards and upwards, stretching around the Mountain like a
+thin creeper.
+~
+0 0 10
+D1
+~
+~
+0 -1 31114
+D3
+~
+~
+0 -1 31116
+S
+#31116
+Mountainside~
+The path leads onwards and upwards, stretching around the Mountain like a
+thin creeper.
+~
+0 0 10
+D1
+~
+~
+0 -1 31115
+D3
+~
+~
+0 -1 31117
+S
+#31117
+Mountainside~
+Below you, you can see the base of the Mountain. Remaining upon the track,
+however, is your first concern, so you try not to look down for too long.
+~
+0 0 10
+D1
+~
+~
+0 -1 31116
+D2
+~
+~
+0 -1 31118
+S
+#31118
+Mountainside~
+The path leads onwards and upwards, stretching around the Mountain like a
+thin creeper.
+~
+0 0 10
+D0
+~
+~
+0 -1 31117
+D2
+~
+~
+0 -1 31119
+S
+#31119
+Mountainside~
+The path leads onwards and upwards, stretching around the Mountain like a
+thin creeper.
+~
+0 0 10
+D0
+~
+~
+0 -1 31118
+D2
+~
+~
+0 -1 31120
+S
+#31120
+Mountainside~
+The path leads onwards and upwards, stretching around the Mountain like a
+thin creeper.
+~
+0 0 10
+D0
+~
+~
+0 -1 31119
+D1
+~
+~
+0 -1 31121
+S
+#31121
+Mountainside~
+The path leads onwards and upwards, stretching around the Mountain like a
+thin creeper.
+~
+0 0 10
+D1
+~
+~
+0 -1 31122
+D3
+~
+~
+0 -1 31120
+S
+#31122
+Mountainside~
+Here, near the top of the mountain, you start to see snow rather than just
+thin frost. At the same time, whatever madman carved this path must have
+become weary, for the track narrows to a bare foot wide.
+~
+0 0 10
+D0
+~
+~
+0 -1 31123
+D3
+~
+~
+0 -1 31121
+S
+#31123
+Ledge~
+The path is more a ledge by now, and you have little enough time for
+scenery; walking along the side of a mountain, wind howling about you, snow
+underfoot, along a tiny path only a foot wide, is not easy.
+~
+0 0 10
+D0
+~
+~
+0 -1 31124
+D2
+~
+~
+0 -1 31122
+S
+#31124
+Ledge~
+The path is more a ledge by now, and you have little enough time for
+scenery; walking along the side of a mountain, wind howling about you, snow
+underfoot, along a tiny path only a foot wide, is not easy.
+~
+0 0 10
+D2
+~
+~
+0 -1 31123
+D3
+~
+~
+0 -1 31125
+S
+#31125
+Ledge~
+The path is more a ledge by now, and you have little enough time for
+scenery; walking along the side of a mountain, wind howling about you, snow
+underfoot, along a tiny path only a foot wide, is not easy.
+~
+0 0 10
+D1
+~
+~
+0 -1 31124
+D2
+~
+~
+0 -1 31126
+S
+#31126
+Mountain Peak~
+At last, you have reached the peak of the Mountain. You breathe in deeply,
+tasting the sharpness of the air, and take a moment to look at the view.
+  However, the Great Circle of the Evil Ones must be destroyed. And to do
+that, you must descend, into the heart of the Mountain.
+~
+0 0 10
+D0
+~
+~
+0 -1 31125
+D5
+~
+~
+0 -1 31127
+S
+#31127
+AHHHHHHH!!!~
+With a <snick>, the nice handholds that you'd been climbing down suddenly
+disappear, pushing you off the wall into the arms of thin air.
+  You swear never to rest until every single damned Evil One has been wiped
+off the face of Mother Earth.
+~
+0 4 0
+D5
+~
+~
+0 -1 31128
+S
+#31128
+Pile of Leaves~
+A huge pile of leaves is here, testimony to the Evil One's cruelty. They
+don't want you dead; they want you in the torture chamber.
+~
+0 5 3
+E
+huge pile leaves~
+Whole trees must have been stripped of their leaves to make this pile. Even
+so, the fall was pretty hard.~
+D0
+~
+~
+0 -1 31129
+D4
+~
+~
+0 -1 31126
+S
+#31129
+Melted Tunnel~
+The Evil Ones must have used great magic when they made this place, for the
+rock has been burnt away, not cut. Tunnels have been melted to the east and
+west.
+~
+0 1 3
+D1
+~
+~
+0 -1 31130
+D2
+~
+~
+0 -1 31128
+D3
+~
+~
+0 -1 31136
+S
+#31130
+Tunnel Bend~
+The melted tunnel turns here, bending west to south.
+~
+0 1 3
+D2
+~
+~
+0 -1 31131
+D3
+~
+~
+0 -1 31129
+S
+#31131
+Guard Post~
+The tunnel opens seamlessly into a small round cave, presumably an Evil One
+guardpost. A bunker rests next to each cot for the Evil Ones to hide in
+until they are ready to leap out and slaughter their enemies.
+~
+0 1 3
+D0
+~
+~
+0 -1 31130
+D2
+~
+~
+0 -1 31132
+S
+#31132
+Turning~
+The demonic fire's way bent here, turning from north to west so it follows
+the shape of the mountain.
+~
+0 1 3
+D0
+~
+~
+0 -1 31131
+D3
+~
+~
+0 -1 31133
+S
+#31133
+Large Cavern~
+Some kind of explosion must have been triggered here, for the cavern is a
+perfect sphere. You shudder at the power of the magic required to burn away
+rock like kindling, and your resolve only deepens to destroy the Evil Ones
+for good.
+~
+0 1 3
+D1
+~
+~
+0 -1 31132
+D3
+~
+~
+0 -1 31134
+D5
+~
+~
+0 -1 31137
+S
+#31134
+Tunnel Bend~
+The tunnel bends again here, turning from north to east, following the
+mountainside.
+~
+0 1 3
+D0
+~
+~
+0 -1 31135
+D1
+~
+~
+0 -1 31133
+S
+#31135
+Guard Post~
+The passage widens suddenly into a little cavern, apparently a guard post
+for the Evil Ones. Small rock bunkers are beside each cot so the Evil Ones
+can hide in them until they jump out and massacre any invaders.
+~
+0 1 3
+D0
+~
+~
+0 -1 31136
+D2
+~
+~
+0 -1 31134
+S
+#31136
+Tunnel Bend~
+The Evil One's magic has turned here, following the curve of the mountain.
+The melted passageway it left goes from east to south.
+~
+0 1 3
+D1
+~
+~
+0 -1 31129
+D2
+~
+~
+0 -1 31135
+S
+#31137
+Square Passage~
+The rock here appears to have been too much for even the fire demons.
+However, the walls remain perfectly smooth. Indeed, the workmanship chills
+you with it's precision, for no human hands could have hewn a tunnel so
+precisely square as this. Other demons must have been summoned, demons of
+rock and earth. You had always known the Evil Ones had a terrible kinship
+with fire, but to learn they have power of rock as well is terrible.
+  The corridor leads west, and a square hole in the ground leads into darkness.
+~
+0 1 2
+D3
+~
+~
+0 -1 31138
+D4
+~
+~
+0 -1 31133
+D5
+~
+~
+0 -1 31157
+S
+#31138
+Square Tunnel~
+The tunnel continues, as horribly precise as before, north and east. A
+square hole in the ground leads into darkness.
+~
+0 1 2
+D0
+~
+~
+0 -1 31139
+D1
+~
+~
+0 -1 31137
+D5
+~
+~
+0 -1 31158
+S
+#31139
+Square Tunnel~
+The tunnel continues, as horribly precise as before, south and east. A
+square hole in the ground leads into darkness.
+~
+0 1 2
+D1
+~
+~
+0 -1 31140
+D2
+~
+~
+0 -1 31138
+D5
+~
+~
+0 -1 31159
+S
+#31140
+Square Tunnel~
+The tunnel continues, as horribly precise as before, north and west. A
+square hole in the ground leads into darkness.
+~
+0 1 2
+D0
+~
+~
+0 -1 31141
+D3
+~
+~
+0 -1 31139
+D5
+~
+~
+0 -1 31160
+S
+#31141
+Square Tunnel~
+The tunnel continues, as horribly precise as before, south and west. A
+square hole in the ground leads into darkness.
+~
+0 1 2
+D2
+~
+~
+0 -1 31140
+D3
+~
+~
+0 -1 31142
+D5
+~
+~
+0 -1 31161
+S
+#31142
+Square Tunnel~
+The tunnel continues, as horribly precise as before, north and east. A
+square hole in the ground leads into darkness.
+~
+0 1 2
+D0
+~
+~
+0 -1 31143
+D1
+~
+~
+0 -1 31141
+D5
+~
+~
+0 -1 31162
+S
+#31143
+Square Tunnel~
+The tunnel continues, as horribly precise as before, south and east. A
+square hole in the ground leads into darkness.
+~
+0 1 2
+D1
+~
+~
+0 -1 31144
+D2
+~
+~
+0 -1 31142
+D5
+~
+~
+0 -1 31163
+S
+#31144
+Square Tunnel~
+The tunnel continues, as horribly precise as before, east and west. A
+square hole in the ground leads into darkness.
+~
+0 1 2
+D1
+~
+~
+0 -1 31145
+D3
+~
+~
+0 -1 31143
+D5
+~
+~
+0 -1 31164
+S
+#31145
+Square Tunnel~
+The tunnel continues, as horribly precise as before, east and west. A
+square hole in the ground leads into darkness.
+~
+0 1 2
+D1
+~
+~
+0 -1 31146
+D3
+~
+~
+0 -1 31144
+D5
+~
+~
+0 -1 31165
+S
+#31146
+Square Tunnel~
+The tunnel continues, as horribly precise as before, east and south. A
+square hole in the ground leads into darkness.
+~
+0 1 2
+D2
+~
+~
+0 -1 31147
+D3
+~
+~
+0 -1 31145
+D5
+~
+~
+0 -1 31166
+S
+#31147
+Square Tunnel~
+The tunnel continues, as horribly precise as before, north, west and south.
+A square hole in the ground leads into darkness.
+~
+0 1 2
+D0
+~
+~
+0 -1 31146
+D2
+~
+~
+0 -1 31149
+D3
+~
+~
+0 -1 31148
+D5
+~
+~
+0 -1 31167
+S
+#31148
+Dead End~
+The tunnel ends as chillingly as it went on, in a bald stone face. A square
+hole in the ground leads into darkness.
+~
+0 1 2
+D1
+~
+~
+0 -1 31147
+D5
+~
+~
+0 -1 31168
+S
+#31149
+Square Tunnel~
+The tunnel continues, as horribly precise as before, north and south. A
+square hole in the ground leads into darkness.
+~
+0 1 2
+D0
+~
+~
+0 -1 31147
+D2
+~
+~
+0 -1 31150
+D5
+~
+~
+0 -1 31169
+S
+#31150
+Square Tunnel~
+The tunnel continues, as horribly precise as before, north and west. A
+square hole in the ground leads into darkness.
+~
+0 1 2
+D0
+~
+~
+0 -1 31149
+D3
+~
+~
+0 -1 31151
+D5
+~
+~
+0 -1 31170
+S
+#31151
+Square Tunnel~
+The tunnel continues, as horribly precise as before, north and east. A
+square hole in the ground leads into darkness.
+~
+0 1 2
+D0
+~
+~
+0 -1 31152
+D1
+~
+~
+0 -1 31150
+D5
+~
+~
+0 -1 31171
+S
+#31152
+Dead End~
+The tunnel ends as chillingly as it went on, in a bald stone face. A square
+hole in the ground leads into darkness.
+~
+0 1 2
+D2
+~
+~
+0 -1 31151
+D5
+~
+~
+0 -1 31172
+S
+#31157
+Jailer's Office~
+This appears to be where the jailer of the Evil Ones spends most of his
+time. You wonder why on earth they bother to have a jailer, since the Evil
+Ones don't feed their prisoners, don't care who their prisoners are, and
+never, ever release prisoners.
+~
+0 1 5
+D0
+~
+~
+0 31147 31160
+D1
+~
+~
+0 31147 31171
+D2
+~
+~
+0 31147 31164
+D3
+~
+~
+0 31147 31158
+D4
+~
+~
+0 -1 31137
+S
+#31158
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31159
+D1
+~
+~
+0 31147 31157
+D2
+~
+~
+0 31147 31163
+D3
+~
+~
+0 31147 31170
+S
+#31159
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31162
+D1
+~
+~
+0 31147 31160
+D2
+~
+~
+0 31147 31158
+D3
+~
+~
+0 31147 31169
+S
+#31160
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31161
+D1
+~
+~
+0 31147 31172
+D2
+~
+~
+0 31147 31157
+D3
+~
+~
+0 31147 31159
+S
+#31161
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31164
+D1
+~
+~
+0 31147 31168
+D2
+~
+~
+0 31147 31160
+D3
+~
+~
+0 31147 31162
+S
+#31162
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31163
+D1
+~
+~
+0 31147 31161
+D2
+~
+~
+0 31147 31159
+D3
+~
+~
+0 31147 31167
+S
+#31163
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31158
+D1
+~
+~
+0 31147 31164
+D2
+~
+~
+0 31147 31162
+D3
+~
+~
+0 31147 31166
+S
+#31164
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31157
+D1
+~
+~
+0 31147 31166
+D2
+~
+~
+0 31147 31161
+D3
+~
+~
+0 31147 31163
+S
+#31165
+The Portal~
+"The Portal ist thy goal; reach that, and thy valor is great. Yet stand not
+still, for the greatest challenge of all is yet to fall upon thee. Through
+the Portal, thou shalt uncover those Evil Ones of the Great Circle. Destroy
+these creatures! for having slain them, the heart of all Evil Ones shall
+burn."
+  Jezekiel II, 5:39-43.
+~
+0 0 2
+D5
+~
+~
+0 -1 31173
+S
+#31166
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31170
+D1
+~
+~
+0 31147 31163
+D2
+~
+~
+0 31147 31167
+D3
+~
+~
+0 31147 31164
+S
+#31167
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31166
+D1
+~
+~
+0 31147 31162
+D2
+~
+~
+0 31147 31169
+D3
+~
+~
+0 31147 31168
+S
+#31168
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31171
+D1
+~
+~
+0 31147 31167
+D2
+~
+~
+0 31147 31172
+D3
+~
+~
+0 31147 31161
+S
+#31169
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31167
+D1
+~
+~
+0 31147 31159
+D2
+~
+~
+0 31147 31170
+D3
+~
+~
+0 31147 31172
+S
+#31170
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31169
+D1
+~
+~
+0 31147 31158
+D2
+~
+~
+0 31147 31166
+D3
+~
+~
+0 31147 31171
+S
+#31171
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31172
+D1
+~
+~
+0 31147 31170
+D2
+~
+~
+0 31147 31168
+D3
+~
+~
+0 31147 31157
+S
+#31172
+Oubliette~
+A nasty, dark, smelly oubliette with spikes on all the walls so you can
+barely move without being stabbed somewhere.
+  Iron doors lead in all directions.
+~
+0 1 5
+D0
+~
+~
+0 31147 31168
+D1
+~
+~
+0 31147 31169
+D2
+~
+~
+0 31147 31171
+D3
+~
+~
+0 31147 31160
+S
+#31173
+The Great Circle~
+Finally, you have found the Great Circle of the Evil Ones. It is here that
+they conduct foul rites and practise forbidden rites, calling upon all the
+fiends of Hell to plague the godfearing citizens of Hancom.
+  The Portal beckons you in the centre of the Circle, but to the north and
+south, to the east and west, lie the chambers of those who have been the
+enemies of your people for generations. Destiny awaits.
+~
+0 4 2
+D0
+~
+~
+0 -1 31174
+D1
+~
+~
+0 -1 31175
+D2
+~
+~
+0 -1 31176
+D3
+~
+~
+0 -1 31177
+D5
+~
+~
+0 -1 3054
+S
+#31174
+Chamber of Passion~
+Before you, a bizarre play is being performed.
+  The first scene you see is in a street, a piglike man lying between a
+young woman's legs. She is screaming with pain, but he continues, grunting
+loudly. At length he finishes, stands, and walks off, but the woman remains
+on the floor, not moving.
+  They fade away, and the next scene shows him in a shop. He and his
+brother are debating the price of a sword, and neither will budge. In the
+end, the hero grows furious, and lops off his brother's head.
+  Finally, you see the man at home, curled up on the floor crying with
+sorrow. A second brother walks in, and demands that he defend himself, but
+he refuses to pause in his grief, and is himself killed.
+  A strange play indeed...
+~
+0 0 3
+D2
+~
+~
+0 -1 31173
+S
+#31175
+Chamber of Hate~
+Bill Thompson, your childhood nemesis.
+Andrew Hurley, the man that had your wife.
+Anthony Sykes, who made every day of your apprenticeship a misery.
+Myriad others, everyone you hate, the memories of half a lifetime.
+  One by one, they fade away, and you see the only real thing in the bare
+chamber; a large mirror.
+~
+0 0 3
+D3
+~
+~
+0 -1 31173
+S
+#31176
+Chamber of Despair~
+Nothing much, just a plain room. Blank, whitewashed walls. Trash all over
+the floor. An unmade bed. Hideously maimed bodies are piled against the
+walls, some apparently still breathing; but nevermind. Dust to dust, ashes
+to ashes. Nothing you do can really change anything; on the grand scale,
+after all, we barely exist.
+  You just want to crawl into bed, fit into the dent you have made over all
+these years, and abandon the world.
+~
+0 0 3
+D0
+~
+~
+0 -1 31173
+S
+#31177
+Chamber of Desire~
+The people of Hancom are here, all prostrated in front of you. They are
+chanting, "Hail, he who destroyed the Evil Ones! You are our lord, we are
+nothing".
+  You are sitting on a solid gold throne, thousands of precious gems piled
+up around you. On the floor at your left sits Lizabelle, the collar around
+her throat proclaiming how she has finally given in to you.
+~
+0 0 3
+D1
+~
+~
+0 -1 31173
+S
+#31178
+Fudge Room~
+You shouldn't be here!
+~
+0 1153 1
+D0
+~
+~
+0 -1 31165
+S
+#0
+
+
+
+#SPECIALS
+M 31121 spec_breath_fire
+M 31122 spec_breath_acid
+M 31123 spec_breath_lightning
+S
+
+
+
+#RESETS
+M 0 31100 4 31103
+M 0 31101 4 31103
+M 0 31102 2 31103
+M 0 31103 2 31103
+M 0 31104 2 31103
+M 0 31105 2 31103
+M 0 31100 4 31104
+M 0 31101 4 31104
+M 0 31102 2 31104
+M 0 31103 2 31104
+M 0 31104 2 31104
+M 0 31105 2 31104
+M 0 31100 4 31105
+M 0 31101 4 31105
+M 0 31102 2 31105
+M 0 31103 2 31105
+M 0 31104 2 31105
+M 0 31105 2 31105
+M 0 31106 3 31105
+M 0 31107 3 31105
+M 0 31100 4 31106
+M 0 31101 4 31106
+M 0 31102 2 31106
+M 0 31103 2 31106
+M 0 31104 2 31106
+M 0 31105 2 31106
+M 0 31108 3 31106
+M 0 31109 3 31106
+M 0 31100 4 31107
+M 0 31101 4 31107
+M 0 31102 2 31107
+M 0 31103 2 31107
+M 0 31104 2 31107
+M 0 31105 2 31107
+M 0 31106 3 31107
+M 0 31107 3 31107
+M 0 31100 4 31108
+M 0 31101 4 31108
+M 0 31102 2 31108
+M 0 31103 2 31108
+M 0 31104 2 31108
+M 0 31105 2 31108
+M 0 31108 3 31108
+M 0 31109 3 31108
+M 0 31100 4 31109
+M 0 31101 4 31109
+M 0 31102 2 31109
+M 0 31103 2 31109
+M 0 31104 2 31109
+M 0 31105 2 31109
+M 0 31100 4 31110
+M 0 31101 4 31110
+M 0 31102 2 31110
+M 0 31103 2 31110
+M 0 31104 2 31110
+M 0 31105 2 31110
+M 0 31106 3 31110
+M 0 31107 3 31110
+M 0 31100 4 31111
+M 0 31101 4 31111
+M 0 31102 2 31111
+M 0 31103 2 31111
+M 0 31104 2 31111
+M 0 31105 2 31111
+M 0 31108 3 31111
+M 0 31109 3 31111
+M 0 31100 4 31112
+M 0 31101 4 31112
+M 0 31102 2 31112
+M 0 31103 2 31112
+M 0 31104 2 31112
+M 0 31105 2 31112
+M 0 31106 3 31112
+M 0 31107 3 31112
+M 0 31100 4 31113
+M 0 31101 4 31113
+M 0 31102 2 31113
+M 0 31103 2 31113
+M 0 31104 2 31113
+M 0 31105 2 31113
+M 0 31108 3 31113
+M 0 31109 3 31113
+M 0 31100 4 31114
+M 0 31101 4 31114
+M 0 31102 2 31114
+M 0 31103 2 31114
+M 0 31104 2 31114
+M 0 31105 2 31114
+M 0 31108 3 31114
+M 0 31109 3 31114
+M 0 31100 4 31115
+M 0 31101 4 31115
+M 0 31102 2 31115
+M 0 31103 2 31115
+M 0 31104 2 31115
+M 0 31105 2 31115
+M 0 31106 3 31115
+M 0 31107 3 31115
+M 0 31100 4 31116
+M 0 31101 4 31116
+M 0 31102 2 31116
+M 0 31103 2 31116
+M 0 31104 2 31116
+M 0 31105 2 31116
+M 0 31108 3 31116
+M 0 31109 3 31116
+M 0 31100 4 31117
+M 0 31101 4 31117
+M 0 31102 2 31117
+M 0 31103 2 31117
+M 0 31104 2 31117
+M 0 31105 2 31117
+M 0 31100 4 31118
+M 0 31101 4 31118
+M 0 31102 2 31118
+M 0 31103 2 31118
+M 0 31104 2 31118
+M 0 31105 2 31118
+M 0 31106 3 31118
+M 0 31107 3 31118
+M 0 31100 4 31119
+M 0 31101 4 31119
+M 0 31102 2 31119
+M 0 31103 2 31119
+M 0 31104 2 31119
+M 0 31105 2 31119
+M 0 31106 3 31119
+M 0 31107 3 31119
+M 0 31100 4 31120
+M 0 31101 4 31120
+M 0 31102 2 31120
+M 0 31103 2 31120
+M 0 31104 2 31120
+M 0 31105 2 31120
+M 0 31100 4 31121
+M 0 31101 4 31121
+M 0 31102 2 31121
+M 0 31103 2 31121
+M 0 31104 2 31121
+M 0 31105 2 31121
+M 0 31100 4 31122
+M 0 31101 4 31122
+M 0 31102 2 31122
+M 0 31103 2 31122
+M 0 31104 2 31122
+M 0 31105 2 31122
+M 0 31100 4 31123
+M 0 31101 4 31123
+M 0 31102 2 31123
+M 0 31103 2 31123
+M 0 31104 2 31123
+M 0 31105 2 31123
+M 0 31100 4 31124
+M 0 31101 4 31124
+M 0 31102 2 31124
+M 0 31103 2 31124
+M 0 31104 2 31124
+M 0 31105 2 31124
+M 0 31100 2 31125
+M 0 31101 2 31125
+M 0 31102 1 31125
+M 0 31103 1 31125
+M 0 31104 1 31125
+M 0 31105 1 31125
+M 0 31110 4 31126
+M 0 31111 6 31126
+M 0 31112 6 31126
+M 0 31114 4 31126
+M 0 31117 2 31126
+M 0 31110 2 31129
+M 0 31112 4 31129
+M 0 31113 2 31129
+M 0 31116 2 31129
+M 0 31110 2 31130
+M 0 31112 4 31130
+M 0 31113 2 31130
+M 0 31116 2 31130
+M 0 31118 2 31130
+M 0 31121 2 31130
+M 0 31110 4 31131
+M 0 31113 4 31131
+M 0 31114 2 31131
+M 0 31115 6 31131
+M 0 31116 6 31131
+M 0 31119 2 31131
+M 0 31120 4 31131
+M 0 31110 2 31132
+M 0 31112 4 31132
+M 0 31113 2 31132
+M 0 31116 2 31132
+M 0 31118 2 31132
+M 0 31121 1 31132
+M 0 31110 4 31133
+M 0 31113 4 31133
+M 0 31114 2 31133
+M 0 31115 6 31133
+M 0 31116 6 31133
+M 0 31110 2 31134
+M 0 31112 4 31134
+M 0 31113 2 31134
+M 0 31116 2 31134
+M 0 31118 2 31134
+M 0 31121 2 31134
+M 0 31110 4 31135
+M 0 31113 4 31135
+M 0 31114 2 31135
+M 0 31115 6 31135
+M 0 31116 6 31135
+M 0 31119 2 31135
+M 0 31120 4 31135
+M 0 31110 2 31136
+M 0 31112 4 31136
+M 0 31113 2 31136
+M 0 31116 2 31136
+M 0 31118 2 31136
+M 0 31121 1 31136
+M 0 31110 1 31137
+M 0 31111 2 31137
+M 0 31112 1 31137
+M 0 31113 2 31137
+M 0 31114 3 31137
+M 0 31115 1 31137
+M 0 31116 2 31137
+M 0 31120 2 31137
+M 0 31110 1 31138
+M 0 31111 2 31138
+M 0 31112 1 31138
+M 0 31113 2 31138
+M 0 31114 3 31138
+M 0 31115 1 31138
+M 0 31116 2 31138
+M 0 31120 2 31138
+M 0 31110 1 31139
+M 0 31111 2 31139
+M 0 31112 1 31139
+M 0 31113 2 31139
+M 0 31114 3 31139
+M 0 31115 1 31139
+M 0 31116 2 31139
+M 0 31120 2 31139
+M 0 31110 1 31140
+M 0 31111 2 31140
+M 0 31112 1 31140
+M 0 31113 2 31140
+M 0 31114 3 31140
+M 0 31115 1 31140
+M 0 31116 2 31140
+M 0 31120 2 31140
+M 0 31110 1 31141
+M 0 31111 2 31141
+M 0 31112 1 31141
+M 0 31113 2 31141
+M 0 31114 3 31141
+M 0 31115 1 31141
+M 0 31116 2 31141
+M 0 31120 2 31141
+M 0 31110 1 31142
+M 0 31111 2 31142
+M 0 31112 1 31142
+M 0 31113 2 31142
+M 0 31114 3 31142
+M 0 31115 1 31142
+M 0 31116 2 31142
+M 0 31120 2 31142
+M 0 31110 1 31143
+M 0 31111 2 31143
+M 0 31112 1 31143
+M 0 31113 2 31143
+M 0 31114 3 31143
+M 0 31115 1 31143
+M 0 31116 2 31143
+M 0 31120 2 31143
+M 0 31110 1 31144
+M 0 31111 2 31144
+M 0 31112 1 31144
+M 0 31113 2 31144
+M 0 31114 3 31144
+M 0 31115 1 31144
+M 0 31116 2 31144
+M 0 31120 2 31144
+M 0 31110 1 31145
+M 0 31111 2 31145
+M 0 31112 1 31145
+M 0 31113 2 31145
+M 0 31114 3 31145
+M 0 31115 1 31145
+M 0 31116 2 31145
+M 0 31120 2 31145
+M 0 31110 1 31146
+M 0 31111 2 31146
+M 0 31112 1 31146
+M 0 31113 2 31146
+M 0 31114 3 31146
+M 0 31115 1 31146
+M 0 31116 2 31146
+M 0 31120 2 31146
+M 0 31110 1 31147
+M 0 31111 2 31147
+M 0 31112 1 31147
+M 0 31113 2 31147
+M 0 31114 3 31147
+M 0 31115 1 31147
+M 0 31116 2 31147
+M 0 31120 2 31147
+M 0 31110 1 31148
+M 0 31111 2 31148
+M 0 31112 1 31148
+M 0 31113 2 31148
+M 0 31114 3 31148
+M 0 31115 1 31148
+M 0 31116 2 31148
+M 0 31120 2 31148
+M 0 31110 1 31149
+M 0 31111 2 31149
+M 0 31112 1 31149
+M 0 31113 2 31149
+M 0 31114 3 31149
+M 0 31115 1 31149
+M 0 31116 2 31149
+M 0 31120 2 31149
+M 0 31110 1 31150
+M 0 31111 2 31150
+M 0 31112 1 31150
+M 0 31113 2 31150
+M 0 31114 3 31150
+M 0 31115 1 31150
+M 0 31116 2 31150
+M 0 31120 2 31150
+M 0 31110 1 31151
+M 0 31111 2 31151
+M 0 31112 1 31151
+M 0 31113 2 31151
+M 0 31114 3 31151
+M 0 31115 1 31151
+M 0 31116 2 31151
+M 0 31120 2 31151
+M 0 31110 1 31152
+M 0 31111 2 31152
+M 0 31112 1 31152
+M 0 31113 2 31152
+M 0 31114 3 31152
+M 0 31115 1 31152
+M 0 31116 2 31152
+M 0 31120 2 31152
+M 0 31128 1 31157
+G 0 31147 0
+M 0 31122 2 31158
+M 0 31122 2 31159
+M 0 31122 2 31160
+M 0 31122 2 31161
+M 0 31122 2 31162
+M 0 31122 2 31163
+M 0 31122 2 31164
+M 0 31123 8 31165
+M 0 31122 2 31166
+M 0 31122 2 31167
+M 0 31122 2 31168
+M 0 31122 2 31169
+M 0 31122 2 31170
+M 0 31122 2 31171
+M 0 31122 2 31172
+M 0 31124 1 31174
+M 0 31125 1 31175
+M 0 31126 1 31176
+M 0 31127 1 31177
+M 0 31123 8 31178
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

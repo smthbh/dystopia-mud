@@ -1,0 +1,350 @@
+#AREADATA
+Name        KaVir   Artifacts~
+Builders    None~
+VNUMs       333 29599
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#333
+A Gealming Sword~
+a Gleaming Sword~
+A Gealming sword of unknown power lies here.~
+~
+5 16390 8193
+17000 25 50 1
+1 1000000 0
+A
+17 -50
+A
+18 50
+A
+19 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29504
+null~
+#CN#re#Cc#rk#Cl#ra#Cc#re #Co#rf #GTroll #rT#Ce#re#Ct#rh#Cs#n~
+A string with troll teeths on it lies here.~
+~
+9 1 5
+25 0 0 16
+1 1000000 0
+A
+17 -100
+A
+19 40
+A
+18 40
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29505
+null~
+#0The #rSoothsayer #0Sword#n~
+A short blade of grey-white metal lies on the floor.~
+~
+5 16384 8193
+17000 75 100 11
+1 1000000 0
+A
+19 150
+A
+18 100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29506
+null~
+#0A #PCrimson #0colored #rblade#0 called #G'#sslicer#G'#n~
+A razor sharp sword lies on the floor.~
+~
+5 16384 8193
+18000 70 110 3
+1 1000000 0
+A
+18 50
+A
+19 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29508
+null~
+#GThe #CRing #Gof Accuracy#n~
+A powerful looking ring lies here.~
+~
+9 2 3
+25 0 0 0
+1 1000000 0
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29509
+null~
+#CThe #GRing #Cof Damage#n~
+A powerful looking ring lies here.~
+~
+9 2 3
+25 0 0 0
+1 1000000 0
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29511
+null~
+#CThe #7White #Cflag of #7Peace#n~
+A plain white banner is sticking out of the ground here.~
+~
+9 1 16385
+0 0 0 19
+1 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29514
+null~
+#0The #rplate #0of the #PBattlelord#n~
+A suit of powerful-looking golden armour lies here.~
+~
+9 2 9
+25 0 0 21
+1 1000000 0
+A
+1 5
+A
+5 5
+A
+19 25
+A
+18 25
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29515
+null~
+#cT#gh#ce #gV#ci#gs#co#gr #co#gf #cV#gi#cs#gi#co#gn#n~
+A gleaming visor lies on the floor.~
+~
+9 2 -1015807
+25 0 0 22
+1 1000000 0
+A
+18 15
+A
+19 15
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29516
+null~
+#0The #RClaws #0of the #rDamned#n~
+A pair of black gleaming claws lie on the ground.~
+~
+5 0 8193
+20000 50 80 5
+1 1000000 0
+A
+19 -50
+A
+18 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+32768 0
+#29517
+null~
+#cThe #CTooth #cof #CFenris#n~
+A two-foot long canine tooth lies on the ground.~
+~
+5 0 8193
+25000 40 65 11
+1 1000000 0
+A
+18 20
+A
+19 20
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+32768 0
+#29520
+null~
+#0The #LAssasins #0Blade#n~
+A nondescript slim blade lies on the floor.~
+~
+5 16384 8193
+23000 25 50 1
+1 1000000 0
+A
+18 50
+A
+19 50
+Q
+$p groans and writhes hungrily in your hand.~
+$p stops writhing in your hand.~
+You press the rune on the blade of $p.~
+$p groans and writhes hungrily in $n's hand.~
+$p stops writhing in $n's hand.~
+$n presses the rune on the blade of $p.~
+36 88
+#29597
+null~
+#0The #reye #0of the #yogre#0-#gmage#n~
+A green eye is lying on the ground, Yuck!~
+~
+9 2 -1015807
+50 0 0 29
+1 1000000 0
+Q
+(NULL)~
+(NULL)~
+(NULL)~
+(NULL)~
+(NULL)~
+(NULL)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#29500
+The green chamber~
+You are standing within a small chamber of glowing green stone.
+~
+0 25608 0
+T
+&restore*health*~
+The room pulses with green energy.~
+copy~
+all~
+4096 43 0
+D4
+Above you is the temple altar.
+~
+~
+0 -1 3054
+S
+#29501
+The blue chamber~
+You are standing within a small chamber of glowing blue stone.
+~
+0 25608 0
+T
+&restore*mana*~
+The room pulses with blue energy.~
+copy~
+all~
+4096 90 0
+D4
+Above you is the temple altar.
+~
+~
+0 -1 3054
+S
+#29502
+The red chamber~
+You are standing within a small chamber of glowing red stone.
+~
+0 25608 0
+T
+&restore*move*~
+The room pulses with red energy.~
+copy~
+all~
+4096 55 0
+D4
+Above you is the temple altar.
+~
+~
+0 -1 3054
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

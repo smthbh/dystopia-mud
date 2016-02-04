@@ -1,0 +1,6 @@
+in kav_wiz.c you'll find a function called do_relevel(),
+you'll have to edit this function to allow the creation
+of immortals. Simply add the name of the players you want
+to be immortals, and all they have to do is type 'relevel',
+and their levels will be set to the respective numbers in
+do_relevel().

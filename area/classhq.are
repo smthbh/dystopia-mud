@@ -1,0 +1,2163 @@
+#AREADATA
+Name        An+Ra    Class HQ's~
+Builders    Rand~
+VNUMs       93300 93499
+Security    1
+Recall      3005
+End
+
+
+
+#MOBILES
+#93300
+lloths spider~
+a spider of Lloth's~
+A spider of Lloth is here.
+~
+The spider bears it fangs at you!!!
+~
+1 0 -1000 S
+58 0 0 1d0+1 0d0+0
+0 0
+0 0 1
+#93301
+undead knight of camelot~
+Undead Knight of Camelot~
+A knight bearing the shield of Camelot stands here.
+~
+His armor seems ancient but it is in no way torn or mismatched.  He seems
+to old he is like a spirit, yet you feel his presence with every sensory
+organ you posses.  
+~
+1495 136 -300 S
+85 0 0 100d3+3 0d0+0
+0 0
+0 0 0
+#93310
+shapeshifter malaug~
+Malaug the ShapeShifter ~
+A large form stands here its shape and #scolor #nchanging constantly.
+~
+The Spirit of the first ever ShapeShifter stands in the room.  Its power
+so immense it merely has to look at you and you quiver.  Although you cannot
+harm it and it you, you try your best to not aggrivate it.  
+~
+465 136 -301 S
+112 0 0 100d3+3 0d0+0
+0 0
+0 0 0
+#93320
+usagi yojimbo samurai~
+Usagi Yojimbo~
+Usagi Yojimbo stands here with his katanas at ready.
+~
+The legendary warrior Usagi Yojimbo.  Granted immortality to protect his
+patron samurais he stands at ready to duel anyone who disrespects the honor
+of the clan.  He is also at ready to train any of the samurai pupils,
+helping them develop there skills 
+~
+2451 128 0 S
+103 0 0 100d3+3 0d0+0
+0 0
+0 0 1
+#93330
+Tanarri~
+A Tanar'ri~
+A nasty looking Tanar'ri stands here, ready to *RiP* your soul out for dinner.
+~
+He's a no no, can't touch him, he'll just eat
+you and your family.
+~
+2451 0 -1000 S
+101 0 0 100d0+0 0d0+0
+0 0
+0 0 0
+#93340
+almighty god~
+Your God~
+The almighty God stands here, don't mess with him.
+~
+He's the almighty God, the one and only, you
+want to do nothing else but just stand and worship
+his holyness.
+~
+2451 0 1000 S
+100 0 0 100d0+0 0d0+0
+0 0
+0 0 0
+#93350
+spider queen~
+the queen~
+The Spider Queen is trying to feed you to her children
+~
+SHE'S a meanie.
+~
+2451 0 -1000 S
+102 0 0 100d0+0 0d0+0
+0 0
+0 0 2
+#93360
+azalin necromancer lich~
+Azalin the Lich~
+Azalin the Lich bitch is here.
+~
+He is a powerful undead magi whos very presence strikes fear into all
+hearts.  
+~
+2451 0 -1000 S
+1002 0 0 100d0+0 0d0+0
+0 0
+0 0 1
+#93361
+golem~
+golem~
+Golem
+~
+~
+3 33320 1000 S
+60 0 0 1d1+1 0d0+0
+0 0
+0 0 1
+#93362
+golem~
+golem~
+Golem
+~
+~
+3 33320 1000 S
+60 0 0 1d1+1 0d0+0
+0 0
+0 0 1
+#93363
+golem~
+golem~
+Golem
+~
+~
+3 33320 1000 S
+60 0 0 1d1+1 0d0+0
+0 0
+0 0 1
+#93364
+golem~
+golem~
+Golem
+~
+~
+3 33320 1000 S
+60 0 0 1d1+1 0d0+0
+0 0
+0 0 1
+#93370
+cook Hobbit~
+The fat cook~
+A hobbit stands here cooking a large meal.
+~
+Cookie cookie
+~
+3 0 0 S
+50 0 0 100d0+0 0d0+0
+0 0
+0 0 0
+#93400
+Archmagus Kallidor~
+the archmagus Kallidor~
+The Archmagus Kallidor is resting on his thrown.
+~
+~
+11283 524418 1000 S
+201 0 0 100d0+0 0d0+0
+0 0
+0 0 0
+#93401
+Abbot~
+the Abbot~
+The great Abbot is standing here listening to people.
+~
+~
+11667 128 0 S
+310 0 0 100d0+0 0d0+0
+0 0
+0 0 0
+#93402
+Satan~
+Satan~
+Satan is standing here devouring souls.
+~
+~
+11411 65666 0 S
+305 0 0 100d0+0 0d0+0
+0 0
+0 0 0
+#93403
+Fenris Wolf~
+the Fenris Wolf~
+The Fenris Wolf is here eating a corpse.
+~
+~
+11667 98432 0 S
+286 0 0 100d0+0 0d0+0
+0 0
+0 0 0
+#93404
+Caine~
+Caine the First~
+A very old vampire is resting here reading his books.
+~
+~
+11667 128 0 S
+307 0 0 100d0+0 0d0+0
+0 0
+0 0 0
+#93405
+Lloth~
+Lloth~
+Lloth is standing here picking on her followers.
+~
+~
+11411 65666 0 S
+298 0 0 100d0+0 0d0+0
+0 0
+0 0 0
+#93406
+Master Ninja~
+The master ninja~
+A cloaked figure is standing here watching everything thats going on.
+~
+~
+11667 65664 0 S
+303 0 0 100d0+0 0d0+0
+0 0
+0 0 0
+#93420
+hell hound~
+a hell hound~
+A hell hound licks your toes.
+~
+~
+513 0 -1000 S
+17 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#93450
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+7 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#93470
+changeling~
+The Faerie Goddess~
+The faerie goddess stands in the room, protecting her children
+~
+Beware ?
+~
+3 0 0 S
+49 0 0 100d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#93300
+altar of necromancy~
+alta of necromancy~
+Altar of Necromancy~
+~
+15 0 0
+500 5 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93310
+altar of malaug~
+altar of malaug~
+A Huge Marble Altar~
+~
+15 0 0
+1 5 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93330
+throne balor altar~
+balors throne~
+The Throne of Balor~
+~
+15 0 0
+100 1 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#93360
+altar of azalin~
+azalin altar~
+A stone altar is here~
+~
+15 0 0
+0 1 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#93300
+Castle of The Undead~
+Inside a crumpled down and old castle.  There are some painted images all
+over the walls showing many knights in armor fighting in many battles.  The
+castle itself seems ancient and the walls look like they might cave in at
+any moment.  Yet there is something about this place that has kept it up for
+so long..  Something..  Magical..  
+~
+0 0 0
+D0
+~
+~
+0 0 93304
+D1
+~
+~
+0 0 93301
+D2
+~
+~
+0 0 93303
+D3
+~
+~
+0 0 93302
+D4
+~
+~
+0 0 93305
+D5
+~
+~
+0 0 93306
+S
+#93301
+Meeting Chambers of The Undead~
+In these chambers the Undead Knights come to discuss the matters of the
+times.  Whether they are discussing a war that is coming.  Or the seeking of
+vengeance for a past greaivance they all come with a peaceful tone and show
+much honor.  
+~
+0 0 0
+D3
+~
+~
+0 0 93300
+S
+#93302
+Sparring Chambers of The Undead~
+Here is where the Undead Knights who seek glory come together to test
+their skills on one another.  There is an assortment of weapons on a rack
+which the knights may choose to use.  
+~
+0 0 0
+D1
+~
+~
+0 0 93300
+S
+#93303
+A Hallway~
+A hallway leading to and Altar.
+~
+0 0 0
+D0
+~
+~
+0 0 93300
+D2
+~
+~
+0 0 93307
+S
+#93304
+Resting Place of The Undead~
+There are many old and dusty chairs that show ages of having knights sit
+and heal themselves.  The Knights who have come here have felt the power of
+Necromancy work their very bones back to pure health and raise them to do
+their bidding.  
+~
+0 0 0
+D2
+~
+~
+0 0 93300
+S
+#93305
+Hall of The Undead~
+There are many statues lined up in orr showing the legendary Knights who
+have passed on to the next realm.  
+~
+0 0 0
+D0
+~
+~
+0 0 93308
+D5
+~
+~
+0 0 93300
+S
+#93306
+The Portal to Midgaard~
+Down from here is a shimmerig portal that leads to the famed city of
+Midgaard.  
+~
+0 0 0
+D4
+~
+~
+0 0 93300
+D5
+~
+~
+0 0 3001
+S
+#93307
+Altar of Necromancy~
+There is a large stone altar here where the undead knights are imbued
+with the powers of the necromancer.  
+~
+0 0 0
+D0
+~
+~
+0 0 93303
+S
+#93308
+Hall of The Undead~
+There are many statues lined up in orr showing the legendary Knights who
+have passed on to the next realm.  
+~
+0 0 0
+D0
+~
+~
+0 0 93309
+D2
+~
+~
+0 0 93305
+S
+#93309
+Hall of The Undead~
+There are many statues lined up in orr showing the legendary Knights who
+have passed on to the next realm.  
+~
+0 0 0
+D2
+~
+~
+0 0 93308
+S
+#93310
+Sparring Chamber of The Shifters~
+The Sparring Chambers is where the ShapeShifters come to test there
+skills on eachother.  There are usually scheduled tournaments by the Elders
+to pick those who are worthy of raising in the ranks of the shifter.  
+~
+0 0 0
+D3
+~
+~
+0 0 93311
+S
+#93311
+Shifting Plane Of Shadows~
+A large chamber with stunningly shaped walls that seem to change in
+seconds to forms that boggle the mind.  The ground itself seems to change in
+shape, from being flat to suddenly slanting downward or curving back upward.
+There are exits leading in alldirections from here.  
+~
+0 4 0
+D0
+~
+~
+0 0 93314
+D1
+~
+~
+0 0 93310
+D2
+~
+~
+0 0 93313
+D3
+~
+~
+0 0 93312
+D4
+~
+~
+0 0 93315
+D5
+~
+~
+0 0 93316
+S
+#93312
+Meeting Chamber of The Shifters~
+The Meeting Chambers is a small space where ShapeShifters Gather to
+discuss the matters at hand.  There is a large chair in the corner with the
+inscription of Malaug written on it, showing his place as the head shifter. 
+~
+0 0 0
+D1
+~
+~
+0 0 93311
+S
+#93313
+Temple of Malaug~
+There is a Huge Marble Altar in the corner of the room.  On top of it is
+a stature of Malaug the First ShapeShifter.  Touching the altar you feel the
+power surge through you making you stronger in body and soul.  
+~
+0 0 0
+D0
+~
+~
+0 0 93311
+S
+#93314
+Healing Chamber of The Shifters~
+The Healing Chambers is where ShapeShifters come to sit, meditate, and
+heal there wounds.  They also come to listen to the older Shifters tell the
+storys of there adventures with humans and the other species in the real
+world.  
+~
+0 0 0
+D0
+~
+~
+0 0 93319
+D1
+~
+~
+0 0 93317
+D2
+~
+~
+0 0 93311
+D3
+~
+~
+0 0 93318
+S
+#93315
+GateWay to Midgaard~
+Up from here is a large #sshimmering#s Gateway#n.  This leads to the well
+known city of Midgaard, the only exit from these shifting planes...  
+~
+0 0 0
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 93311
+S
+#93316
+Malaugs Private Chambers~
+Inside these chambers is where Malaug came to meditate.  His spirit still
+appears here to teach those the many ways of The ShapeShifter.  
+~
+0 0 0
+D4
+~
+~
+0 0 93311
+S
+#93317
+Room of Mist~
+Filled with mist, the room makes one feeled relaxed, and calm.  The mist
+is strange for it seems to come out of thin air.  
+~
+0 0 0
+D3
+~
+~
+0 0 93314
+S
+#93318
+Room of Tribute~
+There are handpainted pictures all over the walls of various well known
+men and women in history, who were in fact ShapeShifters.  
+~
+0 0 0
+D1
+~
+~
+0 0 93314
+S
+#93319
+Room of The Shifter.~
+The First Shifter since the last war has come.  He stays here when he is
+not off destroying his enemies.  
+~
+0 0 0
+D2
+~
+~
+0 0 93314
+S
+#93320
+Dojo of the Samurai~
+Inside the Samurai Dojo are many large hand painted pictures of the
+legendary Samurai who have lived and served here.  The Dojo itself was made
+to train samurais in the legendary arts, and to make known the ancestry that
+they must honor.  There are exits in all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 93323
+D1
+~
+~
+0 0 93321
+D2
+~
+~
+0 0 93322
+D3
+~
+~
+0 0 93326
+D4
+~
+~
+0 0 93324
+D5
+~
+~
+0 0 93325
+S
+#93321
+Dojo Training room~
+In here is where Samurai come to hone their skills against the masters
+and each other.  They train at times for hours perfecting there fightstyles
+and use of the KaTana.  
+~
+0 0 0
+D3
+~
+~
+0 0 93320
+S
+#93322
+Resting Place of The Samurai~
+Here is where the samurai come to rest after adventures.  Meditating on
+the times past and healing themselves in the process.  
+~
+0 0 0
+D0
+~
+~
+0 0 93320
+S
+#93323
+A Hallway in The Dojo~
+Inside a long hallway there are many framed pictures of many samurai who
+lived in the past.  All who pass must honor them by bowing.  Doing so you
+are allowed to go on.  There is a strange portal up above you that swirls
+and shimmers pleasantly.  
+~
+0 0 0
+D0
+~
+~
+0 0 93327
+D1
+~
+~
+0 0 93328
+D2
+~
+~
+0 0 93320
+D3
+~
+~
+0 0 93329
+D4
+~
+~
+0 0 3001
+S
+#93324
+Upstairs in The Dojo~
+There are many antique objects displayed around the room dating back
+centuries from now.  The room itself is shaped like an oval with the flatter
+edges at the bottom and top.  
+~
+0 0 0
+D5
+~
+~
+0 0 93320
+S
+#93325
+Downstairs in The Dojo~
+The walls are filled with pictures of battles drawn by hand.  The
+pictures show the samurais leading the attack and destroying there foes with
+ease.  The samurai lineage is drawn in one corner leading up to the great
+Usagi Yojimbo.  
+~
+0 0 0
+D4
+~
+~
+0 0 93320
+S
+#93326
+Meeting Chambers of The Samurai~
+Inside the meeting chambers is where samurai come and sit down and talk
+or discuss battle plans.  Being a group of warriors the meeting chambers is
+always filled with samurais arguing over what to do in the next battle.  
+~
+0 0 0
+D1
+~
+~
+0 0 93320
+S
+#93327
+Room of Meditation~
+There are several cusions on the ground where samurais sit and meditate. 
+This is a timely ritual that all samurais perform.  
+~
+0 0 0
+D2
+~
+~
+0 0 93323
+S
+#93328
+Room of Relaxing~
+#0The room is itself like a #ggarden, #0painted #ggreen, #obrown #0then
+#Cblue #0for the #Cskys#0, with scattered #nclouds.  #n 
+~
+0 0 0
+D3
+~
+~
+0 0 93323
+S
+#93329
+Training Room~
+~
+0 0 0
+D1
+~
+~
+0 0 93323
+S
+#93330
+The 666th Layer of the Abyss~
+The Abyss is closing in around you.  You see ugly creatures wondering
+around here with you.  Each more ugly then the last.  You should try to
+leave before on of them make you thier Bitch.  
+~
+0 0 0
+D0
+~
+~
+0 0 93331
+D1
+~
+~
+0 0 93333
+D2
+~
+~
+0 0 93332
+D3
+~
+~
+0 0 93334
+D4
+~
+~
+0 0 93336
+D5
+~
+~
+0 0 93335
+S
+#93331
+Learning yourself~
+A Tanar'ris never ending quest to destroy their enemies will never be
+fullfilled if they do not know themself..  
+~
+0 0 0
+D2
+~
+~
+0 0 93330
+S
+#93332
+Sparring Chamber~
+Tanar'ris come in here to fight and train their abilities become stronger to fight the enemies that are everywhere.
+~
+0 0 0
+D0
+~
+~
+0 0 93330
+S
+#93333
+Know your Enemy~
+To know ones enemy you must learn as much as you can from those aruond you and from the enemys prior actions. Here is where the tanar'ri discuss this.
+~
+0 0 0
+D3
+~
+~
+0 0 93330
+S
+#93334
+Chamber of Blood~
+There is a fountain in here gushing blood everywheres.  While you are walking around demons come in and start to devour the blood like it is candy.
+~
+0 0 0
+D1
+~
+~
+0 0 93330
+S
+#93335
+VoID~
+~
+0 0 0
+D0
+~
+~
+0 0 3001
+D4
+~
+~
+0 0 93330
+S
+#93336
+Throne of the Balor~
+The throne of Balor sits here for those who offer sacrifice.  
+~
+0 0 0
+D5
+~
+~
+0 0 93330
+S
+#93340
+The Gate to Heaven~
+Standing infront of the great gate, you wonder
+if you really have deserved hell... come here, perhaps
+God will find you unworthy and send you straight
+to hell... You shiver at the thought!
+~
+0 0 0
+D0
+~
+~
+0 0 93341
+D1
+~
+~
+0 0 93343
+D2
+~
+~
+0 0 93342
+D3
+~
+~
+0 0 93344
+D4
+~
+~
+0 0 93345
+D5
+~
+~
+0 0 93346
+S
+#93341
+Among the clouds~
+Winged beings flicker around you, all
+trying to get you to join their fun,
+Heaven is such a peaceful place, filled
+with harmony you wander on
+~
+0 0 0
+D2
+~
+~
+0 0 93340
+S
+#93342
+The Fridge~
+Entering the kitchen of Heaven, you find to
+angels arguing over what they should have for
+dinner.. the fridge is open.
+~
+0 0 0
+D0
+~
+~
+0 0 93340
+S
+#93343
+Some Puffy Clouds~
+that's all there are here, puffy clouds,
+get used to it dear.
+~
+0 0 0
+D3
+~
+~
+0 0 93340
+S
+#93344
+The Shrine~
+This is where the angels come to worship
+their beloved God, you can't help yourself
+and drop to your knees to worship the
+one and only.
+~
+0 0 0
+D1
+~
+~
+0 0 93340
+S
+#93345
+The great hall of God~
+The hall is filled with angels of all kinds,
+and out in the distance you can see a great
+throne, where God must be sitting.
+~
+0 0 0
+D5
+~
+~
+0 0 93340
+S
+#93346
+The basement~
+Inside the basement of Heaven you find a book
+named "the guidebook to devilworshipping"
+stashed in the corner.
+~
+0 0 0
+D4
+~
+~
+0 0 93340
+S
+#93350
+Caught in the Web~
+a giant web covers this chasm, there seems to
+be no way across besides waling on the spidery
+web... hope theres no spiders around.
+~
+0 0 0
+D0
+~
+~
+0 0 93351
+D1
+~
+~
+0 0 93354
+D2
+~
+~
+0 0 93352
+D3
+~
+~
+0 0 93353
+D4
+~
+~
+0 0 93355
+D5
+~
+~
+0 0 93356
+S
+#93351
+A drone chamber~
+The room is filled with pods, and little
+baby driders... hope the mommy is not around.
+~
+0 0 0
+D2
+~
+~
+0 0 93350
+S
+#93352
+Cybertronic store~
+A shopkeeper is selling cybernetic
+bodypieces to driders here, damn expensive too.
+~
+0 0 0
+D0
+~
+~
+0 0 93350
+S
+#93353
+A dark room~
+Can't see a thing in here
+~
+0 1 0
+D1
+~
+~
+0 0 93350
+S
+#93354
+Queens chamber~
+She's here, the goddamn almighty drider Queen,
+theres no way out now, she'll feed you to
+her little drider babys for sure.
+~
+0 0 0
+D3
+~
+~
+0 0 93350
+S
+#93355
+The dangling rope~
+The rope is still dangling down from the ceiling,
+so at least theres a way out... oh wait, is
+that a spider up there on the rope ?
+~
+0 0 0
+D5
+~
+~
+0 0 93350
+S
+#93356
+ARRGH!!!~
+Get out, get out, the room is creeping with
+the little pests.
+~
+0 0 0
+D4
+~
+~
+0 0 93350
+S
+#93360
+Chamber of The Magi~
+Here lies the memorial tombs for the magi who should have died long ago..
+But they changed themselves, for now they are the masters of necromancy, the
+undead warriors of magic, they are the Lich.  
+~
+0 0 0
+D0
+~
+~
+0 0 93363
+D1
+~
+~
+0 0 93361
+D2
+~
+~
+0 0 93364
+D3
+~
+~
+0 0 93362
+D4
+~
+~
+0 0 93365
+D5
+~
+~
+0 0 93366
+S
+#93361
+Necromancers Lair~
+Many Lich come here to associate with one another and plan out the many
+attacks that they do against the humans of the world.  
+~
+0 0 0
+D3
+~
+~
+0 0 93360
+S
+#93362
+Regeneration Room~
+The many Wounded Lich come here to heal themselves from their battle
+wounds..  The room is quiet which helps even more.  
+~
+0 0 0
+D1
+~
+~
+0 0 93360
+S
+#93363
+Necromancers Compete~
+Here the Lich come to battle it out.  Honing their skills to the very
+best to face the world of living.  
+~
+0 0 0
+D2
+~
+~
+0 0 93360
+S
+#93364
+Altar of Azalin~
+There is an altar filled with fuming organs and other sacrifices to the
+lord of Necromancy Azalin.  
+~
+0 0 0
+D0
+~
+~
+0 0 93360
+S
+#93365
+Chamber of Azalin~
+There is a throne set up on a pedestal for the necromancer Azalin.  You
+hear a humming sound as your eyes focus on him and his power.  
+~
+0 0 0
+D5
+~
+~
+0 0 93360
+S
+#93366
+Portal to the Real World~
+There is a large shimmering portal below you to the city of Midgaard.  
+~
+0 0 0
+D4
+~
+~
+0 0 93360
+D5
+~
+~
+0 0 3001
+S
+#93370
+The Plane of Limbo~
+You hear the planar winds tear at the fabric of existance,
+everything is utter chaos, and you can make no up
+or down in this madness.
+~
+0 0 0
+D0
+~
+~
+0 0 93371
+D1
+~
+~
+0 0 93374
+D2
+~
+~
+0 0 93376
+D3
+~
+~
+0 0 93373
+D4
+~
+~
+0 0 93372
+D5
+~
+~
+0 0 93375
+S
+#93371
+The howling of the planar winds~
+~
+0 0 0
+D2
+~
+~
+0 0 93370
+S
+#93372
+Chaos within the Chaos~
+d
+o
+w
+n
+~
+0 0 0
+D5
+~
+~
+0 0 93370
+S
+#93373
+Still before the Storm~
+~
+0 0 0
+D1
+~
+~
+0 0 93370
+S
+#93374
+The backyard~
+~
+0 0 0
+D3
+~
+~
+0 0 93370
+S
+#93375
+Bedchamber of The Faerie Queen~
+~
+0 0 0
+D4
+~
+~
+0 0 93370
+S
+#93376
+The Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 93370
+S
+#93400
+The Middle Of The Tower~
+You can hear people chanting unknown words all around you.  There is a
+feel to this place.  Something magical perhaps?  As you look around you, you
+see magicians everywhere trying to perfect thier spells.  Maybe they can
+help you.  
+~
+0 0 0
+D0
+~
+~
+0 0 93401
+D1
+~
+~
+0 0 93403
+D2
+~
+~
+0 0 93402
+D3
+~
+~
+0 0 93404
+D4
+~
+~
+0 0 93406
+D5
+~
+~
+0 0 93405
+S
+#93401
+The Alter~
+Many mages are here covered in blood.  The longer they stay here the less
+blood they are covered in.  This is very strange indeed.  This room must
+have some magical healing properties.  
+~
+0 0 0
+D2
+~
+~
+0 0 93400
+S
+#93402
+A Dark Room~
+Thier are candles everywhere in this room.  As your eyes adjust to the
+darkness you notice there is a pentagram on the ground with a stand in the
+middle.  As you look at the stand you see ancient runes on it.  
+~
+0 1 0
+D0
+~
+~
+0 0 93400
+S
+#93403
+The Battling Chamber~
+This is where mages come to practice thier battling skiils?  All you see
+are two mages looking at each other.  How could they be fighting?  Just then
+one of them struggles to catch his breath then falls over.  
+~
+0 4 0
+D3
+~
+~
+0 0 93400
+S
+#93404
+The Magic Circle~
+There are many magicians in here trying to perfect thier magic.  They
+seem to be glowing different colors each.  Anywheres from Purple to Yellow. 
+There seems to be something magical about this place.  
+~
+0 0 0
+D1
+~
+~
+0 0 93400
+S
+#93405
+Archmagus Kallidor Private Chambers~
+The Archmagus Kallidor is resting here on his thrown.  He sees mages
+everyday and tries to help them.  Kallidor is known around the world for his
+wisdom.  Maybe he can help you.  
+~
+0 2 0
+D4
+~
+~
+0 0 93400
+S
+#93406
+The Library~
+Each mage needs to do research on the field they want to study.  This is
+the place they go.  There are many books here to teach mages how to control
+thier power for good.  There is a book lying on the ground here.  Mages for
+dummies.  
+~
+0 0 0
+D5
+~
+~
+0 0 93400
+S
+#93410
+Inside The Monastary~
+There are monks walking around everywhere.  Trying to find the master or
+inner peace.  Someone people are here for revange.  To bad they will be sent
+away.  
+~
+0 0 0
+D0
+~
+~
+0 0 93411
+D1
+~
+~
+0 0 93413
+D2
+~
+~
+0 0 93412
+D3
+~
+~
+0 0 93414
+D4
+~
+~
+0 0 93416
+D5
+~
+~
+0 0 93415
+S
+#93411
+Meditation Center.~
+Monks are sitting cross-legged here meditating.  It is nice and quiet
+here maybe you should meditate too and try and find your inner peace.  
+~
+0 0 0
+D2
+~
+~
+0 0 93410
+S
+#93412
+Mantra's and techniques~
+This is where monks tell each other about thier fighting techniques to
+each other to try and strengthen thier numbers.  There are people here also
+teaching about mantras.  In the corner is a large gateway leading to the
+legendary city of midgaard.  If one is strong enough they may enter.  
+~
+0 0 0
+D0
+~
+~
+0 0 93410
+S
+#93413
+Practice Chamber~
+This is where monks go to raise thier fighting skills.  Right now two
+monks are fighting trying to improve with unarmmed abilities.  
+~
+0 0 0
+D3
+~
+~
+0 0 93410
+S
+#93414
+Abbot's Chamber.~
+This is where the great Abbot teachs people to becomes followers of truth
+and justice.  He knows all the ancient arts of fighting and is willing to
+teach them to worthy students.  
+~
+0 0 0
+D1
+~
+~
+0 0 93410
+S
+#93415
+A Secret Spring~
+It is nice and quiet in here.  The only sound is the trickling of the
+spring.  It is very relaxing.  When you are here your seem to be
+re-engergized.  
+~
+0 0 0
+D4
+~
+~
+0 0 93410
+S
+#93416
+Chamber Of Light~
+You are surrounded by a bright light almost unable to see anything. 
+There is a piece of paper in the center of the room covered in runes.  
+~
+0 0 0
+D5
+~
+~
+0 0 93410
+S
+#93420
+Hell~
+Billions of souls are wondering around this wasteland.  Screaming for
+freedom or from the pain they are inflicted with.  
+~
+0 0 0
+D0
+~
+~
+0 0 93421
+D1
+~
+~
+0 0 93423
+D2
+~
+~
+0 0 93422
+D3
+~
+~
+0 0 93424
+D4
+~
+~
+0 0 93425
+D5
+~
+~
+0 0 93426
+S
+#93421
+Bloody Grounds~
+Demons are fighting each other here trying to prove who is the strongest
+of them.  These demons are ugly.  Horns all over thier bodies.  Covered in
+scales.  Hundreds of eyes.  Maggots cover thier bodies.  
+~
+0 0 0
+D2
+~
+~
+0 0 93420
+S
+#93422
+The Demonic Alter~
+There is an alter here with a virgin female strapped to it.  She is
+screaming in pain as a black hooded figure tears at her flesh with a jagged
+knife.  All of a sudden he makes her not a virgin anymore.  
+~
+0 0 0
+D0
+~
+~
+0 0 93420
+S
+#93423
+Brimstone Caves~
+The smell of brimstone is so strong here it brings a tear to your eye. 
+There are more souls wondering around here too.  Trying to find freedom.  
+~
+0 0 0
+D3
+~
+~
+0 0 93420
+S
+#93424
+The 7th Layer Of Hell~
+This is where all the really bad souls have gone.  From rapists to
+murders to Tax collectors.  They are all here.  
+~
+0 0 0
+D1
+~
+~
+0 0 93420
+S
+#93425
+Satan's Throne~
+The master of evil himself Satan is standing here laughing at all the
+pain and suffering he is causing.  Just then a soul comes in and asks to be
+let go.  Satan grabs the soul and devours it.  There is a gate where those
+who are strong enough to defeat satan may use to exit this hell for one more
+chance at life...  
+~
+0 0 0
+D5
+~
+~
+0 0 93420
+S
+#93426
+The River Of Blood~
+The river of blood can be seen as far as the eye can see.  You hear
+screams of pain in the distance.  Fire is being shoot out of the river and
+the smell of brimstone is very strong.  
+~
+0 0 0
+D4
+~
+~
+0 0 93420
+S
+#93430
+The Fenris Caves~
+The power of the werewolf is very strong here.  You see your people going
+into a rage just standing here.  Gaia must be very close.  
+~
+0 0 0
+D0
+~
+~
+0 0 93431
+D1
+~
+~
+0 0 93433
+D2
+~
+~
+0 0 93432
+D3
+~
+~
+0 0 93434
+D4
+~
+~
+0 0 93436
+D5
+~
+~
+0 0 93435
+S
+#93431
+Sparring Room~
+This is where werewolves go to spar against each other.  They spar
+against each other trying to get stronger so they can better protect mother
+earth.  
+~
+0 0 0
+D2
+~
+~
+0 0 93430
+S
+#93432
+Mother Earth~
+This is werewolves go to learn about earth and how to protect it.  There
+are ancient werewolves present teaching pupp's all they know.  
+~
+0 0 0
+D0
+~
+~
+0 0 93430
+S
+#93433
+A Tribute to Gaia~
+There is a giant statue here dedicated to Gaia.  Your people are here
+worshipping the the statue.  As you stand here and watch them they start to
+glow.  Gaia must be giving her worshippers more power, maybe you should
+worship some too.  
+~
+0 0 0
+D3
+~
+~
+0 0 93430
+S
+#93434
+Into The Woods~
+Outside of the caves you are standing in a forested area.  There are
+animals everywhere.  Just being out here seems to lower your rage.  It
+smells to nice and is relaxing out here.  
+~
+0 0 0
+D1
+~
+~
+0 0 93430
+S
+#93435
+Calm Before The Storm~
+Werewolves are teaching pupp's how to submit to the rage instead of
+fighting it.  You need to submit to it or it could tear you appart.  Submit
+to the rage or the rage will destroy.  
+~
+0 0 0
+D4
+~
+~
+0 0 93430
+S
+#93436
+Eye Of The Beast~
+This is where werewolves go to learn how to focus thier rage into making
+themself stronger.  Each werewolf must learn how to rage.  But not all
+werewolves master this power.  In the corner there is a huge eye.  Large
+enough to fit a full grown WereWolf.  It shimmers for a second and becomes
+transparent then solid then translucent, then hardens once again.  
+~
+0 0 0
+D0
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 93430
+S
+#93440
+Underground~
+The drow lives far underground.  Because of thier horrid features they
+were shunned by the elven race forced to live down here and worship Lloth.  
+~
+0 0 0
+D0
+~
+~
+0 0 93444
+D1
+~
+~
+0 0 93441
+D2
+~
+~
+0 0 93443
+D3
+~
+~
+0 0 93442
+D4
+~
+~
+0 0 93445
+D5
+~
+~
+0 0 93446
+S
+#93441
+Darkness~
+It is pitch black ...
+~
+0 0 0
+D3
+~
+~
+0 0 93440
+S
+#93442
+Alter of Lloth~
+Lloth is resting here listening to her followers pleas for freedom.  She
+starts to laugh at a new drow who has just arrived and turns him into a
+spider.  What a horride fate.  
+~
+0 0 0
+D1
+~
+~
+0 0 93440
+S
+#93443
+Onto the web~
+Drows come here to work on thier endurance as first look it is a spider
+web.  But on a closer inspection thier are spiders crawling all over
+attacking the other drows here.  At the top is a great prize.  
+~
+0 0 0
+D0
+~
+~
+0 0 93440
+S
+#93444
+Spider Chamber~
+Drow come here to learn more about thier spider half.  Even though drow
+are part spider that does not mean they know everything about spiders.  Each
+drow knows something the other doesnt so they often come here and share.  
+~
+0 0 0
+D2
+~
+~
+0 0 93440
+S
+#93445
+Dark elf chamber~
+Dark elves or Drow which they are now more commonly known as once lived
+on the surface world with the other elves.  After losing the war with the
+elves they were banished here.  Only the oldest drow remember the war.  
+~
+0 0 0
+D5
+~
+~
+0 0 93440
+S
+#93446
+Home of Lloth~
+This is Lloth's home.  There are cobwebs everywhere.  At first it looks
+like they are just placed randomly.  On a closer inspection they webs make
+furniture, She must be very talented In the corner covered by cobwebed
+furniture there is a huge portal leading to the city of midgaard.  
+~
+0 0 0
+D1
+~
+~
+0 0 3001
+D4
+~
+~
+0 0 93440
+S
+#93450
+Temple of Blood~
+You are standing outside of a temple covered in blood.  You see people
+walking into it, and bats flying out.  The scream of thousands can be heard
+on the inside.  
+~
+0 0 0
+D0
+~
+~
+0 0 93451
+D1
+~
+~
+0 0 93453
+D2
+~
+~
+0 0 93452
+D3
+~
+~
+0 0 93454
+D4
+~
+~
+0 0 93456
+D5
+~
+~
+0 0 93455
+S
+#93451
+Combat Chamber~
+Vampires are standing here in thier choosen combat stances.  Thier claws
+and fangs extended.  Thier dont seem to be trying to improve each other
+skills so much as killing each other.  You stay clear.  
+~
+0 0 0
+D2
+~
+~
+0 0 93450
+S
+#93452
+Alter of blood~
+Immtalk nod Blood is flowing all through this room.  The smell of blood
+is almost enough to make your beast gain control.  As you are fighting back
+your beast you see vampires feasting on the blood from the alter.  
+~
+0 0 0
+D0
+~
+~
+0 0 93450
+S
+#93453
+Caine's Chamber~
+The is a very old vampire in this room reading books.  Some say he is the
+first vampire.  Others say he killed the oldest vampire and gained his
+powers.  No one knows for sure and no one wants to find out either.  There
+is a large doorway to the south leading out to the city of midgaard.  
+~
+0 0 0
+D2
+~
+~
+0 0 3001
+D3
+~
+~
+0 0 93450
+S
+#93454
+Golconda~
+Golconda is when a vampire regains all thier humanity.  Making thier
+beast drop to 0 so they are in control of thier life again.  While the
+vampire race was younger there was advantages of gaining golconda but that
+bonus seems to have died out.  
+~
+0 0 0
+D1
+~
+~
+0 0 93450
+S
+#93455
+The beast~
+Some vampires try to fight thier beast to become more human.  Other
+vampires like the destructive forces of thier beast.  They do all they can
+to make thier beast gain control.  This vampires are very dangerous.  
+~
+0 0 0
+D4
+~
+~
+0 0 93450
+S
+#93456
+Discipline~
+In the olden days when vampires were in clans they got powers for being
+in certain clans instead of having to learn them themselves.  Those days are
+gone.  Each vampire starts with nothing except for thier fangs.  Vampires
+are here teaching you how to learn and use your disciplines.  You should
+listen to them.  
+~
+0 0 0
+D5
+~
+~
+0 0 93450
+S
+#93460
+Outside the Ninjitsu encampment~
+You see black shapes fly past you.  They go by so quick your not even
+sure you saw anything at all.  Just then thousands of weapons of every size
+and shape fly at you.  You must have found the secret ninja camp.  
+~
+0 0 0
+D0
+~
+~
+0 0 93461
+D1
+~
+~
+0 0 93463
+D2
+~
+~
+0 0 93462
+D3
+~
+~
+0 0 93464
+D4
+~
+~
+0 0 93466
+D5
+~
+~
+0 0 93465
+S
+#93461
+Assassin Guild~
+Ninja's are here drinking and sharing thier stories about killing.  Some
+ninja's poison thier weapons.  You wonder if that might help you in your
+battling skills.  
+~
+0 0 0
+D2
+~
+~
+0 0 93460
+S
+#93462
+Sneaking and hiding~
+It is said if a ninja does not want to be seen he wont be.  They are
+masters of hiding and sneaking.  They can kill you 10 times before you hear
+a thing.  
+~
+0 0 0
+D0
+~
+~
+0 0 93460
+S
+#93463
+Backstab~
+Ninja's are masters of backstabing.  They do this often to kill thier
+prey.  Never trust a ninja or they might backstab you.  
+~
+0 0 0
+D3
+~
+~
+0 0 93460
+S
+#93464
+Principles~
+Old ninja masters are here teaching new ninja how to use thier principles
+to thier full potential.  These old ninja's know what they are talking about
+you should listen to them.  
+~
+0 0 0
+D1
+~
+~
+0 0 93460
+S
+#93465
+Secret Chamber~
+Not only are ninja's master of hiding but they are masters of hiding
+things.  This is one of thier secret rooms where they hide them weapons for
+easy access.  There are swords and daggers lying everywhere.  In the midst
+of all this is a large stone gateway leading to some city far away.  
+~
+0 0 0
+D3
+~
+~
+0 0 3001
+D4
+~
+~
+0 0 93460
+S
+#93466
+Sparring Chamber~
+This isnt as much of a sparing chamber as it is a killing chamber.  When
+ninja's fight they fight for real and to the end.  Becareful before you
+challenge one.  
+~
+0 0 0
+D5
+~
+~
+0 0 93460
+S
+#93470
+The Kitchen~
+This is the ancient kitchen were hobbits are
+taught the art of cooking, the master chef
+stands here, ready to educate young hobbits.
+~
+0 0 0
+D0
+~
+~
+0 0 93471
+D1
+~
+~
+0 0 93473
+D2
+~
+~
+0 0 93472
+D3
+~
+~
+0 0 93474
+D4
+~
+~
+0 0 93476
+D5
+~
+~
+0 0 93475
+S
+#93471
+The Watermill~
+~
+0 0 0
+D2
+~
+~
+0 0 93470
+S
+#93472
+General Store~
+~
+0 0 0
+D0
+~
+~
+0 0 93470
+S
+#93473
+Playgrounds~
+~
+0 0 0
+D3
+~
+~
+0 0 93470
+S
+#93474
+The hillside~
+~
+0 0 0
+D1
+~
+~
+0 0 93470
+S
+#93475
+The Den of Joy~
+~
+0 0 0
+D4
+~
+~
+0 0 93470
+S
+#93476
+The chill-out room~
+~
+0 0 0
+D5
+~
+~
+0 0 93470
+S
+#0
+
+
+
+#SPECIALS
+M 93301 spec_cast_mage
+M 93310 spec_cast_mage
+M 93320 spec_cast_mage
+M 93420 spec_eater
+S
+
+
+
+#RESETS
+M 0 93301 1 93300
+O 0 93300 0 93307
+M 0 93310 1 93311
+O 0 93310 0 93313
+M 0 93320 1 93320
+M 0 93330 1 93336
+O 0 93330 0 93336
+M 0 93340 1 93345
+M 0 93350 1 93354
+O 0 93360 0 93364
+M 0 93360 1 93365
+M 0 93470 1 93370
+M 0 93400 1 93405
+M 0 93401 1 93414
+M 0 93402 1 93425
+M 0 93403 1 93430
+M 0 93405 1 93442
+M 0 93404 1 93453
+M 0 93406 1 93460
+M 0 93370 1 93470
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
