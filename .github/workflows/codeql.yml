@@ -40,6 +40,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
+    - name: Install Dependencies
+      if: ${{ matrix.language == 'cpp' }}
+      run: >
+        sudo apt-get update && sudo apt-get install ccache build-essential
+        
     # Initializes the CodeQL tools for scanning.
     - name: Initialize CodeQL
       uses: github/codeql-action/init@v2
